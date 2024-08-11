@@ -19,13 +19,24 @@ Para abrir la documentación es necesario seguir estos pasos:
 
 ## Desplegar en local la documentación
 
-Para desplegar la documentación en local es necesario copiar y pegar este comando en la consola del editor de código.
+Copia y pega este comando en la consola del editor de código:
 
 ```py
 python -m mkdocs serve -w overrides
 ```
 
+*Recuerda que para pegar este comando solo necesitas hacer **click con el botón derecho en la terminal*.
+
+
 ## Publicar la documentación
 
-Content
+1. Dale al botón de `Control de código fuente`.
 
+    ![readme guardar](./docs/assets/images/readme-guardado.png)
+
+2. Escribe el mensaje de guardado para registrarlo en el histórico de cambios
+
+    ![readme mensaje](./docs/assets/images/readme-mensaje-captura.png)
+
+
+3. Selecciona el botón de `confirmación`
