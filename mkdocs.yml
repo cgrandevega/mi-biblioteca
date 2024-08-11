@@ -44,17 +44,6 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
-
-# Sorting menu pages
-nav:
-    - Home: 'index.md'
-    - Getting started: 'getting-started.md' # getting started
-    - About:
-      - License: 'about/license.md'
-      - External links: 'about/external-links.md'
-      - Changelog: 'about/changelog.md'
-
-
 # Extensions
 markdown_extensions:
   - abbr
