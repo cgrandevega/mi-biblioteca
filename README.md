@@ -19,7 +19,11 @@ Para abrir la documentación es necesario seguir estos pasos:
 
 ## Desplegar en local la documentación
 
-Content
+Para desplegar la documentación en local es necesario copiar y pegar este comando en la consola del editor de código.
+
+```py
+python -m mkdocs serve -w overrides
+```
 
 ## Publicar la documentación
 
