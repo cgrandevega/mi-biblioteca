@@ -1,6 +1,6 @@
-site_name: My Biblioteca
+site_name: Mi Biblioteca
 site_description: Mi biblioteca personal con notas de libros, artículos o disciplinas.
-repo_url: https://github.com/cgrandevega/my-biblioteca
+repo_url: https://github.com/cgrandevega/mi-biblioteca
 site_author: cgrandevega
 
 # Configuration
@@ -57,6 +57,7 @@ nav:
 
 # Extensions
 markdown_extensions:
+  - abbr
   - admonition            # Block elements
   - pymdownx.details      # Collapsible call-outs
   - pymdownx.superfences  # Nested elements
@@ -71,6 +72,7 @@ markdown_extensions:
 plugins:
   - search
   - markdownextradata
+  - awesome-pages
 
 # css
 extra_css:
