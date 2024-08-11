@@ -34,9 +34,11 @@ python -m mkdocs serve -w overrides
 
     ![readme guardar](./docs/assets/images/readme-guardado.png)
 
-2. Escribe el mensaje de guardado para registrarlo en el histórico de cambios
+2. Escribe el mensaje de guardado para registrarlo en el histórico de cambios y pulsa el botón de `confirmación`.
 
     ![readme mensaje](./docs/assets/images/readme-mensaje-captura.png)
 
 
-3. Selecciona el botón de `confirmación`
+3. Pulsa el botón de `Sincronizar cambios`.
+
+    ![readme sincronizar cambios](./docs/assets/images/readme-sincronizar-cambios.png)
