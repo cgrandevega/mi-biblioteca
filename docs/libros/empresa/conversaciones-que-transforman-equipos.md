@@ -290,3 +290,255 @@ La conversación de límites tiene por objetivo **hacer ver al equipo que se ha 
 
 **Es una conversación en la que el tono y el lenguaje corporal son especialmente importantes** para transmitir el carácter de gravedad que supone llegar a ese punto. Sin embargo, **no es, ni puede ser una reprimenda, un reproche o una amenaza.** Es una conversación sobre un incumplimiento reiterado que necesita ser analizado desde otro lugar ya que la reorientación no parece ser suficiente. ¿Qué es lo que ocurre que acordamos algo y no lo cumplimos, incluso después de plantearnos el incumplimiento en dos conversaciones diferentes?
 		
+| Plantear | Explorar | Acordar |
+|-|-|-|
+|Recordar la expectativa inicial y la fecha en que se planteó|¿Dónde está el problema, los obstáculos para que esto ocurra?|Los cambios necesarios para que no se produzcan situaciones de incumplimiento reiterado.|
+|Recordar las dos conversaciones de reorientación: fechas y acuerdos adoptados|¿Qué nos lleva a aceptar compromisos que luego no cumplimos?| |
+|Compartir las consecuencias personales para el equipo para la organización etc.|¿Qué necesitamos cambiar para que no nos ocurran estas situaciones?| |
+|Mostrar evidencias en el nuevo incumplimiento.| | |
+
+Según las características del equipo y sus dinámicas habituales cabe la posibilidad de que esta conversación **derive hacia la búsqueda de culpables externos:** “no se ha podido hacer porque otro departamento no ha hecho su parte”, “nunca disponemos de los recursos que nos prometen”, etcétera.
+
+**También los culpables pueden buscarse en el propio equipo:** “algunas personas del equipo no se comprometen en el nivel necesario”, “no nos defiendes bien en otras esferas de la organización y tenemos que aceptar compromisos que sean imposibles de cumplir”, etcétera
+
+### Conversaciones para realizar peticiones
+
+En ocasiones la petición la planteamos al equipo en su conjunto, pero lo hacemos para que algunas personas se ofrezcan para llevarla adelante. Lo que tenemos que **evitar es hacer ese tipo de petición cuando tenemos en mente qué personas queremos que la recojan.** En estos casos, utilizar el equipo lo perjudica, lo convierte en un foro que pretendemos se comporte según nuestros intereses. Si llevamos una petición de este tipo al equipo ha de ser **para que este sea protagonista de su decisión estando abierto a cualquiera que esta sea.**
+
+**Pedir es un proceso de conversaciones que empieza por la creación de contexto.** Es el momento de explicar qué nos lleva a realizar esa petición, cuál es su sentido, a qué contribuye su realización.
+
+La diferencia esencial entre pedir y ordenar es que **en el primer caso aceptamos el no por respuesta,** aunque no nos guste.
+
+Sin embargo, **hay ocasiones en el que el “no” no es una opción.** Por ejemplo, termina el plazo para la solicitud de una subvención importante y es necesario que todo el equipo deje lo que tenga entre manos para poder llegar a tiempo. **Lo habitual no es ordenar al equipo que se comporte así sino pedirle que lo haga.**
+
+Cuando dedicamos unos momentos a contextualizar enviamos un mensaje de respeto al equipo. No es un mero brazo ejecutor sino personas que merecen una mínima explicación.
+
+**Tras el contexto viene la formulación de la petición.** Es clave ser claros en lo que pedimos concretando los detalles los requerimientos para que sintamos que sea realizado adecuadamente.
+
+Un requerimiento especialmente significativo en cualquier petición es el plazo para realizarla. Vaguedades como “en cuanto puedas”, “lo más rápido posible”, “cuando tengas un rato” etc. llevan con facilidad que quienes asumen la petición la interpreten de una manera opuesta a la que quien la realizó.
+
+**La petición no termina cuando se realiza.** Lo que se pone en marcha es la aceptación por la otra parte coma el compromiso de cumplimiento.
+
+El sí está sobrevalorado con frecuencia estamos tan deseosos que damos un significado que no tiene a frases como: “vale nos ponemos a ello”, “si es lo que hay que hacer…”
+
+No busques el sí, es mucho más útil buscar el no. Cuando el equipo responde demasiado rápido de manera afirmativa, o el acuerdo se hace por asentimiento, nadie se opone, busca el no: haz preguntas como: “¿qué podría hacer que esto que acordamos no se llevará a la práctica? o ¿dónde están los obstáculos para que podamos cumplir o que estamos acordando?
+
+Cuando estamos ante temas en los que es esencial lograr un compromiso que lleve la máxima posibilidad de realización de lo acordado, **es bueno dar un plazo para que el equipo analice y reflexione y se posicione.** “No respondáis ahora, aunque os parezca claro. Analizadlo darle una vuelta a los problemas y dificultades y en media hora os vuelvo a plantear el tema. No quiero un sí fácil sino un compromiso para lograrlo sorteando las dificultades que sin duda hay”.
+
+### Conversaciones para dar malas noticias
+
+Cuando damos una mala noticia, no expresamos una opinión, informamos de un acuerdo adoptado o de un acontecimiento qué ha ocurrido. En muchos casos somos el mensajero, en otros además de trasladar la decisión hemos formado parte de ella. Sin embargo, en el momento de conversar con el equipo sobre la mala noticia, nuestra posición es la del mensajero. No vamos a abrir un debate sobre nuestra posición o nuestra capacidad de influencia en el lugar en el que se tomó la decisión. La tomaron quienes estaban legitimados para ello y poco más hay que hablar al respecto.
+
+**No hay manera de convertir en buena una mala noticia, aunque sí algunas maneras de dar las que son mejores que otras.** Veamos cómo enfocarlo:
+
+•	Lugar adecuado. Mejor en donde el equipo se reúna habitualmente y a poder ser sentados.
+
+•	A veces empezar preguntando qué información les ha llegado. Lo principal es ir sin rodeos la mínima introducción necesaria. Primero las malas noticias luego las explicaciones necesarias.
+
+•	Explica el tema con claridad y sencillez: esto es lo que sucede este es el plan y están las consecuencias previsibles evita expresar tus opiniones.
+
+•	Explica cómo se tomó la decisión. No esperes que todo el equipo lo entienda ni intentes convencerles. Hay una parte emocional en la recepción de una mala noticia que no responde a argumentos racionales.
+
+•	Vete preparado para todo tipo de respuestas. Recuerda que no va a ser útil entrar al debate o a la justificación.
+
+•	A evitar:
+o	Cuidado con la compasión cuanto lo siento ojalá no tuviera que decir esto o frases como no os preocupéis...
+o	No des falsas esperanzas plantea solo aquello que es seguro.
+o	No minimices la mala noticia.
+o	El centro son las otras personas no tú. Olvídate de quedar bien de que entiendan cómo te sientes tú.
+
+•	Se profundamente humano muestra comprensión. Puede ser útil que preguntes ¿qué os preocupa?, ¿qué teméis? Ayudarles a que verbalicen, lo exterioricen, lo saquen fuera. Dales tiempo para que se desahoguen y para que integren la noticia. Permite el desahogo, pero no el debate.
+
+•	Hay momentos en que la mejor acción es el silencio.
+
+•	Reformula. Ayudarles a convertir su miedo y lo negativo en una historia de cambio.
+
+•	Muestra confianza en que pueden afrontar lo que sucede.
+
+•	Sé muy respetuoso con sus tiempos sus necesidades y sus estados de ánimo.
+
+•	Ayudarles a ver más allá de su realidad actual y a dar un sentido a la mala noticia que han recibido.
+
+•	Orienta su mente a las soluciones punta una forma es trocear el problema en pequeñas partes.
+
+•	Muéstrale las cosas que no son capaces de ver: aspectos positivos de cómo están afrontando la noticia situaciones duras anteriores que supieron afrontar y superar ETC desarrolla su determinación ayudarles a luchar a creer que pueden superar lo que les ocurre.
+
+•	Ofrece tu ayuda en la medida en que esté en tu mano.
+
+•	Cierra la conversación transmitiendo esperanza.
+
+•	Permanece al lado del equipo.
+
+## Capítulo 6: Conversaciones rituales
+
+## Capítulo 7: Liderazgo y conversaciones que transforman al equipo
+
+En otras ocasiones, **el equipo está con la cabeza tan metida la tarea que pierde perspectiva,** se desconecta de su propósito, no tiene claridad sobre la vinculación de su trabajo con los objetivos o el rumbo de la organización. Y eso le hace perder energía fuerza. Se siente, pero no se habla. Incluso se vive, pero no se llega a tomar consciencia de ello.
+
+Pueden ser percepciones de desequilibrio en la distribución de las tareas del equipo. O la sensación de que no está claro cómo se toman las decisiones en el equipo, etcétera. Temas que en ocasiones sí ocupan parte de las conversaciones del equipo, pero no en el equipo. Son cosas que se comentan tomando un café con las personas más afines o fuera del propio equipo. En lugares en los que esa conversación no permite gestionar la situación, más allá de la descarga emocional que pueda suponer o la agradable sensación de compartir con personas que piensan como tú.
+
+Cualquier persona del equipo podría plantear estas conversaciones, pero sin embargo una característica específica de quien lidera es ser un generador de conversaciones que ayuden al equipo a desarrollarse y crecer para alcanzar niveles de alto rendimiento.
+
+Quien lidera el equipo está en la mejor posición para poder mirarlo con cierta perspectiva. De la misma manera es quien mejores condiciones tiene para facilitar que el equipo se detenga durante un rato para tener esa conversación que necesita.
+
+### Conversaciones que transforman los equipos
+
+Tipos de conversaciones:
+
+1.	Conversaciones de autodiagnóstico.
+a.	¿Cómo somos como equipo?
+b.	¿En qué momento estamos?
+c.	¿Qué necesitamos cuidar y que cambiar?
+
+2.	Conversaciones para el alineamiento
+a.	¿Cuál es nuestro propósito?
+b.	¿A qué contribuye nuestro trabajo más allá de nuestra tarea?
+c.	¿Y esa tarea cuál es?
+d.	¿Que nos gustaría que nos caracterizara como equipo dentro de unos años? 
+e.	¿Qué resultados quisiéramos que nos identificaran?
+f.	¿Cómo quisiéramos que en ese tiempo nos valoran nuestros clientes otros equipos o la dirección?
+g.	¿Qué equipo quisiéramos ser en unos años?
+
+3.	Conversaciones en torno a la organización de la tarea
+a.	¿Tenemos claras nuestras funciones en el equipo?
+b.	¿Consideramos equilibrada la carga de trabajo?
+c.	¿Hay algo que hacemos con mi equipo que no aporta valor a la tarea que tenemos que realizar?
+d.	¿Podríamos hacer algo que no hacemos para aportar más valor?
+e.	¿Tenemos presentes todos los roles que hacen a un equipo más eficiente?
+f.	¿Somos claros adoptando decisiones y asignando responsabilidades?
+g.	¿Somos claros haciendo el seguimiento de esos acuerdos?
+
+4.	Conversaciones en torno a las relaciones
+a.	¿Sentimos la confianza suficiente como equipo?
+b.	¿hay algo que podamos hacer para aumentarla?
+c.	¿Que necesitamos cada 1 del resto para sentirnos más confiados y sentir más confianza?
+d.	¿Cómo gestionamos los conflictos?
+e.	¿Cuáles son nuestras toxinas favoritas cuando la emoción nos atrapa en un contexto de conflicto?
+f.	¿Que nos ayudaría individualmente y como equipo para afrontar mejor los conflictos?
+
+5.	conversaciones sobre la forma de conversar en el equipo
+a.	¿Participamos de manera equilibrada en las conversaciones?
+b.	¿En qué medida se nos sentimos escuchados?
+c.	¿Qué podría ayudarnos a sentirnos más escuchados en el equipo?
+d.	¿Hablamos más de nosotros o de otras personas?
+e.	¿Proponemos más que indagamos o viceversa?
+f.	¿Hablamos en positivo tiene mucho peso lo negativo en nuestras conversaciones?
+g.	¿Hablamos asumiendo nuestra responsabilidad o lo hacemos más desde una posición de víctimas?
+
+### Claves para facilitar las conversaciones que transforman al equipo
+
+Ser un líder generador de conversaciones **es condición necesaria pero no suficiente.** Además de generarlas es necesario saber facilitarlas, liderar las de una forma que permita al equipo hacerse protagonista y para ello quien lidera ha de saber cambiar el lugar que ocupa en el equipo. No consiste en abandonar el que tiene algo que tampoco podría hacer, aunque quisiera sino un lugar en el que bajar el volumen de algunas maneras de hacer y poner en primer plano otras.
+
+Una posición que podríamos denominar de líder coach y que va a resultar mucho más difícil de ejercitar en estas conversaciones si no es un estilo que impregna al conjunto del hacer de la persona que lo ejerce.
+
+#### La confianza
+Es un concepto con diversas caras. La que aquí resulta más significativa se refiere a **la convicción de que puedes expresar lo que piensas sin que lo que digas pueda ser utilizado en tu contra,** sin que pueda generarte perjuicios por haberlo hecho. Hoy lo que podemos denominar seguridad psicólogo. Y esta confianza se construye día a día y en todo tipo de conversaciones.
+
+Hay otras vertientes de la confianza, la confianza en que cuando alguien del equipo o el equipo asume un compromiso se va a hacer cargo plenamente de él. O la confianza en la capacidad profesional del equipo para sacar adelante los retos que se planteen. O la confianza en que las personas del equipo se van a expresar con honestidad sin mentiras o maniobras por la espalda etcétera.
+
+#### Mostrar la propia vulnerabilidad
+
+Una de las estrategias para cultivar la confianza es **ser capaz de expresar sus dudas sus temores y hablar de sus errores**. Es decir cosas que pudieran ser utilizadas en su contra. Todo ello a la vez que se cuida y evita exponerse de una manera exagerada.
+
+#### Respeto
+
+Muy vinculado a la confianza tenemos el concepto de respeto. **Como el líder has de ser el mejor ejemplo de respeto hacia quienes opinan diferente.** El mejor ejemplo mostrando cómo se pueden expresar opiniones divergentes respetando a la persona a la que te diriges. La falta de respeto impacta la seguridad psicológica, en la confianza.
+El respeto ha de ser algo presente en la vida diaria del equipo no solo en una conversación puntual. Como líder has de ser generador de respeto y un vigilante del respeto en el equipo.
+
+#### Mente abierta
+
+Vinculado con el respeto a las opiniones divergentes incluso contrarias existe otro aspecto que ayuda a moverse del lugar: una mente abierta. Una actitud que se manifiesta en **plantear nuestras opiniones como hipótesis y no como certezas y dispuesto a escuchar para entender otros puntos de vista.** Esta mente abierta la podemos reconocer cuando quien lidera la conversación:
+
+**No entra a explicar o justificar su manera de hacer cuando alguien dice algo que puede entenderse como una crítica a su desempeño como líder.**
+
+No utiliza expresiones del tipo “eso no es así” y en cambio se le escucha a otras como “explica algo más sobre cómo has llegado a esa conclusión”.
+
+Plantea sus opiniones con frases como: “desde mi punto de vista”, “tal y como yo lo veo”, etcétera
+No interviene constantemente para dejar claro su punto de vista sino que deja fluir la conversación.
+
+#### Plantea preguntas
+
+Otra forma de cambiar de lugar y también de manifestar esa mente abierta es planteando más preguntas que respuestas.
+Inspirándonos en Edgar H. Schein Podemos identificar 12 claves del buen preguntar que contribuyen a ocupar ese lugar favorecedor de nuevas conversaciones transformadoras:
+
+•	Preguntar para tratar de entender al otro no para rebatir su punto de vista: no te parece que si lo que dices tuviera fundamento hace tiempo que otros lo habrían puesto en marcha.
+
+•	No utilizan las preguntas para expresar tu propio punto de vista: creéis que respondieron así porque su verdadera intención era dinamitar la negociación.
+
+•	No preguntar para obtener la respuesta que deseas: cómo lo veis yo creo que es claramente mejor la primera opción no.
+
+•	Hacer preguntas que se interesen no solo por los datos. Por ejemplo posibilidades ideas sentimientos: cómo se afecta esa decisión cómo sentís al escuchar esto cómo podríamos responder.
+
+•	Utilizar preguntas que se preocupen también por las consecuencias o los impactos de las cosas no solo por los resultados: en qué forma hemos contribuido a lo ocurrido a quien más puede afectar esta decisión.
+
+•	Evitar las preguntas irónicas: creéis que hay algún equipo capaz de entregar el pedido con más retraso que nosotros.
+
+•	Realizar preguntas abiertas que lleven a pensar o reflexionar antes de responder punto que no se pueden responder con un sí o un no.
+
+#### Las emociones
+
+Las conversaciones que transforman, las conversaciones sobre lo que realmente importa al equipo **son conversaciones que nos conectan con nuestras emociones** y en ocasiones esas emociones se desbordan en la conversación. Tenemos que saber darles cauce. No tratar de acallarlas sino ponerles palabras; **darles espacio** para poder fluir de aquellas que paralizan no hacen daño al equipo hacia otras que lo empoderan y le dan energía para seguir adelante.
+
+**El principal detector de esas emociones es el cuerpo de uno mismo.** Escucharnos a nosotros mismos es una magnífica puerta para escuchar las emociones del equipo: siento que nos hemos bloqueado en este tema y me genera frustración y rabia le pasa a alguien más. Mostrando nuestra emoción abrimos la puerta a la expresión de las emociones de los demás. Preguntando por la emoción mostramos que también es un ámbito sobre el que podemos hablar.
+
+#### Trabajar con los emergente
+
+**Abrirnos a las emociones puede hacer que surjan temas que no estaban previstos.** Esto nos plantea otra característica que necesitamos desarrollar para facilitar conversaciones transformadoras: trabajar con los emergente.
+
+**Hemos de aprender a trabajar con esos temas que no teníamos previstos** pero que el equipo necesita abordar: “Perdonadme un momento, tengo la sensación de que hemos mencionado algo importante algo que nos ha tocado la mayoría ¿os parece que hablemos de ello”.
+
+#### Mapa de ruta.
+Un mapa de ruta nos ayuda a enfocar la conversación.
+
+## Capítulo 8: Conversaciones de autodiagnóstico del equipo
+
+¿Somos un equipo?, ¿necesitamos ser un equipo?, ¿en qué medida nos sentimos equipo?, ¿qué equipo queremos ser? Para desarrollarnos como equipo ¿qué necesitamos cuidar?, ¿en qué momento nos encontramos como equipo?
+
+**Todas estas preguntas abren conversaciones que permiten al equipo una reflexión auto diagnóstica.** Conversaciones que le ayuden a entender mejor su situación e identificar otras conversaciones que necesita para avanzar en su crecimiento y desarrollar su potencial.
+
+El día a día, las inercias, la sensación de falta de tiempo, la presión por los resultados... Son factores que hacen difícil no ya realizar esas conversaciones, sino el mero hecho de pensar que las necesitamos.
+
+Estas conversaciones son el equivalente a la capacidad reflexiva de los seres humanos. Algo que nos diferencia de otras especies y está en la base de nuestra capacidad para desarrollarnos. Un equipo que no reflexiona sobre mí sí mismo está abocado al estancamiento, a la repetición de errores, a sumergirse en dinámicas improductivas, en conflictos que no llegará a entender o interpretarán de manera individual.
+
+Veamos con detalle cada una de estas conversaciones y algunas ideas que nos ayuden a liderarla.
+
+### ¿Somos un equipo?
+
+En muchas ocasiones tenemos claro que somos un equipo nos vemos como tal. Sin embargo, es conveniente preguntarnos **¿nos sentimos equipo?, y ¿qué necesitamos para sentirnos más equipo?**
+
+Una forma de abordar esta conversación puede ser **la pregunta escala,** en la que pedimos a las personas que se posicionen en el espacio entre 2 extremos, 1 que representa la valoración somos un grupo y otra somos un equipo. Cada persona del equipo se coloca en el lugar que considera que mejor representa su valoración de lo que en ese momento es este colectivo de personas que trabajan juntas.
+
+Una vez que cada persona se ha ubicado en esa línea preguntaremos a quién se ha colocado más cerca de “somos un grupo” si considera que sería necesario ser más equipo o si el lugar en el que se ha ubicado le parece adecuado para abordar con éxito las tareas que tienen encomendadas. 
+
+Y continuamos haciendo la misma pregunta a todas las personas hasta llegar a quien se ha posicionado más cerca de “somos un equipo”.
+
+El posicionamiento y las respuestas obtenidas abrirán una rica conversación sobre las diferentes sensibilidades a la hora de sentir más necesidades el equipo. **El objetivo de quien lidera será hallar un punto de encuentro** sobre lo que es necesario trabajar, ya sea como grupo o como equipo.
+
+Podemos plantear a quien se ha posicionado más cerca de “somos un grupo” que le ha hecho posicionarse ahí y no más cerca aún de esa opción. Y así sucesivamente con el resto de las personas punta de esta forma hacemos aflorar aquello que identifican como elementos que les hacen sentirse algo más que un grupo.
+
+#### Dinámica de la pregunta escala
+
+1.	Marca el espacio con una línea recta señala que concepto identifica cada extremo o marcados como cero y 10.
+
+2.	Pedir a las personas que se colocan en el lugar que consideren que mejor refleja la situación actual.
+
+3.	Ir preguntando, comenzando por la persona más alejada de la posición considerada como posible meta, qué elementos concretos le ha llevado a posicionarse ahí y no un paso más atrás (búsqueda de conexión con los recursos ya disponibles).
+
+4.	Ir preguntando, comenzando por la persona más cercana a la posición que representa somos un equipo qué tendría que ser diferente para que diera un paso solo un paso en la dirección deseada (orientación a la solución).
+
+Si no nos sentimos equipo o tenemos dudas sobre si deberíamos serlo puede ayudarnos conversar en torno a las preguntas siguientes:
+
+•	¿Qué podemos hacer juntos que no podríamos hacer por separado?
+
+•	¿Que necesitamos o queremos conseguir que exija que seamos más que la suma de las partes
+
+•	¿Quiénes somos el equipo?
+
+En determinados contextos no está suficientemente claro quiénes forman parte del equipo. En ocasiones hay personas que participan a veces en las reuniones de equipo otras no. Porque representan en funciones transversales (Recursos Humanos finanzas sistemas marketing...) Que participan parcialmente en la actividad del equipo. Son del equipo, no lo son.
+
+Tener claro los límites del equipo, quiénes lo componen, es esencial. La teoría sistémica nos dice que un elemento constitutivo de un sistema son sus límites. Cuando lo que encontramos es confusión ambigüedad o interpretaciones diferentes es muy probable que aparezcan problemas y dificultades. Sensaciones de estar excluido coma de no formar parte coma y que acabarán limitando el potencial del equipo.
+
+Incluso si tenemos una estructura de equipos concéntricos 1 más reducido y otro más extendido es necesario que haya claridad al respecto. Quienes forman parte de 1 quién es de otro y quiénes de los dos.
+No hay una respuesta buena o mala respecto a quién es o no es del equipo lo que debe haber es claridad y conversación en torno a ello.
+
+## Qué equipo queremos ser
