@@ -419,13 +419,13 @@ Cuando tus necesidades si se satisfacen te sientes:
 
 |Tranquilo.|Cariñoso.|Contento.|Juguetón.|
 |-|-|-|-|
-|Apacible.|Cordial.|Feliz.|enérgico.|
-|Calmado.|Afectuoso.|Emocionado.|Revigorizado.|
-|Sosegado.|Tierno.|Ilusionado.|Estimulado.|
-|Absorto.|Admirado.|Alegre.|Travieso.|
-|Sereno.|Amigable.|Satisfechos.|Vivo.|
-|Cariñoso.|Sensible.|Encantado.|Vivaz.|
-|Pleno.|Compasivo.|Agradecido.|Efusivo.| 
+|Apacible|Cordial|Feliz|Enérgico|
+|Calmado|Afectuoso|Emocionado|Revigorizado|
+|Sosegado|Tierno|Ilusionado|Estimulado|
+|Absorto|Admirado|Alegre|Travieso|
+|Sereno|Amigable|Satisfechos|Vivo|
+|Cariñoso|Sensible|Encantado|Vivaz|
+|Pleno|Compasivo|Agradecido|Efusivo| 
 
 Cuando tus necesidades no se satisfacen:
 
