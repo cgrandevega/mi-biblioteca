@@ -417,15 +417,51 @@ El reconocimiento de las emociones cómo o etiquetado afectivo, se produce al ad
 
 Cuando tus necesidades si se satisfacen te sientes:
 
-|Tranquilo.|Cariñoso.|Contento.|Juguetón.|
-|-|-|-|-|
-|Apacible|Cordial|Feliz|Enérgico|
-|Calmado|Afectuoso|Emocionado|Revigorizado|
-|Sosegado|Tierno|Ilusionado|Estimulado|
-|Absorto|Admirado|Alegre|Travieso|
-|Sereno|Amigable|Satisfechos|Vivo|
-|Cariñoso|Sensible|Encantado|Vivaz|
-|Pleno|Compasivo|Agradecido|Efusivo| 
+En la página siguiente encontrarás una relación parcial de sentimientos que experimentamos cuando nuestras necesidades se satisfacen o no se satisfacen. Leela tranquilamente y **pregúntate qué sentimientos te resultan más familiares y cuáles menos.** A lo largo del día qué sentimientos adviertes en ti o en otros. Nombrados para tus adentros. Fíjate sobre todo en cómo varían tus emociones en el transcurso del día.
+
+|Tranquilo.|Cariñoso.|Contento.|Juguetón.|Interesado|
+|-|-|-|-|-|
+|Apacible|Cordial|Feliz|Enérgico|Inquisiivo|
+|Calmado|Afectuoso|Emocionado|Revigorizado|Enriquecido|
+|Sosegado|Tierno|Ilusionado|Estimulado|Alerta|
+|Absorto|Admirado|Alegre|Travieso|Excitado|
+|Sereno|Amigable|Satisfechos|Vivo|Aombrado|
+|Cariñoso|Sensible|Encantado|Vivaz|Preocupado|
+|Pleno|Compasivo|Agradecido|Efusivo| Curioso|
+|Relajado|Confiado|Inspirado|Aventurero|Entusiasta|
+|Aliviado|Franco|COnmovido|Lioso|Fascinado|
+|Silencioso|Agradecido|Orgulloso|Tontorrón|Intrigado|
+|Despreocupado|Apasionado|Eufórico|Optimista|Sorprendido|
+
 
 Cuando tus necesidades no se satisfacen:
 
+|Enfadado|Triste|Asustado|Cansado|Confuso|
+|-|-|-|-|-|
+|Impaciente|Solo|Temeroso|Agotado|Perplejo|
+
+**Estos límites no son con frecuencia solo conceptuales. También son sensoriales, o sea, que la capacidad para percibir los matices de nuestra vida emocional puede estar atenuada o incluso atrofiada.** Si pasamos años reprimiendo nuestras emociones o esquivándolas, podemos acallarlas por completo. Pero eso tiene remedio. Para comenzar solo hay que cobrar conciencia de nuestra experiencia tal y como es allí donde estemos.
+
+Cada persona tiene una relación distinta con las emociones. **Es frecuente que no sepamos cómo nos sentimos o incluso que en ocasiones nos sintamos embotados.** Otras veces en cambio sentimos las cosas con enorme intensidad. No hay una manera correcta de sentir. Nuestro objetivo es desarrollar la capacidad de identificar lo que sentimos en el momento despejando a los canales mentales y sensoriales para recibir la retroalimentación de nuestro entorno en nuestras relaciones personales.
+
+**Nombrar las emociones es un fundamento esencial de la comunicación consciente y el primer paso para el reconocimiento de las emociones.**
+
+Las emociones tienen además manifestaciones físicas visibles. La tristeza nos hace bajar la cabeza y los hombros; la ira apretar los dientes y cerrar los puños; la seguridad de levantar la barbilla. **Esto también funciona al revés: adoptar la postura corporal característica de una emoción estimulan la química neuronal asociada a esa emoción.** Forzar los músculos faciales para sonreír puede levantarnos el ánimo y el granos en toda nuestra altura puede producir nos un sentimiento de fortaleza y aplomo.
+
+El hecho de que nuestra paleta de emociones se amplíe no significa sin embargo que sepamos pintar. Podemos ser conscientes de lo que sentimos y aun así sentirnos dominados o asfixiados por nuestras emociones. Esta intensidad emocional puede buscar nuestra atención y descentrarnos por completo. 
+
+El siguiente paso para ejercitar la agilidad emocional es **aprender a gestionar las emociones es decir experimentarlas de manera no reactiva.** A esto se le llama a veces regulación emocional y tiene más que ver con el equilibrio interno que con el control. Volviendo a la analogía anterior **si el reconocimiento de emociones amplía nuestra paleta de colores la regulación de las emociones nos enseña a sostener el pincel adecuadamente.**
+
+**Cada emoción tiene una tonalidad, una suerte de sabor primigenio: agradable, desagradable o neutro.** Este matiz subyacente agradable desagradable, **es con frecuencia lo que nos impulsa a actuar.** Es lo que ansiamos, lo que tratamos de evitar por lo que nos resistimos a sentir. Las emociones pueden tener también un componente energético como una experiencia sensorial que se extiende por todo el cuerpo.
+
+La ira suele ir acompañada de una sensación de urgencia y agitación. El afecto amoroso, de una sensación sedante, de calma, blandura, suavidad o calor. Entusiasmo y la alegría puede producir una especie de burbujeo. La ansiedad una sensación de fragilidad crispación.
+
+La tonalidad y la energía de las emociones tiende a tirar de nosotros en un sentido o en otro o a empujarnos de acá para allá. **Lo que dispara nuestra reactividad es la incapacidad para tolerar la intensidad de una tonalidad desagradable.**
+
+Principio: **"tener conciencia de nuestras emociones fomenta nuestra capacidad de elegir conscientemente cómo participamos en una conversación."**
+
+#### Escapar del juego de la culpa: las responsabilidades radical
+
+La última fase de la agilidad emocional consiste en desarrollar la capacidad de escuchar las emociones y expresarlas sin culpabilizar a nadie es cuestión tanto de lo que pensamos como de lo que decimos.
+Uno de los mitos más extendidos y arraigados sobre las emociones es que son culpa de otros. Los medios de comunicación y la industria del entretenimiento apuntan a diario a esa noción. “Estoy enfadada porque has...” Yo te lanzó la pelota de la culpa y tú me la devuelves y en ese juegos ambos nos convertimos en atacantes y defensores.
+El diagrama que se muestra abajo ilustra la lógica que se oculta tras esta dinámica. Un amigo con el que habías quedado llega 15 minutos tarde y tú le dices: “Me saca de quicio que llegues tarde” ¿De veras hay una relación directa causa efecto entre sus actos y tus emociones?
