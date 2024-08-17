@@ -8,7 +8,7 @@ hide:
 
 ## :material-rocket-launch-outline: Mi biblioteca
 
-Welcome to the ultimate destination for all things! This website is a veritable treasure trove of amazing content, from cutting-edge technology to mind-blowing science to jaw-dropping pop culture. We've got everything you need to satisfy your thirst for knowledge, adventure, and entertainment. Our modern and sleek design is fully responsive and mobile-friendly, making it easy to access our content from anywhere in the world. And with the latest web technologies and cross-platform support, you can be sure that our site is fast, reliable, and accessible on all your devices. So come on in and explore our world of geeky wonders – we guarantee you won't be disappointed!
+Bienvenida o bienvenido a Mi Biblioteca, un espacio donde comparto resúmenes y reflexiones sobre libros, artículos y cursos que me inspiran en mi camino de crecimiento personal. Aquí encontrarás contenido sobre desarrollo personal, bienestar, aprendizaje continuo y otras temáticas que me apasionan. Mi objetivo es ofrecerte una fuente de inspiración y conocimiento que te acompañe en tu propio viaje de transformación y aprendizaje.
 
 </br>
 
