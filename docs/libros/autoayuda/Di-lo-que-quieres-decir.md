@@ -209,7 +209,7 @@ El objetivo y la esperanza de la evitación del conflicto suele ser mantener la 
 
 •	Será peor intentar resolver la situación que dejar las cosas como están.
 
-•	Si no me enfrento a ello coma se resolverá por sí solo o se difuminará hasta desaparecer.
+•	Si no me enfrento a ello, se resolverá por sí solo o se difuminará hasta desaparecer.
 
 Bajo esta estrategia se encuentra a menudo en**la necesidad de conexión seguridad o arraigo.** Evitar o posponer el conflicto puede mantener la armonía y preservar temporalmente las relaciones. Esta estrategia suele ir acompañada de la capacidad de percibir las necesidades de los demás y de la dificultad de satisfacer las propias.
 
@@ -285,15 +285,42 @@ Lista de necesidades humanas.
 
 ### Interés solidario.
 
+**La intención es el elemento más potente y transformador del diálogo.** Conforma la comunicación verbal y no verbal dirigiendo el curso de la conversación. Esta intención de entender supone un cambio crítico y radical en la posición desde la que abordamos el diálogo. Implica desterrar de nuestra conciencia la culpa, la hostilidad, el control o la manipulación y centrarse en cambio, en crear una calidad de conexión que fomente la colaboración.
+
+Principio: **"cuántos menos reproches y críticas formulemos, más fácil será que los otros nos escuchen."**
+
+Estamos programados para sentir alegría cuando damos y empatía frente al sufrimiento. Ayudar a los demás es una de las experiencias más gratificantes que pueda haber.
+
+Como sentimos alegría al dar y compasión ante el sufrimiento, cuando nos entendemos mutuamente por completo sentimos de forma instintiva el deseo de ayudar. Si entiendo de verdad lo que sientes y por qué quieres lo que quieres, yendo instintivamente a encontrar una manera de que aunemos fuerzas.
+
+
 ### Otra forma de ver.
+
+Todas las acciones humanas son intentos de suplir necesidades fundamentales. Por debajo de nuestros comportamientos, preferencias, convicciones y deseos hay siempre anhelos físicos, relacionales o espirituales. La seguridad, el arraigo, la conexión y la empatía son necesidades que nos atañen a todos. Todos necesitamos encontrarle sentido a la vida, contribuir con la sociedad, y la creatividad o la paz.
+
+Principio: **“todo lo que hacemos, lo hacemos para satisfacer una necesidad.”**
 
 ### Partir de la curiosidad y el interés.
 
+En ocasiones, comprender de verdad exige curiosidad e interés. **La curiosidad presupone que estamos interesados en aprender. Y aprender exige humildad. Debemos estar dispuestos a reconocer que no sabemos.**
+
+**La curiosidad requiere paciencia.** La investigadora y conservacionista Cynthia Moss cuenta que tuvo que pasar 20 años observando a los elefantes y estudiando de cerca sus hábitos y movimientos para empezar a darse cuenta de lo complejos que eran. Una paciencia tan constante solo puede darse cuando hay curiosidad verdadera y una profunda intención de entender.
+
+Interesarnos por algo y prestarle atención, también tiene que importarnos. No prestamos atención a las cosas que no nos importan y no nos interesan las cosas a las que no prestamos atención.
+
 ### El mindfulness y la intención de entender.
+
+**La relación habitual con la experiencia es juzgarla y controlarla.** Siéntate y observa tu mente durante unos minutos y notarás esta tendencia en carne propia. Ante una experiencia reaccionamos acercándonos a lo que nos resulta grato y alejándonos de lo desagradable, juzgándolo agradable como bueno y lo desagradable como malo.
+
+Desarrollamos gran cantidad de energía buscando el placer y resistiéndonos al dolor y tratando de controlar cosas que escapan a nuestra esfera de influencia. El cambio fundamental que hacemos una y otra vez al practicar la meditación formal consiste en cultivar la intención de entender la experiencia en lugar de intentar juzgarla o controlarla.
 
 ### La campanita de alarma del Mindfulness.
 
+**El primer paso es darnos cuenta de cuándo estamos actuando con el piloto automático puesto**, es decir, aprender a reconocer las señales que indican que estamos recayendo en viejos hábitos y servirnos de ellas como recordatorio para despertar del trance. Al retornar a la presencia, encontramos dentro de nosotros un terreno en el que apoyarnos. Luego empezamos a sentir curiosidad. En primer lugar y ante todo sobre nuestra propia vivencia.
+
 ### Dos preguntas.
+
+Resistirse a la presión de nuestros viejos hábitos puede ser muy difícil. En estos casos, reflexionar sobre nuestras expectativas y recordar nuestros valores puede ser muy útil. Rosenberg tenía un método muy sencillo para conseguirlo. Animaba a la gente a hacerse dos preguntas: primero, **¿qué quiero que haga la otra persona? y segundo, ¿cuáles quiero que sean sus motivos para hacerlo?**
 
 ### Utilizar la fuerza para proteger.
 
@@ -301,20 +328,50 @@ Lista de necesidades humanas.
 
 ## 6. Que no se interrumpa la conexión.
 ### Aprender a escuchar.
+
+Escuchar implica desprenderse del egocentrismo: tener la disposición de dejar temporalmente a un lado nuestras opiniones, y nuestros puntos de vista y nuestros sentimientos para escuchar de verdad al otro.
+Como escribe el poeta y maestro Mark Nepo, **“escuchar es inclinarse suavemente hacia el otro, con la disposición de dejar que lo que digamos nos cambie.”**
+
+La meditación nos enseña esta escucha profunda y nos permite descubrir la quietud de la intención plena.
+
 ### Que no se interrumpa la conexión. 
+
+Uno de los objetivos principales del diálogo es establecer una conexión y hacer todo lo que podamos para mantenerla. Si perdemos esa conexión, la comunicación mengua o cesa por completo.
+
 ### Completar el ciclo. 
 ### No perder de vista la realidad. 
-#### Las raíces de la empatía. 
-### El bloqueo de la empatía. 
+#### Las raíces de la empatía.
+
+La empatía se halla en el centro mismo de la reflexión verbal: es una forma intuitiva de tender puentes para comprender la experiencia del otro en sus propios términos.
+
+**La empatía es el núcleo mismo de la escucha.** Podríamos decir que la empatía es la Unión de la presencia y de la intención de entender.
+
+### El bloqueo de la empatía.
+
+Aunque la empatía es innata, hay toda clase de circunstancias que pueden nuestra colonizarla. En términos generales, es el proceso de socialización el que nos enseña a no ser empáticos. La familia, la cultura en la sociedad en general nos enseñan a temer u odiar a los que son distintos a nosotros. Cancelamos nuestra capacidad empática a fin de integrarnos y encajar, de protegernos o de sobrevivir en un mundo que no está estructurado para suplir nuestras necesidades.
+
+**Muchas de las cosas que nos desconectan de la presencia obstaculizan también nuestro acceso a la empatía: el cansancio, el estrés o el hambre; La alteración emocional, la ira o la impotencia; el hecho de desear algo ardientemente o de esperar confirmar un resultado concreto.**
+
+
 ### Las 3 dimensiones de la empatía.
+
+**La verdadera empatía es tridimensional. Es al mismo tiempo cognitiva, afectiva y somática.** La empatía cognitiva se centra en adoptar la perspectiva del otro. Y es la capacidad de ponernos en su lugar y comprender en el plano intelectual lo que le sucede a esa persona. La empatía afectiva o emocional consiste en ser capaz de sentir junto con esa persona.
+
+La tercera clase de empatía es de índole somática: es la capacidad de percibir físicamente la experiencia del otro. Se trata de una comprensión visceral e instintiva. 
+
 
 ## Tercer paso: Centrarse en lo que importa
 
 ## 7. Afrontar lo que importa
 
+En la teoría de la comunicación no violenta y en la obra de muchos psicólogos y sociólogos, el término necesidad tiene un contenido muy concreto, distinto a su uso más corriente. En el lenguaje hablado, podemos decir “necesito que me escuches” o “necesito que seas puntual”. **Se trata de estrategias, es decir de ideas sobre cómo satisfacer nuestras necesidades.** Las necesidades son lo que importa, lo que se oculta bajo esas estrategias. Son valores fundamentales que impulsan nuestros actos. Si quiero que me escuches, puede que necesite comprensión. El deseo de mayor puntualidad puede tener que ver con la valoración del respeto coma el trabajo en equipo es la eficiencia.
+
+Podemos ver las necesidades como **facetas de nuestra humanidad.** Son atributos universales y positivos que animan la floreciente vida humana. Todos compartimos las mismas necesidades, aunque las sintamos con distinto grado de intensidad y** pongamos en práctica estrategias diferentes para satisfacerlas.** Cualquier cosa que esté vinculada a una persona, un lugar, un tiempo, un objeto o una acción concretos es una estrategia. Algunas estrategias dan resultados otras no.
+
+
 ### Mitos culturales: independencia, autosuficiencia y necesidades
 
-Podemos ser muy reacios a reconocer nuestras necesidades y las ajenas. **Quizás tengamos muchas cosas asociadas a la palabra necesidad: debilidad, dependencia, egoísmo, flaqueza... **
+Podemos ser muy reacios a reconocer nuestras necesidades y las ajenas. **Quizás tengamos muchas cosas asociadas a la palabra necesidad: debilidad, dependencia, egoísmo, flaqueza...**
 
 A veces he preguntado a alguien que necesitaba y esa persona me ha contestado encogiéndose de hombros que no necesitaba nada que estaba bien. Pero yo mismo he contestado así cuando luchaba por defenderme del dolor emocional o por mantener una fachada de independencia.
 
@@ -463,5 +520,354 @@ Principio: **"tener conciencia de nuestras emociones fomenta nuestra capacidad d
 #### Escapar del juego de la culpa: las responsabilidades radical
 
 La última fase de la agilidad emocional consiste en desarrollar la capacidad de escuchar las emociones y expresarlas sin culpabilizar a nadie es cuestión tanto de lo que pensamos como de lo que decimos.
-Uno de los mitos más extendidos y arraigados sobre las emociones es que son culpa de otros. Los medios de comunicación y la industria del entretenimiento apuntan a diario a esa noción. “Estoy enfadada porque has...” Yo te lanzó la pelota de la culpa y tú me la devuelves y en ese juegos ambos nos convertimos en atacantes y defensores.
+
+Uno de los mitos más extendidos y arraigados sobre las emociones es que son culpa de otros. Los medios de comunicación y la industria del entretenimiento apuntan a diario a esa noción. “Estoy enfadada porque has...” **Yo te lanzó la pelota de la culpa y tú me la devuelves y en ese juegos ambos nos convertimos en atacantes y defensores.**
+
 El diagrama que se muestra abajo ilustra la lógica que se oculta tras esta dinámica. Un amigo con el que habías quedado llega 15 minutos tarde y tú le dices: “Me saca de quicio que llegues tarde” ¿De veras hay una relación directa causa efecto entre sus actos y tus emociones?
+
+Otro día quizá reaccionarías de otro modo. Podrías sentir pena, preocupación o incluso si hubieras tenido un día muy enterado alivio por disponer de unos minutos para estar a tu aire.
+
+Nuestros sentimientos nunca los causan directamente otras personas o sus actos. Existe relación, pero siempre es indirecta. **El acontecimiento externo es el estímulo de nuestros sentimientos: una condición necesaria pero no suficiente para que se de nuestra respuesta emocional.** La causa más directa y radical de nuestros sentimientos es cómo nos relacionamos con ese acontecimiento: nuestras necesidades y nuestros valores, representados por el punto B del diagrama de abajo.
+
+El juegos de la culpa trata de hacer responsable al otro de nuestras reacciones emocionales enmarañando nos en una discusión.
+Aceptar la responsabilidad de migraciones implica entrenar la mente para rastrear el origen de mis emociones hasta las necesidades de las que está surgen.
+cuando renunciamos al juegos de la culpa la responsabilidad radical de nuestros sentimientos abrimos los canales necesarios para liberarnos. si tú eres el causante de mis emociones tienes poder sobre mí y yo me encuentro en la indefensión.
+
+#### La gramática de la libertad íntima
+
+Alguna vez has probado a arrancar la hierba silvestre para plantar un jardín. **El hábito de culpabilizar a otras personas de nuestros sentimientos es igual de tenaz.** Es una forma de ver el mundo profundamente arraigada en nuestra mente.
+
+Si te descubres buscando fuera de ti la causa de tus sentimientos, pensando o diciendo: me siento... Porque tú..., cambia las tornas y conecta con tus necesidades.
+
+Otra manifestación del juegos de la culpa en nuestra lengua es disfrazar las ideas de sentimientos:
+
+•	siento como que no me quieres.
+
+•	Siento que todo esto es ridículo.
+
+•	Siento que no me estás escuchando.
+
+El verbo sentir, así empleado, expresa una idea no un sentimiento; frecuentemente un reproche una crítica o una suposición.
+
+Otras veces utilizamos la palabra sentir seguida de un pronombre o un nombre propio:
+
+•	siento que yo no sirvo para esto.
+
+•	Siento que ellos me están dando largas a propósito.
+
+•	Siento que Luis no está cualificado.
+
+Se trata de manifestaciones indirectas e inconscientes de nuestras emociones que entorpecen nuestra capacidad de tomar plena conciencia de lo que sentimos, de expresarnos o escuchar a los demás de un modo que fomente entendimiento.
+
+Si digo me siento atacado estoy expresando un reproche y culpabilizando a los demás ya que estoy contando una versión de lo que sucede: tú me estás atacando. Es más, esto omite información esencial sobre mis sentimientos reales que pueden ser muy variados: tristeza furia o desconcierto por ejemplo.
+
+“Me siento agobiado y confuso y me gustaría que habláramos de esto de un modo que haga qué me resulte más fácil asimilarlo. ¿Podríamos ir un poco más despacio?”
+
+#### Expresar sentimientos
+
+Los sentimientos son manejables y se puede hablar de ellos. Cuando hemos entrenado a nuestra mente con ese fin, disponemos de una herramienta muy poderosa para traducir la culpabilidad y los reproches en sentimientos y necesidades afectivas.
+
+**En la expresión “eres muy frío” se escucha un angustioso anhelo de afecto o intimidad.** En la expresión “no seas tan susceptible”, intuimos frustración y quizás un deseo de mayor flexibilidad o comprensión. Aprendemos a sentir empatía por los demás al margen de cómo se expresen y a hacerles partícipes de nuestros sentimientos abiertamente de tal modo que le resulte más fácil entendernos.
+
+Hablar de emociones, como de necesidades, puede hacer que nos sintamos vulnerables. Es importante elegir con prudencia cuándo, dónde y cómo hablamos de nuestros sentimientos. Esto puede variar enormemente dependiendo del contexto y la cultura. Suele haber más espacio para hablar de emociones en el contexto de nuestra vida personal, nuestras relaciones íntimas y nuestras amistades que en el ámbito laboral.
+
+Sin embargo, cuando hay sentimientos en el juegos es importante encontrar la manera de manifestarlos e incluirlos en la conversación con independencia del contexto. De lo contrario pueden empezar a apoderarse subrepticias mente de la situación.
+
+Ser consciente de nuestros sentimientos y nuestras necesidades nos permite elegir con mayor libertad cómo queremos reaccionar ante la vida.
+
+No tenemos por qué tener miedo a nuestras emociones. Podemos aprender a manejarlas con agilidad, a escuchar sus señales y a equilibrar su vehemencia.
+
+#### Preguntas y respuestas.
+
+Y qué ocurre cuando me siento de veras manipulado o traicionado. Cuál es el papel de la ira en la comunicación consciente.
+
+La ira es una emoción completamente natural. **Es una señal muy poderosa de que nuestras necesidades no se están satisfaciendo**. Desde el punto de vista evolutivo nos protege cuando percibimos una amenaza en nuestro entorno. Sus efectos destructivos derivan de nuestra forma de manejar la coma no de la propia ira. Cuando somos capaces de diferenciar el discurso de la culpa de nuestras necesidades insatisfechas, podemos expresarnos de manera más constructiva.
+
+## 9. Mejorar la empatía y la resiliencia interior.
+
+### Dar cabida al bien: gratitud, alegría y júbilo.
+
+### Auto empatía: la fuerza de la ternura.
+
+### Las orillas de la empatía: gestionar la angustia empática.
+
+### Empatía sin acuerdo.
+
+### Afinar la empatía: más allá de ti y de mí.
+
+## 10. Cómo sacar a debate un problema sin provocar una discusión.
+
+*“La capacidad de observar sin evaluar es la forma más elevada de inteligencia humana.”* Jiddu Krishnamurti
+
+Cuando enseñó comunicación consciente suelo hablar de las herramientas para escuchar antes que de las herramientas para hablar por varios motivos. En primer lugar, **porque es en el plano de la escucha donde una conversación suele atascarse. **Cuando ninguna de las dos personas es capaz de escuchar cesa el entendimiento y la conversación puede naufragar. En segundo lugar, porque aprendemos a hablar escuchando. Los bebés adquieren el lenguaje oyendo los fonemas, el ritmo y la sintaxis de su lengua materna. Al entrenar la capacidad de escucha, y empezamos a aprender intuitivamente a articular nuestro discurso.
+
+A partir de ahora vamos a tratar el otro lado de la ecuación: la autoexpresión. Cómo expresamos lo que queremos decir. **Para decir lo que queremos decir primero tenemos que saber lo que queremos decir.** Debemos ser capaces de escucharnos íntimamente y tener claro qué es lo que estamos experimentando. Qué es lo que queremos que sepa nuestro interlocutor y cómo podemos transmitírselo de una manera auténtica y plena de manera que pueda escucharnos.
+
+El esquema básico del modelo de comunicación no violenta de Rosenberg: observaciones, sentimientos, necesidades y peticiones, nos proporciona una plantilla muy eficaz para indagar en nuestra experiencia personal, nuestros pensamientos y nuestras emociones y determinar cuáles son los elementos esenciales que deseamos comunicar. Antes de exponer nuestros sentimientos y nuestras necesidades quizás tengamos que ponernos de acuerdo sobre los temas a tratar. Hacer observaciones nos ayuda a hablar sobre el contexto de una situación. Si no lo hacemos podemos acabar discutiendo por cosas que no importan o no sabiendo muy bien cuál es el tema que se debate.
+
+En este capítulo centraremos nuestra atención en la danza de la comunicación: de la escucha al habla.
+
+### ¿Qué estás añadiendo?
+
+**Una cosa es lo que ocurre y otra lo que nosotros añadimos.** La maestra budista Silvia Borstein cuenta que una vez llamó a un centro de meditación para apuntarse a un retiro y que el recepcionista le explicó que tenía que hablar con un tal Steve que ya se había marchado. Volvió a llamar al día siguiente y le dijeron que Steve acababa de marcharse y que lo intentará al día siguiente a partir de las 9:00 h que llegaba a Steve. Al día siguiente llamó cumplidamente poco después de las 9 y el recepcionista le dijo cuanto lo siento Steve está en un atasco. Exasperadas Silvia respondió “bueno supongo que eso significa que no voy a poder hacer ese retiro.” El recepcionista contestó con cierta socarronería: no significa que Steve no ha llegado aún. Qué fácil es apresurarse a sacar conclusiones.
+
+La experiencia es una cosa. Lo que nosotros añadimos otra. Saber distinguir entre estos dos elementos es fundamental para hablar de lo que haya ocurrido de un modo que propicie el entendimiento.
+
+**Principio: "enunciar con claridad lo que ha ocurrido, sin juicios ni evaluaciones, facilita el que el otro nos escuche y que seamos capaces de encontrar una solución."**
+
+Alguna vez has intentado mantener una conversación y te has visto enzarzado en una discusión antes incluso de acabar la primera frase. Quizás hayas empezado diciendo que “quería hablar contigo de lo desordenada que está la cocina últimamente...” Y antes de que puedas añadir una palabra más la otra persona empieza a defenderse y acusarte de ser una obsesa de la limpieza: ¿qué ha pasado? te preguntas.
+
+**Si ya de partida marcamos el rumbo de la conversación con una interpretación subjetiva que la otra persona no comparte es muy probable que haya conflicto**. El juegos de la culpa se alimenta de interpretaciones: Desordenado, ignorado, atacado...
+
+Una observación es un enunciado concreto, específico y neutral de un acontecimiento, de lo que vemos u oímos en nuestro entorno desprovisto de evaluación e interpretación.
+
+### Ver con claridad.
+
+**Es natural interpretar nuestras experiencias y sacar conclusiones de ellas.** Forma parte de nuestro desenvolvimiento en el mundo. Nuestro cerebro evalúa continuamente distinguiendo entre seguridad y peligro, entre amigo y enemigo. Tener un discernimiento claro es muy útil. No lo es en cambio formarse juicios de manera reactiva, automática o respondiendo a patrones habituales. 
+
+**El problema surge cuando evaluamos inconscientemente confundiendo nuestras interpretaciones con la realidad.**
+Podemos interpretar que una expresión facial significa determinada cosa y construir todo un discurso de antagonismo a partir de nuestra interpretación de ese gesto sin haber comprobado si quieres si hemos entendido en principio lo que significaba. La mente pasa tan rápidamente de la observación del hecho a la interpretación que es muy fácil que olvidemos que se tratan de 2 cosas distintas.
+
+**La atención plena se define a menudo como una conciencia libre de distorsión o sesgo.** La práctica del mindfulness ilumina el proceso de interpretación aclarando la diferencia entre nuestra experiencia directa y el relato que construimos en torno a ella.
+
+El mindfulness puede ayudarnos a deconstruir nuestras creencias e interpretaciones. Aplicando la atención cuidadosa podemos separar los acontecimientos de los razonamientos, las percepciones y la reactividad que les suponemos.
+
+La clave está en identificar lo que ha ocurrido de la manera más directa posible. Para determinar si algo es una observación pregúntate. Esto podría reflejarse en video. Una Cámara graba movimiento y sonido. no puede grabar una actitud de frialdad. No puede demostrar que alguien haga algo siempre o no lo haga nunca. Una Cámara de video graba a alguien ignorándome o graba a una persona que pasa delante de otra con la vista fija al frente.
+
+Otra clave si algo es o no una observación es la probabilidad de que genere una actitud defensiva en nuestro interlocutor. Recuerda que si lo que nos interesa es propiciar el entendimiento debemos emplear el lenguaje que fomenta la conexión. Si digo cuando te vea entrar y poner la tele... Es menos probable que se desencadene una discusión que si te digo cuando me ignoras encendiendo la tele...
+
+La fórmula clásica de la comunicación no violenta para entrenar la capacidad de observación es: cuando veo oigo... Empezar a denunciar en primera persona hyo en vez de en segunda tú traslada el foco de atención al otro del otro a nuestra experiencia directa. Verbos tales como ver y oír nos ayudan a centrarnos en el hecho concreto dejando a un lado nuestras interpretaciones.
+
+Resumen:
+
+Utiliza el mindfulness para discernir los hechos sin ningún filtro.
+
+Separa lo que sabes de manera fehaciente de suposiciones e interpretaciones.
+
+Para comprobar si tus conclusiones son válidas pregúntate: esto podría reflejarse en video.
+
+Evita palabras y expresiones que exageren o interpreten los hechos: siempre nunca jamás cada vez que casi nunca...
+
+Enuncia tu experiencia en primera persona: cuando veo oigo notó... en lugar de cuando dices haces...
+
+Pregúntate si la otra persona podría asumir ese enunciado sin ponerse a la defensiva si no estás seguro de que sea así sigue afinando tu observación.
+
+|Evaluación|Observación|
+|-|-|
+|Casi nunca llegas puntual. Siempre llegas tarde.|Me he fijado en que has llegado 20 minutos tarde después de que dijeras que...|
+|Cuando te pones desagradable conmigo...|Cuando te iba a decir que... Cuando te oigo decir da igual y apartar la mirada... Cuando veo esa expresión en tu cara...|
+
+Tras hacer una observación debemos enlazarla con nuestra vivencia íntima, es decir con nuestros sentimientos y nuestras necesidades para que el otro sepa cuál es nuestra postura de partida. Estos 3 elementos observación sentimiento y necesidad conforman un mapa sencillo por el que podemos guiarnos para decir lo que queremos decir coma discernir internamente lo que está ocurriendo y hacer participar otro de nuestras inquietudes. Qué ha pasado cómo te sientes al respecto y por qué. Entrenando la atención para identificar estos elementos, obtendremos información muy útil y eficaz a la hora de denunciar nuestra experiencia.
+
+#### Ejercicio: ir a lo correcto
+
+Piensa en una situación reciente que tenga cierta relevancia positiva o negativa. Plantéate las siguientes preguntas:
+
+•	Observación. Qué ha pasado trata de concretar todo lo posible si le describieras a la otra persona lo ocurrido, estaría de acuerdo con tu descripción o se pondría a la defensiva.
+
+•	Sentimientos: cómo te sientes.
+
+•	Y necesidades: qué es lo que te importa.
+
+Hay que tener muy en cuenta el contexto. Una alumna mía se quejó hace poco de una situación que estaba viviendo en el bufete de abogados donde trabajaba. Uno de los compañeros expresaba espontáneamente la opinión que le merecía el trabajo de ella sin que mi alumna se lo pidiera. Él observaba sus propias acciones desde el plano personal con la intención más o menos expresa de contribuir. Ella en cambio las interpretaba desde el punto de vista de quien llevaba toda la vida soportando que los hombres la trataran con condescendencia y desde la perspectiva colectiva e histórica de la opresión patriarcal de las mujeres. Mi alumna veía las intenciones de su compañero, pero él estaba ciego al efecto que surtían sus actitudes. Para llegar a un entendimiento mutuo y resolver el problema él tendría que haber cobrado conciencia del marco de referencia del que partía ella y de sus propias acciones dentro de ese contexto más amplio.
+
+Ver un acontecimiento con humildad y reconocer las posibilidades de que existan otras perspectivas por ayudarnos a ampliar nuestras miras y facilitar un mayor entendimiento.
+
+### La escalera de inferencia.
+
+Cuando no somos conscientes de nuestras interpretaciones y del contexto en que se basan, tendemos a anunciarles como si fueran datos objetivos, presentando nuestro punto de vista como la realidad de los hechos. Esta actitud puede provocar discusiones y dejar poco espacio para el diálogo.
+
+Para comunicarnos eficazmente tenemos que indagar en el propio mecanismo de percepción por el que nuestros sentimientos y nuestras necesidades tiñen nuestra visión de los acontecimientos. Cuanto más conscientes somos de nuestros juicios y evaluaciones, más flexible nuestra forma de expresarnos.
+Chris Argyris Conocido economista y escritor vinculado a la escuela de negocios de Harvard, y de una metáfora visual conocida como la escalera de inferencia para ilustrar el mecanismo por el que hacemos interpretaciones y llegamos a conclusiones precipitadas.
+
+La figura 6 muestra una versión de este modelo. La base de la escala la ocupan los datos observables: el caudal de imágenes, sonidos, pensamientos, sentimientos y sensaciones que conforman nuestra existencia. Los acontecimientos internos como las ideas o los sentimientos también forman parte de estos datos, puesto que observar nuestra vivencia íntima es esencial para una comunicación efectiva. De entre este cúmulo de información nuestra mente selecciona de manera natural ciertos datos a los que atribuye mayor relevancia. Así por ejemplo si estamos teniendo una conversación en un restaurante nos centramos en las palabras de nuestro interlocutor y no prestamos atención a otras conversaciones al ruido ambiente.
+
+
+![Image title](../../assets/images/escalera-inferencia.png){ align=center}
+*Figura 6*
+
+**Tendemos a seleccionar datos conforme a nuestras opiniones y puntos de vista sesgados.** Un ejemplo de esto es el sesgo de la negatividad, por el que prestamos más atención a las amenazas que percibimos en nuestro entorno. En una típica dinámica de piso compartido, **la persona a la que le gustan las cosas limpias y ordenadas suele fijarse únicamente los comportamientos de su compañera o compañero de piso que no coinciden con sus estándares de limpieza **y pasa por alto las ocasiones en las que dicha persona limpia u ordena o contribuye de algún otro modo las tareas domésticas. Este proceso de selección es de por sí una forma de interpretación que distorsiona nuestra perspectiva.
+
+A partir de los hechos y los datos específicos que hemos seleccionado nuestro cerebro comienza a hacer conjeturas y formarse ideas. Extraemos conclusiones, nos formamos opiniones fijas y luego hablamos o actuamos según esa convicción.
+
+**Este proceso suele darse automáticamente casi siempre por debajo del radar de nuestra conciencia.** Por definición no somos conscientes de nuestros prejuicios. La práctica del mindfulness nos enseña a observar con más detenimiento los mecanismos internos de la percepción: retira la cortina para dejarnos ver al mago de la conciencia, que manipula y moldea nuestra vivencia transformándola en categorías nítidas que estructuran nuestra vida.
+
+Además, como puede verse en el diagrama, este proceso se retroalimenta. Debido a nuestras opiniones y creencias es más probable que seleccionemos ciertos datos. Nuestras acciones y decisiones influyen en los datos a los que tenemos acceso lo que a su vez determina con quién pasamos nuestro tiempo a qué eventos o actividades asistimos etcétera.
+
+Como afirmaba Martin Luther King en un discurso de 1962: *“Estoy convencido de que los seres humanos se odian entre sí porque se temen. Se temen porque no se conocen, no se conocen porque no se comunican y no se comunican porque están muy lejos unos de otros.”*
+
+### Traducir las valoraciones negativas
+
+Bajar la escalera no siempre es fácil sobre todo cuando se trata de interpretaciones negativas y enérgicas.
+Entrenarse en la observación equivale a cultivar nuestro compromiso con la velocidad. Cuando consideramos la diferencia entre una observación y una evaluación, cuál de ellas es cierta. De verdad en otros está siendo ofensivo o sería más preciso decir que ha hecho dicho algo que no te ha gustado y que no satisface tu necesidad de respeto. Qué es más acertado: afirmar que nunca eres cariñosa por qué no eres tan cariñosa como me gustaría. Cuando ejercemos esta forma de sinceridad hay menos sobre lo que discutir y más espacio para el entendimiento.
+
+### Elogió, retroalimentación y gratitud
+
+El elogio es una forma corriente de juicio positivo. Aunque puede ser agradable recibirla aprendemos muy poco de las alabanzas. Es más la alabanza sitúa en una posición de poder a una persona respecto de otra al pretender determinar la valía de sus acciones. En lugar de hacer elogios podemos nombrar las acciones concretas que estamos alabando y las necesidades propias que estas acciones han satisfecho.
+
+Elogio: "qué bien eres fantástico."
+Traducción: cuando me enteré de que habías conseguido el trabajo me encantó lo que habías conseguido. (expresa coloquialmente necesidades de crecimiento personal o significado).
+
+### La valentía de hablar
+
+No siempre es fácil tomar la palabra y decir lo que pensamos.
+
+## 11. Si quieres algo pídelo
+
+### El don de la necesidad
+
+    “No quiero ser molestia.” 
+    “Prefiero no ser una carga.”
+    “Puedo arreglármelas, no pasa nada nada.”
+    “No es para tanto. no quiero que se sientan obligados...”
+
+**A veces puede parecer más fácil echarse una carga al hombro y apañárselas solo que intentar enfrentarse a la incomodidad, el miedo o el malestar que nos produce pedir ayuda.** Nuestras intenciones pueden ser sinceras: no queremos de verdad que los demás se sientan obligados.
+
+**Esto no nos impide sin embargo hacer peticiones.** De hecho, nos permite hacer peticiones verdaderamente efectivas que fomente la colaboración. **Cuando somos incapaces de tener en cuenta las necesidades de los demás, hacemos exigencias.**
+
+De igual forma si no conseguimos dar con más de una estrategia para resolver un problema, nuestra petición puede tener un tono de desesperación que obstaculice la capacidad de elección del otro.
+
+**Hacer una petición consiste en encontrar un modo de suplir una necesidad. Pedir es reconocer nuestra interdependencia, lo que nos expone a la decepción o el rechazo.** Puede que hayamos tenido experiencias que nos han llevado a pensar que pedir lo que necesitamos es peligroso, humillante o inútil así que para qué molestarnos. 
+
+**O quizás hayamos aprendido que dar es la única manera de suplir nuestras necesidades, porque la ayuda de los demás siempre lleva aparejadas intenciones ocultas o ataduras.
+**
+Como hemos visto, la creencia en mitos culturales de autosuficiencia o la idealización del logro individual pueden limitar más aún nuestra capacidad de buscar apoyo.
+
+### Un secretillo
+
+Cuando tenía 20 años un buen amigo mío me dio un Consejo que a su vez había recibido de su padre punto voy a contarte un secretillo sobre la vida: “si quieres algo, pídelo.”
+
+Hacer peticiones claras es bastante poco corriente, presta atención a cualquier conversación y fíjate en cuántas veces una persona termina su frase pidiendo lo que le gustaría que le respondieran o lo que querría que ocurriera.
+
+Si no le dices a alguien lo que quieres que te responda, tiene que adivinarlo o responder como le plazca.
+
+**Principio: cuanto más claros seamos respecto a que es lo que queremos y por qué, más creativos podemos ser a la hora de hacer que suceda.**
+
+Una petición es una pregunta acerca de la disposición de otra persona a realizar una acción concreta para suplir una necesidad. Las peticiones son estrategias, pero difieren de las exigencias.
+
+No lo viertas. Hacer peticiones
+
+Esperando un avión vi a una madre con dos niñas pequeñas. La mayor que no tendría más de 5 años sostenía un vaso grande de refresco con su pajita. La madre le dijo muy nerviosa: “No lo viertas.” Vi que la niña se ponía tensa y que trataba de descubrir cómo podía evitar una regañina no vertiendo la bebida.
+
+Qué habría pasado si la madre hubiera dicho: cariño es un paso muy grande y me preocupa que se vierta. Puedes extenderlo con cuidado con las dos manos. Con una petición de este estilo, la hija habría tenido instrucciones precisas sobre lo que tenía que hacer y le habría sido mucho más fácil cumplir lo que se esperaba de ella.
+
+Las peticiones sirven para calibrar la disposición del otro ayudarnos o aceptar nuestra estrategia. Para dejar esto claro conviene que las peticiones sean de carácter:
+
+•	positivo: una petición de denunciar lo que queremos coma no lo que no queremos.
+
+•	Especifico: concretas y factibles en lugar de vagas y abstractas.
+
+•	Flexible: una petición no exige nada, sino que sugiere una forma de avanzar en el diálogo, con apertura de ideas.
+
+Para hacer una petición positiva es necesario tener la capacidad de identificar necesidades y de proponer una estrategia que pueda suplir las. Para que una petición sea específica tenemos que ser capaces de hacer observaciones claras y de enunciar las conductas concretas que deseamos conseguir. Y la flexibilidad que entraña una petición procede de la comprensión de nuestras necesidades coma de la sensibilidad hacia las necesidades del otro y de la capacidad para encontrar creativamente más de una estrategia a fin de satisfacer todas las necesidades que entren en juegos. He aquí algunos ejemplos que ilustran estas características:
+
+•	Negativa: no me hables así.
+
+•	Petición positiva: estarías dispuesto a bajar la voz o a que nos tomemos un descanso.
+
+•	Inconcreción: puedes quererme más.
+
+•	Petición específica: cuando llegas a casa puedes mirarme a los ojos y decirme hola. Significa mucho para mí.
+•	Rigidez: Tenemos que hablar.
+
+•	Petición flexible: podemos encontrar un hueco para sentarnos a hablar. O si no tienes alguna idea de cómo podemos resolver esto.
+
+### Tipos de peticiones: solicitar empatía
+
+Hay dos tipos de peticiones dentro de una conversación: las que tienen por objetivo conectar con el otro y las que proponen una solución. **Las peticiones de conexión comprueban que la línea de conexión continúa abierta, como si dijeran: sigues ahí.** Completan un ciclo de comunicación, confirman que el mensaje enviado sea recibido y digan las semillas de la confianza y la buena voluntad. Las peticiones de solución proponen estrategias concretas para satisfacer las necesidades de ambas partes y establecer acuerdos sobre cómo seguir avanzando.
+
+En situaciones poco complicadas puede ser suficiente con hacer peticiones de solución. “¿Qué te parecería esto? ¿Podría sacar tiempo para...?” **Si se trata de problemas más complejos, tenemos que sentar ciertas bases antes de debatir soluciones.** A fin de cuentas, la disposición de la otra persona colaborar se basa en la solidez del entendimiento y la conexión que hayamos establecido.
+
+Peticiones de conexión que solicitan reflexión o empatía.
+
+•	Puedes decirme qué conclusión has sacado de lo que he dicho.
+
+•	No estoy seguro de haberme expresado con suficiente claridad. Qué has entendido.
+
+•	Me gustaría asegurarme de que estamos entendiendo lo mismo punto qué conclusión estás sacando de todo esto.
+Que solicitan una respuesta o información.
+
+•	Qué te parece lo que te digo. 
+
+•	Qué opinas de lo que te he dicho.
+
+Hacer peticiones de conexión **no siempre es fácil ni se da de manera espontánea.** Al principio puede parecer incómodo y requiere práctica, pero con el tiempo **hacer saber a los demás que nos interesa que nos escuchemos mutuamente puede ser una manera muy poderosa de llegar a un acuerdo.**
+
+### Flores para mi mesa
+
+**El componente esencial de una petición es la intención que hay detrás de ella.** Hacer una petición implica una intención de flexibilidad que tiene en cuenta las necesidades del otro y no es una exigencia. Es básicamente una propuesta: ¿qué te parece si...? Y también una continuación de la conversación, al indicar el camino por el que queremos seguir avanzando. Una exigencia en cambio pone fin al diálogo. Es una forma de coacción para salirnos con la nuestra cuando no vemos otras alternativas.
+
+Las peticiones invitan a colaborar; las exigencias amenazan con consecuencias. Podemos indicar el carácter colaborativo de una petición con el tono de la voz o con palabras concretas, señalando nuestra disposición a explorar otras vías y conocer las necesidades de nuestro interlocutor. Aquí algunos ejemplos de cómo iniciar una petición:
+
+•	¿Crees que habría posibilidad de buscar un hueco este fin de semana y sentarnos a hablar?
+
+•	¿Podría valerte con…?
+
+•	¿Qué te parecería que…?
+
+Marshall Rosenberg tenía una forma muy poética de plasmar el espíritu de la petición: *“pídeles a los otros que satisfagan tus necesidades como si les pidieras flores para tu mesa, no aire para tus pulmones.”*
+
+Si te pido en tono desesperado que hagas algo, ¿qué alternativas te estoy dejando? ¿Con cuánta alegría podrás aceptar? Es muy distinto, en cambio, pedirlo con franqueza y calma como diciendo: ¿Verdad que sería estupendo que…?
+
+Que lo pidamos de una manera u otra depende de que seamos capaces de transformar la relación que tenemos con nuestras necesidades y de formular nuestras peticiones entorno al gozo de satisfacerlas.
+
+•	Aire para los pulmones: ¿Podrías por favor fregar los platos y limpiar la encimera? Necesito que la casa esté limpia.
+
+•	Flores para la mesa: ¿Podrías por favor fregar los platos y pasar la bayeta por la encimera Cuando acabes de comer? Me siento mucho más a gusto cuando la cocina está limpia y recogida.
+
+•	Aire para los pulmones: Necesito que pasemos más tiempo juntos. Cuando quedamos otra vez.
+
+•	Flores para la mesa: Me encanta que pasemos tiempo juntos. ¿Te parece que cerremos ya una fecha para ver cuándo nos podemos ver otra vez?
+
+Incluso cuando las necesidades en juego son urgentes e imperiosas, **tenemos más capacidad de maniobra cuando somos capaces de conectar con el otro y formular peticiones que le tengan en cuenta.**
+
+### Brindar contexto
+
+Cuando hacemos una petición, es menos probable que la otra persona esté dispuesta a ayudar **si no entiende el por qué le estamos pidiendo tal o cual cosa o de qué va a servir.**
+
+Un ejemplo sencillo: mi pareja me pregunta por la mañana ¿vas a comerte esto para almorzar? Si no entiendo bien su intención mi respuesta diferirá dependiendo del contexto. No es lo mismo decir: “me apetece comerme esto para almorzar, ¿pensabas comértelo tú? Que decir: Me preocupa que esto se estropee. ¿Quieres comértelo tú o me lo como yo?
+
+Aquí tienes otro ejemplo fíjate lo distinto que es pedir una reflexión con y sin contexto.
+
+•	Sin contexto: me puedes decir que has entendido de todo lo que he dicho.
+
+•	Con contexto: he dicho muchas cosas y no sé si me he explicado del todo bien. Puedes decirme qué has entendido.
+
+•	Sin contexto: ¿Podrías decirme qué crees que me importa?
+
+•	Con contexto: Ahora mismo me encantaría sentirme escuchado. ¿Podrías decirme qué crees que me importa?
+
+Una forma de comunicación completa. **Observación, sentimiento, necesidad y petición.** Lo que ha pasado, lo que hemos sentido al respecto, el por qué ha pasado y una sugerencia para seguir avanzando: es la estructura clásica de la comunicación no violenta. Los primeros 3 elementos (observación sentimiento y necesidad) dan respuesta al interrogante esencial: ¿cómo estás? Al expresar esto estamos invitándonos mutuamente a conocer nuestra experiencia personal: esto es lo que me está pasando. Las peticiones responden a otra cuestión: ¿cómo puedo ayudar?
+
+Enunciar una observación un sentimiento y una necesidad es de gran importancia. Pero si no formulamos una petición es probable que la otra persona escuche un reproche al margen de cuál sea nuestra intención o nuestras palabras. Fíjate en los siguientes enunciados, con y sin petición.
+
+**•	Sin petición:** cuando me enteré de que no ibas a llegar a casa hasta las 8, me llevé una desilusión y me enfadé. Es muy importante para mí que pasemos al menos 1 rato juntos por las noches.
+
+**•	Con petición:** cuando me enteré de que no ibas a llegar hasta las 8, me llevé una desilusión y me enfadé. Es muy importante para mí que pasemos al menos 1 rato juntos por las tardes. Podemos hablar de cómo conjugar tus responsabilidades en el trabajo con mis expectativas respecto a nuestra relación.
+
+**•	Sin petición:** anoche sonaba música en tu piso sobre las 11:00 h y me molestó bastante. No sirvió de nada que me pusiera los tapones para los oídos. Me levanto temprano y necesito descansar por las noches.
+
+**•	Con petición:** anoche sonaba música en tu piso sobre las 11:00 h y me molestó bastante. Me pusiera los tapones para los oídos. Muy temprano y necesito descansar por las noches. Podrías por favor bajar la música a usar hoy y culares después de las 10 los días de diario.
+
+### Exigir, escuchar, decir no
+
+La diferencia entre una petición y una exigencia no radica en las palabras que empleamos **sino en cómo reaccionamos cuando la otra persona dice que no.** Si somos capaces de **reaccionar a una negativa con curiosidad **(Ah ¿por qué no? ¿Qué necesitas?) es que estamos haciendo una petición sincera. Si respondemos con enojo, o reproche o soberbia es que en realidad no estamos pidiendo algo.
+
+Como hemos visto ya, servirse de la culpa, la recriminación o la exigencia para satisfacer nuestras necesidades erosiona la confianza, la buena voluntad y la calidad misma de una relación.
+
+**La mayoría de las personas reaccionan a las exigencias sometiéndose o revelándose.** Ninguna de estas relaciones se basa en la libertad y la autonomía.
+
+Así pues, si formularnos las dos preguntas clave de Rosenberg puede disuadirnos de hacer exigencias y conducirnos a un enfoque más colaborativo, enraizado la curiosidad y el interés:
+
+¿Qué quiero que haga la otra persona?
+
+¿Por qué quiero que lo haga? ¿Cuáles quiero que sean sus razones para hacerlo?
+
+**Es esencial que seamos capaces de encajar una negativa sin que se interrumpa la conexión.** Recibir una negativa puede ser uno de los momentos más delicados de una conversación; sobre todo si lo que estamos pidiendo es algo importante. **Porque detrás de cualquier petición grande o pequeña subyace siempre una pregunta: ¿te importo?**
+
+Recibir un “no” por respuesta puede hacer que sintamos impotencia o decepción, que se frustren nuestras esperanzas o que se reabran heridas dolorosas.
+
+**La capacidad de decir que no es señal de buena salud en una relación.** Si alguien siempre nos dice que sí, no podemos saber si está aceptando sinceramente o si lo hace por miedo. vergüenza u obligación todo lo cual puede producir resentimiento, desconfianza o negligencia a la hora de cumplir lo acordado debido a la desgana. Por el contrario, cuando alguien es capaz de decir que “no” podemos estar seguros de que cuando dice que “si” lo dice de verdad.
+
+También **podemos considerar el “no” como una fuente de información más que como un callejón sin salida. Indica que hay algo más importante que impide que esa persona acceda a nuestra petición.** En lugar de tomárnoslo como algo personal, podemos escuchar el sí que hay detrás del no. No quiere decirse con ello que damos por sentado que esa persona está diciendo que sí a nuestra petición, **sino que está diciendo que sí a otra cosa que para ella es más importante.** Si podemos identificar que es esa otra cosa, tenemos más opciones para colaborar de manera creativa.
+
