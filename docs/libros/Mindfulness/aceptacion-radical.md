@@ -146,3 +146,25 @@ Seng Tsan, célebre maestro zen del siglo VII enseñó que la libertad verdadera
 El novelista inglés D. H. Lawrence dijo que nuestra cultura occidental era como un árbol grande, arrancado con las raíces al aire. Estamos pereciendo porque no se satisfacen nuestras necesidades superiores, escribió.
 
 Aunque el trance de sentirnos separados y faltos de valía constituye parte inseparable de nuestro condicionamiento de seres humanos, también es parte inseparable suya en nuestra capacidad de despertarnos. **Nos liberamos de la cárcel del trance cuando dejamos de hacer la guerra a nosotros mismos**, y en lugar de ello, aprendemos a relacionarnos con nuestras vidas con sabiduría y con pasión en el corazón punto en este libro estudiaremos el proceso de abrazar nuestras vidas.
+
+## Capítulo 2: Despertar del trance: el camino de la Aceptación Radical
+
+*"Lo más curioso y paradójico es que precisamente cuando me acepto a mí mismo tal y como soy es cuando puedo cambiar."* Carl Rogers
+
+Puede que la mayor tragedia de nuestras vidas sea que, aunque la libertad a nuestro alcance, podemos pasarnos años y años atrapados en unas mismas pautas viejas.
+
+Sumidos como estamos en el trance de la falta de valía, n**os acostumbramos a encerrarnos en nuestra propia jaula de la autocrítica y de la ansiedad,** llenos de inquietud y de insatisfacción. Como le pasó a Mohini el tigre, nos volvemos incapaces de acceder a la libertad y a la paz a la que tenemos derecho. Puede que deseemos amar a otras personas sin condiciones, sentirnos auténticos, absorber la belleza que nos rodea, cantar y bailar. Pero escuchamos cada día unas voces interiores que nos ciñen y nos estrechan la vida. 
+
+Aunque ganemos millones en la lotería y aunque nos casemos con la persona ideal, mientras sintamos que no somos lo bastante buenos no seremos capaces de gozar de las posibilidades que se nos presentan. Pero nosotros, a diferencia de moni, podemos aprender a darnos cuenta de que estamos encerrados en la trampa de nuestras propias creencias y nuestros propios miedos. Podemos llegar a ver de qué manera estamos derrochando nuestras valiosas vidas.
+
+El primer paso para salir de la jaula es aceptarlo absolutamente todo de nosotros mismos y de nuestras vidas, **a base de abrazar con desvelo y con solicitud nuestras vivencias de cada momento.**  Cuando hablo de aceptarlo todo absolutamente todo lo que quiero decir es que seamos conscientes de lo que está pasando en nuestro cuerpo y en nuestra mente en un momento dado, sin intentar controlarlo, ni juzgarlo, ni evitarlo.
+
+**No quiero decir que consintamos las conductas dañinas,** ni las nuestras ni las de los demás. significa sentir lástima y dolor sin resistencia. **Significa sentir deseo aversión hacia alguna persona o cosa sin criticarnos a nosotros mismos por albergar esos sentimientos ni sentimientos obligados a satisfacerlos.**
+
+La aceptación radical se opone radicalmente a nuestras relaciones condicionadas. **Nos perdemos en pensamientos acerca de lo que va mal, de cuánto durará, de lo que debemos hacer al respecto y de cómo el dolor es un reflejo de nuestra falta de valía.**
+
+**Un dolor físico,** cómo puede ser un dolor de espalda una migraña, **puede convertirse en una disertación sobre el tema de que no sabemos cuidarnos,** de que no comemos bien o no hacemos bastante ejercicio.** El dolor puede hacernos sentir víctimas; puede decirnos que no podemos contar con nuestro cuerpo,** que las cosas nos Irán mal siempre. Lo mismo hacemos con el dolor emocional: lo amplificamos con nuestras críticas y con nuestras historias. Si sentimos miedo coma o ira, o envidia eso quiere decir que hay algo de malo en nosotros como que somos débiles o malos.
+
+**Cuando nos perdemos en nuestras historias nos distanciamos de nuestras vivencias reales.** Mientras nos asomamos al futuro o mientras repasamos el pasado, abandonamos la experiencia viva del momento inmediato. Nuestra trance se agudiza a medida que pasamos el día impulsados por él tengo que hacer más para ser bueno, o por él estoy incompleto; Necesito más para ser feliz. Estos mantras refuerzan el trance creencia de que nuestra vida debe ser distinta de lo que es. (estrés).
+
+**Cuando estamos ante un paisaje hermoso, nos preocupamos porque se nos ha terminado el carrete de fotos o nos ponemos a pensar que deberíamos irnos a vivir al campo.** Cuando estamos meditando y pasamos unos momentos apacibles, empezamos a preguntarnos inmediatamente cómo haremos para que perduren. Todo nuestro disfrute está enturbiado por la ansiedad por conservar lo que poseemos y por nuestra necesidad compulsiva de ampliarlo.
