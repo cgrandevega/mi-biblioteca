@@ -15,13 +15,13 @@ La comunicación eficaz depende de nuestra capacidad de estar presentes. Hablar 
 
 Para decir lo que queremos decir, primero hemos de saber lo que queremos decir. Para saber lo que queremos decir, hemos de escucharnos a nosotros mismos y discernir lo que para nosotros es válido.
 
-El primer paso de la comunicación consciente es guiar con la presencia, es decir que nos mostremos y visibilicemos con la mayor plenitud que sea posible.
+**El primer paso de la comunicación consciente es guiar con la presencia, es decir que nos mostremos y visibilicemos con la mayor plenitud que sea posible.**
 
 Vamos a explorar qué significa guiarse con la presencia.
 
 ## 1. El centro de nuestras vidas
 
-“El lenguaje es muy poderoso. No solo describe la realidad. Crea la realidad que describe.” Desmond tutu 
+*“El lenguaje es muy poderoso. No solo describe la realidad. Crea la realidad que describe.”* Desmond tutu 
 
 Durante las primeras semanas de un bebé y meses, solo cuenta con dos herramientas para comunicar sus necesidades y deseos: el llanto y la sonrisa. 
 
@@ -61,7 +61,7 @@ o	Nos falta práctica.
 
 ### Voz, respiración e identidad
 
-La voz es uno de los aspectos más íntimos y personales del ser. En la mayoría de los casos es nuestro principal medio de expresión una especie de firma sonora por la que se nos reconoce e identifica. Entre todas las cosas que cambian a lo largo de la vida el cuerpo envejece el rostro se arruga la voz es el rasgo distintivo que cambiar más lentamente y en menor medida **una vez alcanzada la edad adulta nuestro sentido del yo está a menudo estrechamente ligado a nuestra voz.**
+**La voz es uno de los aspectos más íntimos y personales del ser.** En la mayoría de los casos es nuestro principal medio de expresión una especie de firma sonora por la que se nos reconoce e identifica. Entre todas las cosas que cambian a lo largo de la vida el cuerpo envejece el rostro se arruga la voz es el rasgo distintivo que cambiar más lentamente y en menor medida **una vez alcanzada la edad adulta nuestro sentido del yo está a menudo estrechamente ligado a nuestra voz.**
 
 ### Una experiencia multidimensional y holística
 
@@ -75,31 +75,112 @@ Principios: dada la complejidad de la comunicación, la transformación se da m�
 
 Puntos clave: ejercitar la presencia de la comunicación puede ser difícil por muchos motivos: falta de práctica. Los pone en contacto con nuestra vulnerabilidad. Puede estimular el impulso evolutivo de ponernos a salvo. El contacto visual entre primates puede ser señal de agresividad. Oír una voz humana puede ser tranquilizadora alarmante. La comunicación verbal está ligado a la respiración, el sistema nervioso y el sentido del yo.
 
-## 2. El poder del mindfulness.
+## 2. El poder del mindfulness
 
-### El fundamento de la conexión.
+### El fundamento de la conexión
 
-### Aprovechar nuestros puntos fuertes.
+La atención plena o mindfulness nos devuelve nuestra vida. **Es lo que nos permite disfrutar de la belleza de una puesta de sol, del prodigio de un árbol centenario o del misterio y la maravilla de la intimidad humana.** En tales vivencias estamos presentes por completo. La intensidad de esas experiencias induce un estado de conciencia natural en el que nos sentimos hondamente arraigados en el presente, conectados con nosotros mismos y con El Mundo que nos rodea.
 
-### Reconocer la presencia.
+Este estado de presencia plena estará alcance de todos y en todo momento. Aporta riqueza a cualquier vivencia cotidiana como preparar la comida, hablar con un familiar o sentir en la piel el aire de la mañana.
+Nos permite apreciar la vida y transitar con ligereza y elegancia por sus tramos más arduos.
+Como he dicho, **la presencia plena también desempeña un papel esencial en la comunicación** por el mero hecho de que, para entender cualquier cosa tenemos que estar presentes.
 
-### Sinceridad: la presencia requiere autenticidad.
+**Principio: la presencia sienta las bases de la conexión.**
 
-### El indicador de aceite: presencia de reactividad.
+¿Cuántas veces nos tomamos el tiempo de entablar conversación con otra persona ejercitando la presencia? En nuestras prisas cotidianas, establecemos conversaciones atropelladas y luego nos preguntamos por qué hay tantos choques.
 
-### Entrenar la presencia plena.
+Abrir camino mediante la presencia es el primer paso para una conversación eficaz. Es una práctica rica y profunda multidimensional. En lo fundamental, implica que entablamos conversaciones desde la simplicidad y la fortaleza de nuestra propia presencia.
 
-### Aportar presencia a la vida.
+### Aprovechar nuestros puntos fuertes
 
-### La puerta de entrada resiliencia.
+Para mejorar la capacidad de estar presentes debemos empezar por identificar nuestros puntos fuertes y cualquier aspecto que necesitemos desarrollar.
+Puede conectarte a la presencia:
 
-### Cómo crear un bucle de retroalimentación positiva.
+•	Bajar el ritmo.
 
-### El poder de la presencia.
+•	Respirar.
+
+•	Pasar tiempo con una amiga o amigo.
+
+•	Están en la naturaleza.
+
+•	El sentido del tacto.
+
+•	La música.
+
+•	La luz del Sol.
+
+•	El sonido del mar y de la lluvia.
+
+•	La belleza.
+
+Puede desconectarte de la presencia:
+
+•	El estrés.
+
+•	El cansancio.
+
+•	Las prisas.
+
+•	El miedo.
+
+•	El deseo de algo.
+
+•	La impaciencia.
+
+•	La sensación de peligro.
+
+•	La falta de seguridad.
+
+Casi todo en nuestra civilización nos aleja de la presencia. **Ganarse la vida en la sociedad actual genera mucha tensión. Demanda gran parte de nuestro tiempo y nuestras energías y esa demanda deja poco espacio para que cultivemos la atención plena del presente.**
+
+### Reconocer la presencia
+
+Nuestro estado natural es un estado de alerta relajada abierta que se caracteriza por la satisfacción y el bienestar punto es algo innato. Podemos mejorar activamente nuestra capacidad para reposar en este estado de equilibrio, para reconocer cuando lo hemos abandonado y volver a él más fácilmente.
+
+### Sinceridad: la presencia requiere autenticidad
+
+**La presencia requiere autenticidad.** Es la disposición a ser sinceros con nosotros mismos sobre lo que está pasando, o sea lo que sea.
+
+De este tipo de sinceridad proporciona información fidedigna sobre lo que está ocurriendo dentro y fuera de nosotros. Aprendemos a acceder a nuestros sentimientos y nuestras necesidades en tiempo real y a interpretar con más exactitud la vivencia de otros. Esto a su vez nos ayuda a saber lo que tenemos que decir para sentirnos escuchados para seguir adelante o para resolver una diferencia.
+
+### El indicador de aceite: presencia de reactividad
+
+Cuando la tensión se desboca la presencia nos centra. Cuanto más familiarizados estemos con el sentimiento de estar presente es más fácil y no resulta detectar las señales de sobre activación o de alteración.
+
+Sentirse sobre activado o sobre activada no es malo es una parte saludable de estar vivo. Solo es problemático si carecemos de atención plena. Sin embargo, muchos el ritmo de la vida moderna nos mantiene continuamente en un estado de sobre activación.
+
+### Entrenar la presencia plena
+
+La presencia puedes practicarla en cualquier momento, en todas partes, sin ningún equipamiento ni condición especial. Y sin que se entere nadie.
+
+**Uno de los métodos más fiables para cultivar la presencia es anclar nuestra atención en sensaciones corporales.** Al desenvolvernos en El Mundo e interactuar con otras personas, la atención que prestamos a lo que vemos y oímos suele desvanecerse o es fagocitada por pensamientos del pasado del futuro. Anclar la atención en el cuerpo contrarresta esta tendencia al proporcionarle un lugar en el que reposar y apoyarse.
+
+Un anclaje es un punto de referencia al que recurrimos para reforzar la presencia plena.
+
+### Aportar presencia a la vida
+
+Elige un método para empezar y prueba practicar de 3 formas distintas: a solas (meditación formal), en momentos de transición (cuando haces cola o vas camino del trabajo) y en conversaciones (al principio, solo mientras escuchas).
+
+### La puerta de entrada resiliencia
+
+Con frecuencia buscamos aliviar el dolor y el malestar mediante la evasión o el placer. Esto puede ayudar inicialmente a reequilibrar un sistema nervioso acosado desde distintos frentes. Lo peligroso es que esta tendencia a buscar alivio se convierta en un hábito crónico a cualquier malestar o incomodidad. Con el paso del tiempo, **podemos volvernos incapaces de tolerar hasta la más mínima molestia o sin sabor sin recurrir de inmediato a hacer algo para cambiarlo.**
+
+Al observar los patrones que impulsan nuestros hábitos de comunicación, quizá descubramos emociones conflictivas o recuerdos dolorosos. La presencia es un recurso esencial para manejarse en este terreno. Es una puerta de entrada la resiliencia que nos ayuda a acceder a las capacidades de curación interior y autorregulación de nuestra mente y nuestro cuerpo.
+
+### Cómo crear un bucle de retroalimentación positiva
+
+Al esforzarte por intensificar la presencia en tu vida cotidiana, quizás llegues a la conclusión de que es algo muy difícil. Puedes pasar el día entero sin acordarte de estar presente ni una sola vez. Y cuando nos acordamos, nuestra reacción tiende a menudo a ser autocrítica.
+
+A veces nos imponemos expectativas muy poco razonables, como si tuviéramos que ser expertos desde el primer día. Pero es completamente normal olvidarse. Es lo que cabe esperar: olvidarse muy muy a menudo. O dicho de otro modo: lo raro es acordarse. Nuestros hábitos de comunicación tienen mucha inercia. Recordemos el símil con el buque de carga que viene en alta mar. Nuestra labor consiste en encontrar maneras de mantener el ángulo del timón. Aportar, aunque solo sea una pequeña cantidad de presencia la conversación produce a la larga cambios muy profundos.
+
+### El poder de la presencia
+
+Principios: la presencia sienta las bases de la conexión. Inicia la conversación ejercitando la atención, vuelve a ella y esfuérzate por mantener la presencia y ser sincero o sincera contigo mismo sobre lo que está sucediendo.
 
 ## 3. Atención relacional.
 
-Puntos de decisión: hablar o escuchar
+### Puntos de decisión: hablar o escuchar
 
 **Un punto de decisión es un momento de atención en el que decidimos si hablar o escuchar.** Ser capaz de mantener la presencia en ese punto crítico exige mucha práctica. A veces el momento de tomar la decisión pasa a toda velocidad como una señal de tráfico cuando vamos a 120 por autovía. **El impulso de hablar puede ser tan fuerte que nos impele a verbalizar simplemente para aliviar la presión interna.** Si somos más bien callados podemos tener la sensación de que nuestras oportunidades de intervenir en una conversación desaparecen antes de que nos armemos de valor para hablar.
 
@@ -111,7 +192,7 @@ La ansiedad que nos produce la conversación suele hundir sus raíces en **el de
 
 Esta capacidad se desarrolla lentamente medida que aprendemos a reconocer nuestras necesidades y a satisfacerlas cómo aprendemos a confiar en nosotros mismos.
 
-### Ejercicios puntos de decisión.
+#### Ejercicio puntos de decisión.
 
 Para practicar: escoger a alguien con que te sientas a gusto. En el transcurso de una conversación fíjate en:
 
@@ -134,6 +215,35 @@ Parte de esta investigación consiste en conocer nuestros patrones de conducta. 
 No hay una manera ideal de ser o de actuar en cualquier circunstancia. La meta es la flexibilidad dinámica mediante la presencia: escoge hablar o escuchar según sea necesario.
 
 ### El poder del ritmo: la pausa
+
+**Si tuviera que enseñar una sola herramienta para entrenar la presencia como sería la pausa.** El espacio de una pausa puede suponer un cambio enorme.
+
+La pausa está repleta de posibilidades. En un instante podemos reparar en pensamientos, sentimientos e impulsos y elegir cuáles seguir.
+
+Hacer una pausa es una expresión natural y un esfuerzo de la presencia plena. La pausa es flexible varía en duración dependiendo de la situación. Se puede hacer una micropausa: una interrupción casi imperceptible en el flujo del discurso nos permite tiempo suficiente para anclar la atención en el cuerpo o reajustar nuestras intenciones.
+
+**No siempre es fácil hacer una pausa.** Incluso cuando nos acordamos de hacerla, puede resultar complicado interrumpirse en medio de una conversación o encontrar la manera de hacer una pausa sin que resulte chocante.
+
+Si llegamos a la conclusión de que no se dan las condiciones para mantener una conversación con éxito, es importante cómo hacemos las pausas. Si nos limitamos a decir “no puedo hablar de eso ahora”, nuestros interlocutores interpretarán en nuestra conducta su manera. Puede que piensen que no estamos interesados, que no nos importa o que les estamos dando largas.
+
+Para que haya más posibilidades de que la conversación sea fructífera tenemos que explicar las razones de nuestra decisión. He aquí algunos ejemplos:
+
+•	“Me encantaría continuar esta conversación, pero ahora mismo no me encuentro con ánimos para hacerlo, ¿podemos hacer una pausa y retomarlo más tarde?”
+
+•	“Me encantaría escuchar lo que tienes que decir, pero estoy un poco agobiado o agobiada y creo que ahora mismo no soy capaz de escuchar con atención. Propongo que hagamos un descanso de una hora si te parece.”
+
+•	“Quiero que resolvamos esto juntos y en estos momentos no puedo hablar con claridad. Me gustaría posponerlo hasta más tarde de acuerdo.”
+
+•	“Quiero terminar esta conversación, pero creo que ahora mismo no podría decir nada útil. Te parece que hagamos una pausa y que lo retomemos después.”
+
+Fíjate en estos ejemplos. ¿Qué tienen en común?
+
+En primer lugar, todas estas frases comienzan con la **intención de conectar.** Ello impide que se interprete nuestra interrupción como un rechazo a una maniobra esquiva y hace saber a nuestro interlocutor o nuestros interlocutores que les tenemos en cuenta en nuestro deseo de hacer una pausa.
+
+En segundo lugar, estos enunciados **reconocen la responsabilidad de nuestras limitaciones** o deseos dejando claro que actuamos movidos por nuestra necesidad personal de espacio en lugar de culpar a la otra persona.
+
+Por último, cada una de estas frases **terminan con una petición de continuar la conversación** más adelante lo que contribuye a reducir la ansiedad respecto a lo que puede ocurrir.
+
 
 ### Incertidumbre: salir del paso de lo desconocido
 
