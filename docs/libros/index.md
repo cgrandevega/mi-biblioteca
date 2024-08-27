@@ -8,5 +8,6 @@
 |240| [Luna Roja](./psicologia/luna-roja.md) | Miranda Gray |
 |243| [Las diosas de cada mujer](./psicologia/las-diosas-de-cada-mujer.md) | Jean Shinoda Bolen |
 |259| [Aceptación radical](./Mindfulness/aceptacion-radical.md) | Tara Brach |
+|262| [Conversaciones cruciales](./autoayuda/conversaciones-cruciales.md) | Kerry Patterson |
 |275| [Lierazgo. El poder de la inteligencia emocional](./empresa/liderazgo-el-poder-de-la-inteligencia-emocional.md) | Daniel Goleman |
 |291| [Conversaciones que transforman equipos](./empresa/conversaciones-que-transforman-equipos.md) | Eduardo Sacanell |
