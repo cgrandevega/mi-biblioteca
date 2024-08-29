@@ -257,55 +257,95 @@ Por suerte cuando rechaza la alternativa del tonto (cuando le pide a su cerebro 
 
 •	¿Hay alguna manera de hablar con nuestra pareja sobre cómo gastamos el dinero y no caer en una discusión?
 
-Capítulo 4: Aprende a observar. Cómo saber cuándo peligra la seguridad.
+## Capítulo 4: Aprende a observar. Cómo saber cuándo peligra la seguridad
+
 Cuanto más tardes en darte cuenta de que no estás dialogando, más difícil resulta volver atrás y mayores son los costes.
-Atento a las condiciones
+
+### Atento a las condiciones
+
 En realidad, a la mayoría nos cuesta emplear este método dual (estar alerta al contenido y a las condiciones al mismo tiempo), especialmente cuando hay importantes factores en riesgo y las emociones son intensas. Entonces nos vemos tan atrapados en nuestro discurso que se nos hace casi imposible sustraernos de la discusión para ver qué nos está sucediendo, a nosotros y a los demás.
-¿A qué debemos estar atentos para captar los problemas antes de que se vuelvan demasiado graves? En realidad, debemos ser sensibles a tres condiciones diferentes: al momento en que una conversación se vuelve crítica, a señales de que las personas no se sienten seguras (silencio agresividad) y a nuestro propio estilo bajo presión.
-Aprender a reconocer las conversaciones cruciales.
-En primer lugar, manténgase alerta al momento en que una conversación deja de ser rutinaria e inofensiva para convertirse en una conversación crucial.
-Para captar a tiempo los problemas debemos reprogramar nuestra mente para que se mantenga atenta a las señales que indican que nos encontramos en una conversación crucial.
-Pensemos en lo que sucede en nuestro organismo cuando las conversaciones se ponen difíciles. Todos somos algo diferentes. ¿Cuáles son sus señales? Cualesquiera que sean aprenda a verlas como señales que sugieren dar un paso atrás, bajar la intensidad y empezar por el corazón antes de que las cosas se nos escapen de las manos.
-Otros están atentos a sus emociones antes de percatarse de señales corporales. Se dan cuenta de que tienen miedo, se sienten dolidos o irritados, y comienzan a reaccionar ante estos sentimientos o a reprimirlos. Estas emociones también pueden ser grandes claves para decirnos que demos un paso atrás y hagamos lo necesario para volver a activar nuestro cerebro.
+
+¿A qué debemos estar atentos para captar los problemas antes de que se vuelvan demasiado graves? En realidad, debemos ser sensibles a **tres condiciones diferentes: al momento en que una conversación se vuelve crítica, a señales de que las personas no se sienten seguras (silencio, agresividad) y a nuestro propio estilo bajo presión.**
+
+### Aprender a reconocer las conversaciones cruciales
+
+En primer lugar, manténgase alerta **al momento en que una conversación deja de ser rutinaria e inofensiva para convertirse en una conversación crucial.**
+
+Para captar a tiempo los problemas **debemos reprogramar nuestra mente para que se mantenga atenta a las señales que indican que nos encontramos en una conversación crucial.**
+
+Pensemos en lo que sucede en nuestro organismo cuando las conversaciones se ponen difíciles. Todos somos algo diferentes. ¿Cuáles son sus señales? Cualesquiera que sean **aprenda a verlas como señales que sugieren dar un paso atrás, bajar la intensidad y empezar por el corazón antes de que las cosas se nos escapen de las manos.**
+
+Otros están atentos a sus emociones antes de percatarse de señales corporales. Se dan cuenta de que tienen miedo, se sienten dolidos o irritados, y comienzan a reaccionar ante estos sentimientos o a reprimirlos. **Estas emociones también pueden ser grandes claves para decirnos que demos un paso atrás y hagamos lo necesario para volver a activar nuestro cerebro.**
+
 Por lo tanto, reflexione un momento sobre sus conversaciones más difíciles. ¿Qué claves puede utilizar para reconocer que su cerebro comienza a desactivarse y que corre el riesgo de distanciarse de un diálogo sano?
-Aprender a identificar problemas de seguridad.
-Las personas dotadas para el diálogo están siempre atentas a la seguridad. Prestan atención al contenido y son sensibles a las señales de que los demás se han vuelto temerosos. Cuando sus amigos, sus seres queridos o sus compañeros se distancian de un diálogo sano (contribución libre al fondo de significados), ya sea imponiendo sus opiniones al fondo o manteniendo deliberadamente sus ideas fuera del fondo, ellos centran inmediatamente su atención en saber si los demás se sienten seguros o no.
-Cuando el ambiente es seguro, podemos decir cualquier cosa. Esta es la razón por la que los comunicadores más dotados mantienen un ojo vigilante en la seguridad. El diálogo exige el libre flujo de significados y punto. Y no hay nada que atente más contra el flujo de significados que el miedo. Cuando tememos que las personas no queden convencidas con nuestras ideas, empezamos a presionar demasiado. Cuando tememos que nos hagan daño en algún sentido, empezamos a inhibirnos. Estos dos tipos de reacciones combatir y huir, están motivadas por el mismo sentimiento el miedo.
+
+### Aprender a identificar problemas de seguridad
+
+**Las personas dotadas para el diálogo están siempre atentas a la seguridad.** Prestan atención al contenido y **son sensibles a las señales de que los demás se han vuelto temerosos.** Cuando sus amigos, sus seres queridos o sus compañeros se distancian de un diálogo sano (contribución libre al fondo de significados), ya sea imponiendo sus opiniones al fondo o manteniendo deliberadamente sus ideas fuera del fondo, ellos centran inmediatamente su atención en saber si los demás se sienten seguros o no.
+
+**Cuando el ambiente es seguro, podemos decir cualquier cosa.** Esta es la razón por la que los comunicadores más dotados mantienen un ojo vigilante en la seguridad. El diálogo exige el libre flujo de significados y punto. **Y no hay nada que atente más contra el flujo de significados que el miedo**. Cuando tememos que las personas no queden convencidas con nuestras ideas, **empezamos a presionar demasiado.** Cuando tememos que nos hagan daño en algún sentido, empezamos a inhibirnos. Estos dos tipos de reacciones combatir y huir, están motivadas por el mismo sentimiento el miedo.
+
 El problema no es el contenido de su mensaje, sino las condiciones de la conversación. Desde que somos bastante pequeños empezamos a llegar a la conclusión de que no se puede ser al mismo tiempo sincero y respetuoso. Hay algunos mensajes que no podemos transmitir a determinadas personas. Con el paso del tiempo esta lista de mensajes se hace cada vez más extensa, hasta que nos encontremos manejando inadecuadamente la mayoría de las conversaciones cruciales.
-Si somos capaces de aprender a ver cuando la gente empieza a sentirse insegura, entonces podremos tomar medidas para remediarlo.
+
+**Si somos capaces de aprender a ver cuando la gente empieza a sentirse insegura, entonces podremos tomar medidas para remediarlo.**
+
 Cuando no hay seguridad, empieza a cegarse. Como ya hemos señalado, cuando nuestras emociones comienzan a cobrar intensidad las principales funciones cerebrales reaccionan desactivándose. 
-No solo nos preparamos para huir físicamente, sino que nuestra visión periférica se vuelve más estrecha. En realidad, cuando nos sentimos verdaderamente amenazados apenas podemos ver más allá de lo que tenemos delante.
-No dejar que los problemas de seguridad nos descentren. Cuando las personas comienzan a sentirse inseguras, empiezan a comportarse de manera inadecuada. Ahora bien, puesto que no se sienten seguras usted debería pensar: “Vaya no se sienten seguras. Tengo que hacer algo, quizás procurar convertirlo en algo más seguro.” Eso es lo que debería pensar. Por desgracia cuando otros se sienten inseguros puede que intenten reírse de usted insultarlo o impresionarlo con sus argumentos. Este tipo de conducta agresiva no estimula precisamente al diplomático que hay en usted.
-Imagine el alcance de lo que sugerimos con esta proposición. Le pedimos que interprete el silencio y la violencia como señales de que las personas se sienten inseguras. Le pedimos que luche contra su tendencia natural al responder de la misma manera. Y le pedimos que renuncie a años de práctica quizás incluso a una eternidad de herencia genética que le incita a huir o a provocar una pelea cuando sufre una agresión y a cambio le sugerimos que interprete el estímulo.
+No solo nos preparamos para huir físicamente, sino que **nuestra visión periférica se vuelve más estrecha.** En realidad, cuando nos sentimos verdaderamente amenazados apenas podemos ver más allá de lo que tenemos delante.
+
+No dejar que los problemas de seguridad nos descentren. **Cuando las personas comienzan a sentirse inseguras, empiezan a comportarse de manera inadecuada.** Ahora bien, puesto que no se sienten seguras usted debería pensar: “Vaya no se sienten seguras. Tengo que hacer algo, quizás procurar convertirlo en algo más seguro.” Eso es lo que debería pensar. Por desgracia cuando otros se sienten inseguros puede que intenten reírse de usted insultarlo o impresionarlo con sus argumentos. Este tipo de conducta agresiva no estimula precisamente al diplomático que hay en usted.
+
+Imagine el alcance de lo que sugerimos con esta proposición. **Le pedimos que interprete el silencio y la violencia como señales de que las personas se sienten inseguras.** Le pedimos que luche contra su tendencia natural al responder de la misma manera. Y le pedimos que renuncie a años de práctica quizás incluso a una eternidad de herencia genética que le incita a huir o a provocar una pelea cuando sufre una agresión y a cambio le sugerimos que interprete el estímulo.
+
 ¿Y luego qué? Hay que hacer algo para darle seguridad.
+
 Esto puede ser una tarea difícil, pero merece la pena. Esta habilidad es el eje central de todo lo que sigue y también es la puerta de acceso para obtener todos los beneficios que reciben aquellos que manejan las conversaciones cruciales con habilidad.
-El silencio y la violencia.
-Cuando las personas comienzan a sentirse inseguras, eligen uno de estos dos caminos: o guarda en silencio (absteniéndose de aportar significado al fondo) o se vuelven agresivos (intentan imponer un significado al fondo compartido).
-El silencio.
-El silencio es cualquier manera de abstenerse deliberadamente de aportar información al fondo de significados. Casi siempre responde al deseo de evitar problemas potenciales y siempre restringe el flujo de significados. Las 3 formas más habituales de silencio son:
-•	Enmascarar. Consiste en restar importancia a nuestras verdaderas opiniones o manifestarlas de forma selectiva. El sarcasmo, dorar la píldora y la evasión son algunas de las formas más habituales.
-•	Evitar. Significa alejarse completamente de temas delicados. Conversamos, pero sin abordar el fondo del asunto.
-•	Retraerse. Significa marginarse del todo en una conversación. O abandonamos la conversación o abandonamos la habitación.
-La violencia.
-La violencia es cualquier estrategia verbal que busque convencer controlar u obligar a otros a adoptar nuestro punto de vista.
+
+### El silencio y la violencia
+Cuando las personas comienzan a sentirse inseguras, eligen uno de estos dos caminos: **o guarda en silencio (absteniéndose de aportar significado al fondo) o se vuelven agresivos (intentan imponer un significado al fondo compartido).**
+
+#### El silencio.
+
+El silencio es cualquier manera de **abstenerse deliberadamente de aportar información al fondo de significados.** Casi siempre responde al deseo de evitar problemas potenciales y siempre restringe el flujo de significados. Las 3 formas más habituales de silencio son:
+
+•	**Enmascarar.** Consiste en restar importancia a nuestras verdaderas opiniones o manifestarlas de forma selectiva. El sarcasmo, dorar la píldora y la evasión son algunas de las formas más habituales.
+
+•	**Evitar.** Significa alejarse completamente de temas delicados. Conversamos, pero sin abordar el fondo del asunto.
+
+•	**Retraerse.** Significa marginarse del todo en una conversación. O abandonamos la conversación o abandonamos la habitación.
+
+#### La violencia
+
+La violencia es **cualquier estrategia verbal que busque convencer controlar u obligar a otros a adoptar nuestro punto de vista.**
+
 •	Controlar. Consiste en obligar a otros a adoptar nuestra manera de pensar. Los métodos suelen ser interrumpir a los demás, exagerar la postura, hablar en términos absolutos, cambiar de tema o recurrir a preguntas dirigidas para controlar la conversación.
+
 •	Estigmatizar. Colgar una etiqueta a las personas o las ideas para después desecharlas con un estereotipo o categoría general. 
 “Tus ideas son prácticamente las de un cavernícola. Cualquiera que sepa razonar aprobaría mi propuesta.”
+
 •	El ataque. Renunciamos a vencer en una discusión para infligir daño a la otra persona. Utilizamos el desprecio y las amenazas. Tú intenta esa estúpida maniobra ya verás qué sucede. 
 “Tú pon en marcha esa estúpida idea y ya verás lo que sucede.”
-Preste atención a su estilo bajo presión.
-Supongamos que ha permanecido atento tanto al contenido como las condiciones. Quedaría un tercer elemento más difícil de observar atentamente mientras está concentrado en aplicar un sistema dual, que es su propia conducta. La mayoría de las personas experimentan dificultades para lograrlo.
+
+### Preste atención a su estilo bajo presión
+
+Supongamos que ha permanecido atento tanto al contenido como las condiciones. **Quedaría un tercer elemento más difícil de observar atentamente mientras está concentrado en aplicar un sistema dual, que es su propia conducta.** La mayoría de las personas experimentan dificultades para lograrlo.
+
 Escaso nivel de autoconciencia. En realidad, todos tenemos dificultades en ciertos momentos para controlar nuestra conducta. A menudo perdemos toda semblanza de delicadeza social cuando nos ensimismamos tanto con las ideas y las causas que perdemos en el sentido de lo que hacemos.
+
 Por desgracia cuando somos incapaces de controlar nuestra propia conducta hacemos bastante el ridículo.
+
 — He estado esperando en el taller mecánico más de una hora a que llegases.
 — Lo siento te entendí mal pero no tienes por qué enfadarte.
 — ¡No estoy enfadado!
+
 Nosotros, como es natural no vemos la incoherencia de nuestra respuesta. Estás metido en medio del asunto y no nos parece nada bien que nuestro cónyuge se ría de nosotros.
-¿Que se requiere para ser capaz de distanciarse de la discusión y estar atentos al proceso incluyendo los propios actos y el efecto que tienen? Hay que observarse atentamente a uno mismo. Esto exige prestar atención a lo que hacemos y al efecto que ello tiene y si es necesario alterar la estrategia.
-Cuestionario estilo bajo presión
+
+¿Que se requiere para ser capaz de distanciarse de la discusión y estar atentos al proceso incluyendo los propios actos y el efecto que tienen? **Hay que observarse atentamente a uno mismo.** Esto exige prestar atención a lo que hacemos y al efecto que ello tiene y si es necesario alterar la estrategia.
+
+### Cuestionario estilo bajo presión
+
 ¿Qué tipo de observador es usted cuando se trata de sí mismo? ¿Qué hace cuando la observación se vuelve difícil? Página 90
 
-Resumen punto aprender a observar.
+### Resumen punto aprender a observar.
 
 **Cuando nos vemos atrapados en una conversación crucial, es difícil ver exactamente qué sucede y por qué.** Cuando una conversación comienza a volverse tensa, a menudo **hacemos exactamente lo contrario de lo más indicado. Recurrimos a los componentes menos sanos de nuestro Estilo Bajo Presión.**
 
