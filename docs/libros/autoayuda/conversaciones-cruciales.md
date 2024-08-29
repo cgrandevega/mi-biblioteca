@@ -345,7 +345,7 @@ Nosotros, como es natural no vemos la incoherencia de nuestra respuesta. Estás 
 
 ¿Qué tipo de observador es usted cuando se trata de sí mismo? ¿Qué hace cuando la observación se vuelve difícil? Página 90
 
-### Resumen punto aprender a observar.
+### Resumen. Aprender a observar
 
 **Cuando nos vemos atrapados en una conversación crucial, es difícil ver exactamente qué sucede y por qué.** Cuando una conversación comienza a volverse tensa, a menudo **hacemos exactamente lo contrario de lo más indicado. Recurrimos a los componentes menos sanos de nuestro Estilo Bajo Presión.**
 
@@ -362,4 +362,66 @@ Para abandonar este círculo vicioso, aprenda a observar.
 •	Observe si otros adoptan una actitud de silencio o violencia.
 
 •	Esté atento a los arranques de su estilo bajo presión.
+
+## Capítulo 5: Crear seguridad. Cómo crear seguridad para hablar de casi cualquier cosa
+
+Si identifica los riesgos para la seguridad cuando surgen, puede tomar distancia con la conversación, crear seguridad y luego encontrar una manera para dialogar acerca de casi cualquier cosa.
+
+Ejemplo: Inés y Joaquín
+
+Inés: Joaquín, ¿podemos hablar de lo que sucedió anoche?, ya sabes cuando te dije que estaba cansada...
+
+Joaquín: No sé si tengo ganas.
+
+Inés: ¿qué significa eso?
+
+Joaquín: ¡Pues que estoy harto de que seas tú quien decida lo que hay que hacer y cuando!
+
+Inés: (abandona la habitación)
+
+### Tome distancia procure seguridad y reanude el diálogo
+
+**La clave consiste en distanciarse del contenido de la conversación,** el no quedarse atrapado en las cosas que le dicen.
+
+Las personas bien dotadas para el diálogo se dan cuenta de que hay un problema de inseguridad e intentan que el tema sea más atractivo suavizando mucho el mensaje.
+
+*“Cariño realmente quiero estar contigo, pero tengo mucha presión en el trabajo y con el estrés se me hace más difícil disfrutar del tiempo que pasamos juntos.”*
+
+En ese momento se distancian del contenido de la conversación, procuren seguridad y reanudan el diálogo. Saben que para resolver su problema tendrán que hablar sobre su problema sin fingir, sin dorar la píldora ni falsear.
+
+### Observar cuáles son las condiciones en peligro
+
+El primer paso para dar más seguridad es entender cuál de las dos condiciones de seguridad está en peligro. Cada una requiere una solución diferente.
+
+### El objetivo común: la condición de entrada
+
+La primera condición de la seguridad es un objetivo común. Significa que otros perciben que trabajamos en aras de un resultado común en la conversación, que nos preocupan sus objetivos sus intereses y sus valores.
+
+**Nos damos cuenta de que el objetivo común está en peligro cuando notamos actitudes a la defensiva**, con ideas nos compartidas en forma silenciosa, acusaciones y vuelta y una y otra vez al mismo tema.
+
+El objetivo común no es una técnica.** Para tener éxito en las conversaciones cruciales debe importarnos verdaderamente los intereses de los demás**, no solo los nuestros. Recuerda formularte las 3 preguntas.** Qué deseo para mí. Qué deseo para los otros. Qué deseo para la relación.**
+
+### El respeto mutuo: la condición de la continuidad
+
+**El respeto mutuo es la condición para la continuidad del diálogo.** Cuando las personas perciben que sus interlocutores no los respetan, la conversación se vuelve inmediatamente insegura y el diálogo se frena en seco.
+
+¿Por qué? Porque el respeto es como el aire. Mientras está presente nadie piensa en él. Pero si lo eliminamos es lo único en que piensan las personas.** Desde el momento en que nuestro interlocutor percibe una falta de respeto en una conversación la interacción ya no se produce en torno al objetivo original. Ahora se trata de defender la propia dignidad.** 
+
+Señales delatoras. Para saber cuándo se viola el respeto y la seguridad, manténgase alerta a las señales de que las personas adoptan actitudes en defensa de su dignidad. Cuando las personas sienten que se les falta al respeto, sus emociones se cargan notablemente y pasan del miedo a la rabia. Luego recurren a gestos y muecas, gritos amenazas e incluso insultos. Por miles inmediatamente la siguiente pregunta: creen los otros que los respeto.
+Podemos respetar a las personas que no respetamos.
+
+**A menudo el sentimiento de falta de respeto surge cuando nos ponemos a pensar que los otros son diferentes a nosotros**. Podemos contrarrestar este sentimiento permaneciendo atentos a los aspectos en que somos similares. Sin perdonar su conducta, intentamos simpatizar o incluso empatizar con ellos.
+
+### ¿Qué hacer una vez que toma distancia?
+
+Cuando vea que peligra el respeto mutuo el objetivo común inmediatamente debe ser capaz de tomar distancia para poder encontrar tanto el objetivo común cómo volver al respeto mutuo, incluso con personas que sean muy diferentes.
+
+Hay 3 poderosas habilidades que utilizan las personas mejor dotadas para el diálogo:
+Pedir disculpas. Utilizar la habilidad del contraste. Y crear un objetivo común.
+
+Ejemplo de la visita de la presidenta de la división. página 111.
+
+#### Pedir disculpas
+#### Utilizar la habilidad de contraste
+#### Crear un objetivo común.
 
