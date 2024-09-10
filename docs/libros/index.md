@@ -12,5 +12,5 @@
 |259| [Aceptación radical](./Mindfulness/aceptacion-radical.md) | Tara Brach |
 |262| [Conversaciones cruciales](./autoayuda/conversaciones-cruciales.md) | Kerry Patterson |
 |275| [Lierazgo. El poder de la inteligencia emocional](./empresa/liderazgo-el-poder-de-la-inteligencia-emocional.md) | Daniel Goleman |
-|282| [El valor de la atención](./Mindfulness/el-valor-de-la-atencion.md) | Johann Hari |
+|282| [El valor de la atención](./empresa/el-valor-de-la-atencion.md) | Johann Hari |
 |291| [Conversaciones que transforman equipos](./empresa/conversaciones-que-transforman-equipos.md) | Eduardo Sacanell |
