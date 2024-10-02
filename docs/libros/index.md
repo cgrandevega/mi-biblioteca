@@ -13,6 +13,7 @@
 |243| [Las diosas de cada mujer](./psicologia/las-diosas-de-cada-mujer.md) | Jean Shinoda Bolen |
 |259| [Aceptación radical](./Mindfulness/aceptacion-radical.md) | Tara Brach |
 |262| [Conversaciones cruciales](./autoayuda/conversaciones-cruciales.md) | Kerry Patterson |
+|264| [¿Cómo se lo digo? El arte de las conversaciones difíciles](./autoayuda/como-se-lo-digo.md) | Enrique Sacanell |
 |275| [Lierazgo. El poder de la inteligencia emocional](./empresa/liderazgo-el-poder-de-la-inteligencia-emocional.md) | Daniel Goleman |
 |282| [El valor de la atención](./empresa/el-valor-de-la-atencion.md) | Johann Hari |
-|291| [Conversaciones que transforman equipos](./empresa/conversaciones-que-transforman-equipos.md) | Eduardo Sacanell |
+|291| [Conversaciones que transforman equipos](./empresa/conversaciones-que-transforman-equipos.md) | Enrique Sacanell |
