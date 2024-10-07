@@ -425,3 +425,126 @@ Ejemplo de la visita de la presidenta de la división. página 111.
 #### Utilizar la habilidad de contraste
 #### Crear un objetivo común.
 
+## Capítulo 6: El dominio de mis historias. cómo seguir dialogando cuando nos sentimos enfadados atemorizados o heridos.
+
+### Me ha hecho enfadar.
+
+### Las emociones no se generan porque sí.
+
+### La historia de María.
+
+#### Nuestras historias.
+
+### Habilidades para dominar nuestras historias.
+
+### La nueva historia de María.
+
+## capítulo 7: Definir mi camino. cómo hablar de forma persuasiva coma no avasalladora.
+
+### Compartir opiniones delicadas.
+
+### Salvaguardar la seguridad.
+x
+### Definir mi camino.
+x
+### Las habilidades del que.
+x
+### Comparta sus hechos.
+x
+### Explique su historia.
+x
+### Consulte el camino de los demás.
+
+### Las habilidades del cómo
+
+### Hablé con prudencia.
+
+### Estimule las pruebas Haber nómina creencias sólidas.
+
+### Cómo llegamos a esto.
+
+### Cómo cambiar.
+
+## Capítulo 8: Explorar el camino de los demás. cómo escuchar cuando otros explotan o se mantienen en el silencio.
+xxx
+### Empezar por el corazón: prepararse a escuchar.
+
+### Estimule a otros a volver sobre su camino.
+
+### Habilidades para preguntar.
+
+### Preguntar, reflejar, parafrasear u ofrecer hipótesis.
+
+### Afiance su acuerdo.
+
+### Busca elementos constructivos.
+
+### Compare.
+
+## Capítulo 9: El paso a la acción. Cómo convertir las conversaciones cruciales en acción y en resultados concretos.
+xxx
+### El diálogo no es la toma de decisiones.
+x
+### Decidir cómo tomar decisiones.
+x
+### Los cuatro métodos para la toma de decisiones.
+x
+### Cómo elegir.
+
+### Cuatro preguntas importantes.
+
+### Adjudicar tareas: convertir las decisiones en acción.
+
+### Quién.
+
+### Quién hace “qué”.
+
+### Para “cuándo”. 
+
+### Cómo se hará el seguimiento.
+
+### Documento en su trabajo.
+
+## Capítulo 10: Sí, pero. Consejos para casos difíciles.
+xxx
+### Acoso sexual o de otra naturaleza.
+x
+### Mi cónyuge hipersensible.
+x
+### Incapacidad de respetar los acuerdos.
+x
+#### La referencia a la autoridad.
+x
+#### La falta de confianza.
+x
+### No quiero hablar de nada seriamente.
+x
+### Vago pero molesto.
+x
+### No demuestra iniciativa alguna.
+x
+### Muestra un patrón.
+x
+### Necesito tiempo para calmarme.
+x
+### Excusas permanentes.
+x
+### La insubordinación.
+x
+### Lamentarse después de decir algo horrible.
+x
+### Delicado y personal.
+x
+### Distorsión de palabras.
+x
+### Sin previo aviso. Tratar con alguien que rompe todas las reglas.
+x
+## Capítulo 11: el ensamblaje final. Herramientas para preparar y aprender.
+xxxx
+### Dos puntos de apoyo.
+
+### Cómo prepararse para una conversación crucial.
+
+### Conclusión: no se trata de comunicación, se trata de resultados.
+
+## Epílogo: Lo que he aprendido sobre conversaciones cruciales en los 10 últimos 
