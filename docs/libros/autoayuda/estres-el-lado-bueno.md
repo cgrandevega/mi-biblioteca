@@ -343,74 +343,140 @@ Optar por ver la relación entre estrés y significado puede liberarte de la fas
 ## Parte 2: transforma el estrés.
 ## 4. Actúa
 
-Acelerado o aniquilado.
-Jeremy Jamieson Profesor de psicología de Rochester, presentía que juzgar dañino al estrés interfiere con la capacidad de la gente para usarlo como el recurso que en realidad es. Inicialmente probó su teoría con estudiantes universitarios que se preparaban para presentar su examen de admisión al doctorado. Los reunió en un aula para hacer un examen de prácticas. Antes de esto les tomó muestras de saliva para disponer de indicadores de su respuesta al estrés. Luego les dijo que la meta de su investigación era examinar los efectos en el desempeño de la respuesta fisiológica al estrés.
+### Acelerado o aniquilado
+
+Jeremy Jamieson Profesor de psicología de Rochester, presentía que **juzgar dañino al estrés interfiere con la capacidad de la gente para usarlo como el recurso que en realidad es.** Inicialmente probó su teoría con estudiantes universitarios que se preparaban para presentar su examen de admisión al doctorado. Los reunió en un aula para hacer un examen de prácticas. **Antes de esto les tomó muestras de saliva para disponer de indicadores de su respuesta al estrés.** Luego les dijo que la meta de su investigación era examinar los efectos en el desempeño de la respuesta fisiológica al estrés.
+
 A la mitad de ellos dirigió entonces una breve charla motivacional para que reconsideraran sus nervios ante el examen:
-La gente cree que sentirse ansiosa cuando se presenta en un examen es garantía de fracaso, pero investigaciones recientes sugieren que el estrés no daña al rendimiento en esas pruebas, sino que al contrario puede elevarlo. Quienes se sienten ansiosos en un examen incluso podrían obtener mejores calificaciones. Eso quiere decir que ustedes no deben preocuparse si sienten ansiedad mientras realizan el examen de hoy. Si lo sienten simplemente recuerden que su estrés les puede ayudar a desempeñar mejor el examen.
-Jeremy supuso que este mensaje elevaría el rendimiento de estos estudiantes y así fue. Los que recibieron la intervención sobre la mentalidad del estrés obtuvieron mejores resultados en el examen de práctica que los miembros del grupo de control. Los estudiantes fueron aleatoriamente asignados a recibir o no la intervención sobre mentalidad y no había diferencias entre ambos grupos en resultados de su examen de admisión a licenciatura o en promedios escolares.
-Podría ocurrir también que el mensaje de Jeremy sobre la ansiedad fuese muy tranquilizador y en lugar de ayudar a esos alumnos a utilizar el estrés, el mensaje los había serenado. Para probar esa posibilidad Jimmy toma una segunda muestra de saliva de los participantes después del examen. Si la intervención les había serenado su nivel de hormonas del estrés sería menor que antes del examen punto si a la inversa les había servido para aprovechar sus nervios sus hormonas del estrés debían ser al menos tan altas como las del examen. 
-El grupo que recibió el mensaje de mentalidad mostró niveles más altos no más bajos de Alfa-amilasa salival indicador de activación simpática por estrés. El mensaje no había calmado físicamente a los alumnos. De hecho, estaban más estresados no menos. En este caso se puede asociar los mejores resultados del examen a una intensa respuesta física al estrés, pero solo en el caso de estudiantes que recibieron una intervención sobre la mentalidad. El mensaje les ayudó a utilizar su tensión para alcanzar un mejor desempeño.
-Transformar el estrés: convierten los nervios en entusiasmo.
-Por trivial que parezca, muchos de mis alumnos informan que decirse a sí mismos que están emocionados cuando sienten ansiedad les da excelentes resultados. Formular como emoción los nervios que sentía antes de sus clases le ayudó a canalizar su energía hacia su enseñanza. (Mariela profesora de yoga). En vez de tratar de controlar sus síntomas se volvió capaz de dirigir su atención a sus alumnos y de disfrutar de su papel como maestra. Aunque la conocida sensación de ansiedad seguía apareciendo antes de cada sesión ella ya no necesitaba cancelar clases por temor a tener un colapso y no poder enseñar. Recuerda que existe una línea muy fina entre la ansiedad y la emoción.
-Investigadores de la Universidad de New Orleans descubrieron que los paracaidistas veteranos no estaban más tranquilos que los que iban a hacer su primer salto; al contrario, registrar un ritmo cardíaco más alto antes y durante el salto. Cuanto más agitado se sintieron antes del salto mayor fue su respuesta de excitación y de disfrute. Cuando tengas que realizar un salto y quieras darlo bien no te obligas a relajarte. Acepta tu ansiedad, reconoce que estás nervioso y ármate de valor.
-Cómo transformar una amenaza en un desafío.
-Ya vimos que una de las más notables ideas de la nueva ciencia del estrés es que tenemos en nuestro repertorio más de una respuesta a la ansiedad.
-Cuando una persona tiene una respuesta de lucha o huida bajo la presión de hacer algo adopta lo que los psicólogos llaman una respuesta a una amenaza. Este es un tipo de respuesta que predispone a la defensa propia antes que al éxito. Examinaremos igualmente qué dice la ciencia acerca de cómo aprovechar una respuesta a un desafío aún si nos sentimos amenazados.
-Tanto en una respuesta a una amenaza como una respuesta a un desafío te preparan para la acción cómo lo que sientes cuando tu corazón empieza a latir más rápido. Pero en la respuesta a una amenaza el cuerpo prevé un daño físico. Para minimizar la pérdida de sangre que podría resultar de una pelea violenta los vasos sanguíneos se contraen. El cuerpo moviliza las células del sistema inmune para procurar una rápida curación.
-En cambio, durante una respuesta a un desafío el cuerpo reacciona como en el ejercicio físico. Dado que no prevé daños se siente a salvo maximizando el Torrente sanguíneo para aportar la mayor energía posible. A diferencia de lo que ocurre en la respuesta a una amenaza los vasos sanguíneos permanecen relajados. El corazón no solamente late más rápido sino también con más fuerza. Así la respuesta al desafío proporciona más energía que la dirigida a una amenaza. Se ha visto que el tipo de respuesta asociado con un mayor riesgo de afecciones cardiovasculares es la dirigida a una amenaza.
-Tu respuesta al estrés influye en lo bien que te desempeñas bajo presión. En la respuesta a una amenaza, entre tus emociones puede estar el miedo, el enfado, la desconfianza de ti mismo y la vergüenza. Puesto que tu principal objetivo es protegerte, estás más alerta a signos de que las cosas marchan mal, lo que puede generar un círculo vicioso en el que tú acentuada atención a lo que marcha mal te hace sentir aún más miedo y desconfianza de ti. En contraste, durante la respuesta a un desafío podrías sentirte un poco ansioso, pero también emocionado, tonificado, con entusiasmo e incluso con seguridad. Tu meta principal no es evitar daños, sino alcanzar lo que quieres. Tu atención está más abierta y dispuesta a ajustarse a tu entorno y tú estás preparado para poner tus recursos en acción.
-Los científicos han estudiado estas diferentes respuestas al estrés en muchas situaciones de alto riesgo y la respuesta a desafíos predice sistemáticamente mejor desempeño bajo presión.
-En negociaciones comerciales la respuesta a desafíos se traduce en mayor eficacia al compartir retener información, así como en una toma de decisiones más inteligentes. Frente a los fallos de un motor en una simulación de vuelo los pilotos hacen mejor uso de los datos de la aeronave y consiguen aterrizar con menor peligro
-En contraste, cuando se adopte una respuesta al desafío el cerebro tiende a adquirir resiliencia de una experiencia con el estrés. Esto se debe a que se liberan más hormonas incitadoras de resistencia como la DHEA y el factor de crecimiento del sistema nervioso. La reprogramación del cerebro tras una reacción a un desafío refuerza los enlaces entre las partes de la corteza prefrontal que inhiben el miedo y favorecen la motivación positiva durante el estrés. De esta forma la respuesta a desafíos se vuelve más factible experimentare inoculación de estrés como resultado de una experiencia.
-¿Esto es un reto o una amenaza?
-Los psicólogos han descubierto que el factor decisivo en cómo reaccionas a la presión es lo que piensas de tu capacidad para manejarla. De cara a una situación estresante lo primero que haces es evaluar el estado de cosas y tus recursos. ¿Qué tan difícil va a ser esto? ¿Tengo las habilidades la fuerza y la valentía necesarias para enfrentarme? ¿Alguien puede ayudarme? Esta evaluación de exigencias y recursos puede no ser consciente, pero sucede debajo de la superficie. Mientras compran las demandas de la situación con los recursos que dispones de ella haces una rápida evaluación de tu capacidad de respuesta punto.
-Esta evaluación es la clave que determina tu reacción al estrés. Si crees que las exigencias de la situación superan tus recursos tendrás una respuesta a una amenaza si crees tener los recursos para triunfar tendrás una respuesta a un desafío.
+
+- **La gente cree que sentirse ansiosa cuando se presenta en un examen es garantía de fracaso**, pero investigaciones recientes sugieren que el estrés no daña al rendimiento en esas pruebas, sino que al contrario puede elevarlo. Quienes se sienten ansiosos en un examen incluso podrían obtener mejores calificaciones. Eso quiere decir que ustedes no deben preocuparse si sienten ansiedad mientras realizan el examen de hoy. Si lo sienten simplemente recuerden que su estrés les puede ayudar a desempeñar mejor el examen.
+
+Jeremy supuso que este mensaje elevaría el rendimiento de estos estudiantes y así fue. **Los que recibieron la intervención sobre la mentalidad del estrés obtuvieron mejores resultados en el examen de práctica que los miembros del grupo de control.** Los estudiantes fueron aleatoriamente asignados a recibir o no la intervención sobre mentalidad y no había diferencias entre ambos grupos en resultados de su examen de admisión a licenciatura o en promedios escolares.
+
+Podría ocurrir también que el mensaje de Jeremy sobre la ansiedad fuese muy tranquilizador y en lugar de ayudar a esos alumnos a utilizar el estrés, el mensaje los había serenado. Para probar esa posibilidad Jimmy **toma una segunda muestra de saliva de los participantes después del examen**. Si la intervención les había serenado su nivel de hormonas del estrés sería menor que antes del examen punto si a la inversa les había servido para aprovechar sus nervios sus hormonas del estrés debían ser al menos tan altas como las del examen.
+
+**El grupo que recibió el mensaje de mentalidad mostró niveles más altos no más bajos de Alfa-amilasa salival indicador de activación simpática por estrés.** El mensaje no había calmado físicamente a los alumnos. De hecho, estaban más estresados no menos. En este caso se puede asociar los mejores resultados del examen a una intensa respuesta física al estrés, pero solo en el caso de estudiantes que recibieron una intervención sobre la mentalidad. El mensaje les ayudó a utilizar su tensión para alcanzar un mejor desempeño.
+
+### Transformar el estrés: convierten los nervios en entusiasmo
+
+Por trivial que parezca, **muchos de mis alumnos informan que decirse a sí mismos que están emocionados cuando sienten ansiedad les da excelentes resultados.** Formular como emoción los nervios que sentía antes de sus clases le ayudó a canalizar su energía hacia su enseñanza. (Mariela profesora de yoga). En vez de tratar de controlar sus síntomas se volvió capaz de dirigir su atención a sus alumnos y de disfrutar de su papel como maestra. Aunque la conocida sensación de ansiedad seguía apareciendo antes de cada sesión ella ya no necesitaba cancelar clases por temor a tener un colapso y no poder enseñar. Recuerda que existe una línea muy fina entre la ansiedad y la emoción.
+
+Investigadores de la Universidad de New Orleans descubrieron que l**os paracaidistas veteranos no estaban más tranquilos que los que iban a hacer su primer salto**; al contrario, registrar un ritmo cardíaco más alto antes y durante el salto. Cuanto más agitado se sintieron antes del salto mayor fue su respuesta de excitación y de disfrute. **Cuando tengas que realizar un salto y quieras darlo bien no te obligas a relajarte. Acepta tu ansiedad, reconoce que estás nervioso y ármate de valor.**
+
+### Cómo transformar una amenaza en un desafío
+
+Ya vimos que una de las más notables ideas de **la nueva ciencia del estrés es que tenemos en nuestro repertorio más de una respuesta a la ansiedad.**
+
+**Cuando una persona tiene una respuesta de lucha o huida bajo la presión de hacer algo adopta lo que los psicólogos llaman una respuesta a una amenaza**. Este es un tipo de respuesta que predispone a la defensa propia antes que al éxito. Examinaremos igualmente qué dice la ciencia acerca de cómo aprovechar una respuesta a un desafío aún si nos sentimos amenazados.
+
+**Tanto en una respuesta a una amenaza como una respuesta a un desafío te preparan para la acción **cómo lo que sientes cuando tu corazón empieza a latir más rápido. Pero en la respuesta a una amenaza el cuerpo prevé un daño físico. Para minimizar la pérdida de sangre que podría resultar de una pelea violenta los vasos sanguíneos se contraen. El cuerpo moviliza las células del sistema inmune para procurar una rápida curación.
+
+En cambio, durante una respuesta a un desafío el cuerpo reacciona como en el ejercicio físico. Dado que no prevé daños se siente a salvo maximizando el Torrente sanguíneo para aportar la mayor energía posible. A diferencia de lo que ocurre en la respuesta a una amenaza los vasos sanguíneos permanecen relajados. El corazón no solamente late más rápido sino también con más fuerza. **Así la respuesta al desafío proporciona más energía que la dirigida a una amenaza.** Se ha visto que el tipo de respuesta asociado con un mayor riesgo de afecciones cardiovasculares es la dirigida a una amenaza.
+
+Tu respuesta al estrés influye en lo bien que te desempeñas bajo presión. **En la respuesta a una amenaza, entre tus emociones puede estar el miedo, el enfado, la desconfianza de ti mismo y la vergüenza. Puesto que tu principal objetivo es protegerte, estás más alerta a signos de que las cosas marchan mal**, lo que puede generar un círculo vicioso en el que tú acentuada atención a lo que marcha mal te hace sentir aún más miedo y desconfianza de ti. En contraste, durante la respuesta a un desafío podrías sentirte un poco ansioso, pero también emocionado, tonificado, con entusiasmo e incluso con seguridad. Tu meta principal no es evitar daños, sino alcanzar lo que quieres. Tu atención está más abierta y dispuesta a ajustarse a tu entorno y tú estás preparado para poner tus recursos en acción.
+
+Los científicos han estudiado estas diferentes respuestas al estrés en muchas situaciones de alto riesgo y **la respuesta a desafíos predice sistemáticamente mejor desempeño bajo presión.**
+
+**En negociaciones comerciales la respuesta a desafíos se traduce en mayor eficacia al compartir retener información, así como en una toma de decisiones más inteligentes.** Frente a los fallos de un motor en una simulación de vuelo los pilotos hacen mejor uso de los datos de la aeronave y consiguen aterrizar con menor peligro.
+
+En contraste, cuando se adopte una respuesta al desafío el cerebro tiende a adquirir resiliencia de una experiencia con el estrés. Esto se debe a que se liberan más hormonas incitadoras de resistencia como la DHEA y el factor de crecimiento del sistema nervioso. **La reprogramación del cerebro tras una reacción a un desafío refuerza los enlaces entre las partes de la corteza prefrontal que inhiben el miedo y favorecen la motivación positiva durante el estrés.** De esta forma la respuesta a desafíos se vuelve más factible experimentare inoculación de estrés como resultado de una experiencia.
+
+### ¿Esto es un reto o una amenaza?
+
+Los psicólogos han descubierto que **el factor decisivo en cómo reaccionas a la presión es lo que piensas de tu capacidad para manejarla**. De cara a una situación estresante **lo primero que haces es evaluar el estado de cosas y tus recursos.** ¿Qué tan difícil va a ser esto? ¿Tengo las habilidades la fuerza y la valentía necesarias para enfrentarme? ¿Alguien puede ayudarme? Esta evaluación de exigencias y recursos puede no ser consciente, pero sucede debajo de la superficie. Mientras compran las demandas de la situación con los recursos que dispones de ella haces una rápida evaluación de tu capacidad de respuesta punto.
+
+Esta evaluación es la clave que determina tu reacción al estrés. **Si crees que las exigencias de la situación superan tus recursos tendrás una respuesta a una amenaza si crees tener los recursos para triunfar tendrás una respuesta a un desafío.**
+
 Numerosos estudios demuestran que la gente tiende a adoptar la respuesta a desafíos si fijan la atención en sus recursos. Algunas de las estrategias más eficaces para estos son identificar las fortalezas personales; pensar en cómo se ha preparado 1 antes para un reto particular; recordar ocasiones en las que se vencieron dificultades similares; imaginar el apoyo de los seres queridos y rezar o saber que otros lo hacen por un. Todos estos rápidos cambios de actitud pueden convertir una amenaza en un desafío lo que les vuelve cosas dignas de ser probadas la próxima vez que quieras desempeñarte de manera óptima bajo presión.
+
 El problema es que muchísimas personas no suelen darse cuenta de los recursos que tienen a su alcance. Por lo tanto, la respuesta al estrés no es una carga sino un recurso.
-Transforma el estrés: convierte una amenaza en desafío. 
-Ver la respuesta al estrés como un recurso puede transformar la fisiología del temor en la biología del valor. Puede convertir una amenaza en desafío y ayudarte a tener un desempeño al máximo bajo presión. Aún si el estrés no parece útil, como cuando estás nervioso, aceptarlo puede transformarlo en algo útil: más energía, más seguridad y mayor disposición actual.
-Sean cuales sean tus sensaciones de estrés, preocúpate menos por tratar de que desaparezcan y concéntrate en lo que vas a hacer con la energía, fuerza e impulso que el estrés te da.  Tu cuerpo te brinda acceso a todos los recursos que te permiten estar a la altura de las circunstancias. En vez de respirar hondo para calmarte, respira hondo para sentir la energía a tu disposición. Luego usa esa energía y pregúntate: qué acción puedo emprender o qué decisión puedo tomar en este momento que sea acorde con mi meta.
-De “ojalá no tuviera que hacerlo” a “lo puedo hacer”.
-Reflexiones finales.
-Ver tu respuesta al estrés como un recurso es eficaz porque te ayuda a creer que puedes hacer algo. Creer esto es importante para el estrés ordinario, pero podría serlo más todavía para la extraordinario. Saber que eres competente para enfrentarte a los retos de tu vida puede representar la diferencia entre esperanza y desesperanza, entre persistencia y derrota. Las investigaciones señalan que la forma en que interpretas la respuesta de tu cuerpo al estrés desempeña un papel en esta certeza, sea que te preocupe un examen coma un divorcio o una nueva ronda de quimioterapia.
-Aceptar el estrés es un acto radical de confianza en ti mismo: saberte capaz y ver tu cuerpo como un recurso. No es necesario que esperes a dejar de tener miedo coma estrés ansiedad para hacer lo que más te importa. El estrés no tiene por qué ser un signo de que debes parar y renunciar a ti. Este tipo de cambio de mentalidad es un catalizador coma no una cura. No elimina tu sufrimiento ni evapora tus problemas. Pero si estás dispuesto a reconsiderar tu respuesta al estrés eso te ayudará a reconocer tu fuerza y acceder a tu valor.
-5. Relaciónate: Cómo crea resiliencia el calor humano.
-Al final de la década de 1990 dos psicólogas investigadores de la Universidad de California en Los Ángeles conversaban sobre el hecho de que las científicas de su laboratorio respondían al estrés en forma distinta a los hombres. Estos desaparecían en su oficina mientras que ellas llevaban galletas a las reuniones del laboratorio y conversaban y compartían a la hora del café. 
-La investigadora postdoctoral Laura Cousino Klein, comenzó a cavar más hondo de la ciencia y obtuvo el asombroso descubrimiento de que el 90% de las investigaciones hasta entonces publicadas sobre el estrés se habían efectuado con machos y hombres en estudios animales y humanos. Su jefa Shelley Taylor directora del laboratorio la retó a estudiar el lado social del estrés especialmente en mujeres. Al examinar investigaciones tanto animales como humanas se encontraron evidencia de que el estrés puede estimular la cordialidad como la cooperación y la compasión.
+
+### Transforma el estrés: convierte una amenaza en desafío.
+
+**Ver la respuesta al estrés como un recurso puede transformar la fisiología del temor en la biología del valor.** Puede convertir una amenaza en desafío y ayudarte a tener un desempeño al máximo bajo presión. Aún si el estrés no parece útil, como cuando estás nervioso, aceptarlo puede transformarlo en algo útil: más energía, más seguridad y mayor disposición actual.
+
+Sean cuales sean tus sensaciones de estrés, preocúpate menos por tratar de que desaparezcan y concéntrate en lo que vas a hacer con la energía, fuerza e impulso que el estrés te da.  Tu cuerpo te brinda acceso a todos los recursos que te permiten estar a la altura de las circunstancias. **En vez de respirar hondo para calmarte, respira hondo para sentir la energía a tu disposición.** Luego usa esa energía y pregúntate: qué acción puedo emprender o qué decisión puedo tomar en este momento que sea acorde con mi meta.
+
+### De “ojalá no tuviera que hacerlo” a “lo puedo hacer”
+
+### Reflexiones finales
+
+**Ver tu respuesta al estrés como un recurso es eficaz porque te ayuda a creer que puedes hacer algo.** Creer esto es importante para el estrés ordinario, pero podría serlo más todavía para la extraordinario. Saber que eres competente para enfrentarte a los retos de tu vida puede representar la diferencia entre esperanza y desesperanza, entre persistencia y derrota. Las investigaciones señalan que la forma en que interpretas la respuesta de tu cuerpo al estrés desempeña un papel en esta certeza, sea que te preocupe un examen coma un divorcio o una nueva ronda de quimioterapia.
+
+**Aceptar el estrés es un acto radical de confianza en ti mismo: **saberte capaz y ver tu cuerpo como un recurso. No es necesario que esperes a dejar de tener miedo coma estrés ansiedad para hacer lo que más te importa. El estrés no tiene por qué ser un signo de que debes parar y renunciar a ti. Este tipo de cambio de mentalidad es un catalizador coma no una cura. No elimina tu sufrimiento ni evapora tus problemas. Pero si estás dispuesto a reconsiderar tu respuesta al estrés eso te ayudará a reconocer tu fuerza y acceder a tu valor.
+
+## 5. Relaciónate: Cómo crea resiliencia el calor humano
+
+Al final de la década de 1990 dos psicólogas investigadoras de la Universidad de California en Los Ángeles conversaban sobre el hecho de que las científicas de su laboratorio respondían al estrés en forma distinta a los hombres. Estos desaparecían en su oficina mientras que ellas llevaban galletas a las reuniones del laboratorio y conversaban y compartían a la hora del café.
+
+La investigadora postdoctoral Laura Cousino Klein, comenzó a cavar más hondo de la ciencia y obtuvo el asombroso descubrimiento de que e**l 90% de las investigaciones hasta entonces publicadas sobre el estrés se habían efectuado con machos y hombres en estudios animales y humanos.** Su jefa Shelley Taylor directora del laboratorio la retó a estudiar el lado social del estrés especialmente en mujeres. Al examinar investigaciones tanto animales como humanas se encontraron evidencia de que el estrés puede estimular la cordialidad como la cooperación y la compasión.
+
 Es verdad que es muy frecuente que el estrés vuelva a la gente mucho más egoísta y que entonces solo se protegen a sí mismos y socavan a los demás. Cuando irrumpe el instinto de supervivencia lucha huida podemos agredir o retraernos.
-Un estudio de neuro científicos de la UCLA reveló que ayudar a los demás hace pasar el interruptor del cerebro del temor a la esperanza. Los investigadores invitaron a los participantes a presentarse en un centro de RM cerebral con una persona querida. 
-Una vez allí se les explicaba que el estudio indagaría cómo reaccionamos al dolor de otro. Ellos verían a su ser querido recibir una serie de choques eléctricos moderadamente dolorosos punto para que los participantes supieran que sentiría su ser querido los investigadores les daban un choque demuestra. Si aceptaban seguir adelante con el estudio no podrían impedir que su ser querido experimentar el dolor, pero los investigadores les ofrecían dos formas de reaccionar a la angustia.
+
+Un estudio de neuro científicos de la UCLA reveló que **ayudar a los demás hace pasar el interruptor del cerebro del temor a la esperanza**. Los investigadores invitaron a los participantes a presentarse en un centro de RM cerebral con una persona querida.
+
+Una vez allí se les explicaba que el estudio indagaría cómo reaccionamos al dolor de otro. Ellos verían a su ser querido recibir una serie de choques eléctricos moderadamente dolorosos punto para que los participantes supieran que sentiría su ser querido los investigadores les daban un choque demuestra. Si aceptaban seguir adelante con el estudio no podrían impedir que su ser querido experimentar el dolor, pero **los investigadores les ofrecían dos formas de reaccionar a la angustia.**
+
 En algunos casos se pidió a los participantes que tomarán de la mano a su ser querido para consolarlo en otro se les dio una pelota para que le apretaran controlarán así su estrés al ver sufrir a esta persona. En ambos casos los investigadores observaron que pasaba en el cerebro de los participantes.
+
 Estas dos estrategias son buenos ejemplos de cómo reaccionamos en la realidad al sufrimiento de nuestros seres queridos. A veces les concedemos atención para ver si podemos consolarlos apoyarlos o ayudarlos; esta sería una respuesta de conexión y empatía. Y otras veces buscamos la manera de escapar de la angustia que sentimos por su sufrimiento. Esto aparta de nuestra atención de ellos y nos vuelven menos capaces o dispuestos a ayudar.
-Los psicólogos llaman a esto colapso de compasión y es que tratamos de evitar el estrés que sentimos por el estrés ajeno y nos paralizamos en lugar de movilizarnos.
+
+Los psicólogos llaman a esto **colapso de compasión y es que tratamos de evitar el estrés que sentimos por el estrés ajeno y nos paralizamos en lugar de movilizarnos.**
+
 Los investigadores descubrieron que estas dos estrategias de respuesta tenían efectos muy distintos en la actividad cerebral de los participantes. Cuando estos tendían en la mano para tomar la de su ser querido aumentaba la actividad de los sistemas de recompensa y solidaridad del cerebro y disminuía la de la amígdala, que es la parte del cerebro que denota miedo y evasión. En contraste apretar la pelota no tenía ningún efecto en la actividad de la amígdala.
-Otra investigación en la wharton School de la Universidad de Pennsylvania demostró algo parecido. En este estudio los investigadores probaron dos formas de arribar de aliviar la sensación de no tener tiempo cuando se tienen muchas tareas y tiempo insuficiente para realizarlas. Concedieron tiempo libre a algunas personas para dedicarse a lo que quisieran; Y a otras les pidieron dedicar tiempo a ayudar a alguien. Desde el punto de vista D empatía y conexión cuando los individuos se sienten cortos de tiempo deben ser más generosos con él pese a su inclinación a serlo menos.
-Cuando te sientes solo en tu sufrimiento.
+
+Otra investigación en la Wharton School de la Universidad de Pennsylvania demostró algo parecido. En este estudio los investigadores probaron dos formas de arribar de aliviar la sensación de no tener tiempo cuando se tienen muchas tareas y tiempo insuficiente para realizarlas. Concedieron tiempo libre a algunas personas para dedicarse a lo que quisieran; Y a otras les pidieron dedicar tiempo a ayudar a alguien. Desde el punto de vista D empatía y conexión cuando los individuos se sienten cortos de tiempo deben ser más generosos con él pese a su inclinación a serlo menos.
+
+### Cuando te sientes solo en tu sufrimiento
+
 La sensación de que estamos solos en nuestro sufrimiento es una de las mayores barreras a la transformación del estrés. Cuando nos sentimos aislados y desvinculados es más difícil actuar y ver algo bueno en nuestra situación. También puede impedirnos buscar o dar ayuda y beneficiarnos de ello. Nadie pasa por la vida sin experimentar algo de dolor coma enfermedad, decepción, enfado o pérdida. El desafío es no olvidar esto cuando sufres.
-¿Tienes mentalidad de aislamiento o de conexión?
+
+### ¿Tienes mentalidad de aislamiento o de conexión?
+
 De estos 4 enunciados con quién con cuál te identificas más:
-•	Cuando estoy muy estresado o estresada tiendo a sentir que los demás son más felices que yo.
-•	Cuando estoy con grandes dificultades tiendo a sentir que los demás lo tienen más fácil.
-•	Cuando estoy muy estresado muy estresada pienso que hay muchas otras personas en el mundo que se sienten como yo.
-•	Cuando no me va nada bien veo las dificultades como una parte de la vida por la que todos tenemos que pasar.
+
+- Cuando estoy muy estresado o estresada tiendo a sentir que los demás son más felices que yo.
+
+- Cuando estoy con grandes dificultades tiendo a sentir que los demás lo tienen más fácil.
+
+- Cuando estoy muy estresado muy estresada pienso que hay muchas otras personas en el mundo que se sienten como yo.
+
+- Cuando no me va nada bien veo las dificultades como una parte de la vida por la que todos tenemos que pasar.
+
 Quienes se sienten solos en su estrés tienden a deprimirse y recurrir a estrategias de evasión como la negación, la renuncia metas y la evasión de experiencias estresantes. Evitan hablar con otros de su estrés y sufrimiento y por tanto es poco probable que reciban el apoyo que necesitan. Esto les convence todavía más de que están solos en sus preocupaciones.
-Crea la Comunidad de apoyo que necesitas
-Tenía 21 años cuando su madre murió de cáncer de pulmón. Está perdida cambió toda su vida pero al salir de la Universidad y mudarse a California vio que era difícil hablar de ella. Todos los que habían conocido a su madre estaban al otro lado del país. Cuando Flowers mencionaba que se había muerto su madre voy a respuestas de evasión por la típica de cuánto lo siento y esas respuestas le hacían sentir sola punto así puedes aprender a guardar su historia para así pese a que sintiera que contenía una parte importante de ella misma.
-Buen día conocí a una amiga Carla Fernández que también había perdido a su padre y se les ocurrió realizar 4 invitaciones a las personas conocidas que hubieran perdido a uno de sus padres. Prepararon una receta familiar de paella para honrar a su padre que había sido español y todas cenaron en su apartamento punto donde no pararon de hablar hasta las 2:00 de la mañana punto esto sucedió en 2010 y fue el primer episodio de lo que terminaría por conocerse como la cena en inglés “The dinner Party”, ahora tienen lugar cenas en todos los Estados Unidos cada 1 convocada por alguien que ha perdido a un ser querido y abierta a todos aquellos que quieren un lugar seguro para hablar de su vida después de esa pérdida punte Flowers y Fernández fundaron la cena como una organización de base para ayudar a personas que se sentían aisladas por una tragedia a formar sus propias comunidades.
+
+### Crea la Comunidad de apoyo que necesitas
+
+Tenía 21 años cuando su madre murió de cáncer de pulmón. Está perdida cambió toda su vida, pero al salir de la Universidad y mudarse a California vio que era difícil hablar de ella. Todos los que habían conocido a su madre estaban al otro lado del país. Cuando Flowers mencionaba que se había muerto su madre voy a respuestas de evasión por la típica de cuánto lo siento y esas respuestas le hacían sentir sola punto así puedes aprender a guardar su historia para así pese a que sintiera que contenía una parte importante de ella misma.
+
+Un buen día conocí a una amiga, Carla Fernández, que también había perdido a su padre y se les ocurrió realizar 4 invitaciones a las personas conocidas que hubieran perdido a uno de sus padres. Prepararon una receta familiar de paella para honrar a su padre que había sido español y todas cenaron en su apartamento punto donde no pararon de hablar hasta las 2:00 de la mañana punto esto sucedió en 2010 y fue el primer episodio de lo que terminaría por conocerse como la cena en inglés “The dinner Party”, ahora tienen lugar cenas en todos los Estados Unidos cada 1 convocada por alguien que ha perdido a un ser querido y abierta a todos aquellos que quieren un lugar seguro para hablar de su vida después de esa pérdida punte Flowers y Fernández fundaron la cena como una organización de base para ayudar a personas que se sentían aisladas por una tragedia a formar sus propias comunidades.
+
 Quienes desean sentirse más acompañados apoyados y cuidados suelen creer que deben esperar a que alguien les ofrezca esas cosas punto 1 de los cambios de mentalidad más útiles que tú puedes hacer es concebirte como la fuente del apoyo que quieres experimentar.
+
 Las investigaciones demuestran que cuando se hace un esfuerzo deliberado por apoyar a los demás también se recibe más apoyo.
-6. Crece: Cómo te hace más fuerte la adversidad.
-El fracaso muchas veces se ve como algo por evitar a toda costa porque revelara que no somos lo bastante inteligentes o talentosos. Esta mentalidad puede infiltrarse cada vez que estamos en una dificultad de nuestro crecimiento, persiguiendo una meta o cambio más allá de nuestra actitud del momento punto muy a menudo percibimos los reveses como señales de alto pensando que significan que algo está mal en nosotros son nuestras metas. Y esto hace detonar un círculo vicioso de rendición y desconfianza de 1 mismo punto
-la mentalidad de crecimiento es ver los reveses como inevitables y entender que enfrentaron un obstáculo significa que es momento de echar mano de tus recursos.
-Ejercicio
+
+## 6. Crece: Cómo te hace más fuerte la adversidad.
+
+El fracaso muchas veces se ve como algo por evitar a toda costa porque revelara que no somos lo bastante inteligentes o talentosos. Esta mentalidad puede infiltrarse cada vez que estamos en una dificultad de nuestro crecimiento, persiguiendo una meta o cambio más allá de nuestra actitud del momento punto muy a menudo percibimos los reveses como señales de alto pensando que significan que algo está mal en nosotros son nuestras metas. Y esto hace detonar un círculo vicioso de rendición y desconfianza de uno mismo.
+
+**La mentalidad de crecimiento es ver los reveses como inevitables** y entender que enfrentaron un obstáculo significa que es momento de echar mano de tus recursos.
+
+### Ejercicio
+
 Transforma el estrés: haz un en un recurso de la adversidad
+
 Recuerda una experiencia estresante en la que hayas perseverado o aprendido algo de valor. Dedica unos momentos a pensar en lo que te enseñó sobre tus fortalezas y a enfrentar el estrés. Luego contesta a estas preguntas:
-•	¿qué te ayudó a superar esta situación? ¿Qué recursos y fortalezas personales utilizaste? ¿Qué tipo de Consejo o cualquier otro tipo de apoyo buscaste?
-•	¿Qué te enseñe esa experiencia acerca de cómo encarar la adversidad?
-•	¿En qué sentido esa experiencia te hizo más fuerte?
+
+- ¿Qué te ayudó a superar esta situación? ¿Qué recursos y fortalezas personales utilizaste? ¿Qué tipo de Consejo o cualquier otro tipo de apoyo buscaste?
+
+- ¿Qué te enseñe esa experiencia acerca de cómo encarar la adversidad?
+
+- ¿En qué sentido esa experiencia te hizo más fuerte?
+
 Piensa ahora en una situación que te dé problemas en la actualidad.
-•	¿Qué fortalezas y recursos puedes emplear en esta situación?
-•	¿Quisieras desarrollar ciertas fortalezas o habilidades de respuesta? de ser así ¿que puedes actualizar, qué puedes hacer para utilizar esta situación como oportunidad para crecer
+
+- ¿Qué fortalezas y recursos puedes emplear en esta situación?
+- ¿Quisieras desarrollar ciertas fortalezas o habilidades de respuesta? de ser así ¿que puedes actualizar, qué puedes hacer para utilizar esta situación como oportunidad para crecer
 
 
 
