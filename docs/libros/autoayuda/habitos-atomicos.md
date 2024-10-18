@@ -230,151 +230,286 @@ La verdadera razón por la cual los hábitos importan no es porque te ayuden a a
 
 ### Porqué nuestro cerebro desarrolla hábitos
 
-Un hábito es una conducta que se ha repetido lo suficiente como para volverse automática. El proceso de formación de hábitos empieza con una secuencia de ensayo y error. Siempre que estás ante una situación nueva en la vida, tu cerebro tiene que tomar una decisión. Cómo debo responder a esta nueva situación. La primera vez que te enfrentas a un problema no estás seguro de cómo resolverlo.
-La actividad neurológica del cerebro es muy alta durante ese período. Ocasionalmente como cuando el gato presiona la palanca, tú te topas con una solución. 
+**Un hábito es una conducta que se ha repetido lo suficiente como para volverse automática**. El proceso de formación de hábitos empieza con una secuencia de ensayo y error. **Siempre que estás ante una situación nueva en la vida, tu cerebro tiene que tomar una decisión.** Cómo debo responder a esta nueva situación. La primera vez que te enfrentas a un problema no estás seguro de cómo resolverlo.
+
+La actividad neurológica del cerebro es muy alta durante ese período. Ocasionalmente como cuando el gato presiona la palanca, tú te topas con una solución.
+
 Te sientes ansioso y descubres que salir a correr un rato te tranquiliza. Estás mentalmente exhausto debido a un largo día de trabajo y te das cuenta de que jugar a videojuegos te relaja. Estás explorando posibilidades y de repente recibes una recompensa.
+
 Siempre que afrontas un problema de manera frecuente, tu cerebro comienza a automatizar el proceso para resolverlo.
-Tus hábitos son justamente una serie de soluciones automáticas que resuelven los problemas y presiones que afrontas regularmente.
+
+**Tus hábitos son justamente una serie de soluciones automáticas que resuelven los problemas y presiones que afrontas regularmente.**
+
 Ahora cuando te me siento estresado inmediatamente siento la necesidad de salir a correr. Tan pronto como llegas del trabajo agarras el control remoto del videojuego. Una decisión que anteriormente requirió un esfuerzo ahora se ha vuelto automática punto un hábito ha sido creado.
-Los hábitos son atajos mentales aprendidos gracias a la experiencia. En cierto sentido un hábito simplemente la memorización de los pasos que seguiste previamente para resolver un problema.
+
+**Los hábitos son atajos mentales aprendidos gracias a la experiencia.** En cierto sentido un hábito simplemente la memorización de los pasos que seguiste previamente para resolver un problema.
 La principal razón por la cual el cerebro recuerda el pasado es para predecir de mejor manera lo que va a funcionar bien en el futuro.
-La formación de hábitos es increíblemente útil porque la mente consciente es el cuello de botella del cerebro. El cerebro solamente puede poner atención a un problema a la vez. Como resultado el cerebro siempre se esfuerza por preservar la atención consciente y destinarle a la tarea que resulta más esencial en un momento determinado. La mente consciente le pasa a la mente inconsciente las tareas para que las ejecute de manera automática sin hacer uso de la conciencia. Eso es justamente lo que pasa cuando se forma un hábito. Los hábitos reducen la carga cognitiva y liberan la capacidad mental, lo que permite decidir la atención consciente a otras tareas.
+
+La formación de hábitos es increíblemente útil porque **la mente consciente es el cuello de botella del cerebro**. El cerebro solamente puede poner atención a un problema a la vez. Como resultado el cerebro siempre se esfuerza por preservar la atención consciente y destinarle a la tarea que resulta más esencial en un momento determinado. La mente consciente le pasa a la mente inconsciente las tareas para que las ejecute de manera automática sin hacer uso de la conciencia. Eso es justamente lo que pasa cuando se forma un hábito. Los hábitos reducen la carga cognitiva y liberan la capacidad mental, lo que permite decidir la atención consciente a otras tareas.
+
 A pesar de su evidente eficacia, algunas personas siguen dudando de los beneficios de los hábitos. El argumento que esgrimen es parecido a esto: “los hábitos de la voluntad hacen la vida aburrida. Yo no quiero encasillarme en un estilo de vida que no disfruto.” ¿Acaso no es la rutina y la repetición lo que le resta la vida espontaneidad y dinamismo? Esto difícilmente es así. Los planteamientos anteriores establecen una falsa dicotomía. Te hacen creer que tienes que elegir entre la construcción del hábito y la obtención de la libertad. En la realidad ambos conceptos se complementan.
-Los hábitos no restringen la libertad. En realidad, la promueven. De hecho, las personas que no tienen sus hábitos bajo control son aquellas que disfrutan de menos libertad. Si no cuentas con buenos hábitos financieros siempre estarás luchando para conseguir dinero para llegar al final de mes. Si no tienes buenos hábitos de estudio siempre vas a sentir que el resto de la clase te deja atrás. Siempre estás obligado a tomar decisiones acerca de las tareas más básicas, por ejemplo, cuando debo entrenar, dónde voy a para escribir, cuando pagó las facturas, no te quedará mucho tiempo para disfrutar de tu libertad. Cuando logra simplificar las tareas fundamentales de la vida puedes crear el espacio mental necesario para el pensamiento libre y la creatividad.
-La ciencia de cómo trabajan los hábitos.
+
+**Los hábitos no restringen la libertad. En realidad, la promueven. De hecho, las personas que no tienen sus hábitos bajo control son aquellas que disfrutan de menos libertad.** Si no cuentas con buenos hábitos financieros siempre estarás luchando para conseguir dinero para llegar al final de mes. Si no tienes buenos hábitos de estudio siempre vas a sentir que el resto de la clase te deja atrás. Siempre estás obligado a tomar decisiones acerca de las tareas más básicas, por ejemplo, cuando debo entrenar, dónde voy a para escribir, cuando pagó las facturas, no te quedará mucho tiempo para disfrutar de tu libertad. Cuando logra simplificar las tareas fundamentales de la vida puedes crear el espacio mental necesario para el pensamiento libre y la creatividad.
+
+### La ciencia de cómo trabajan los hábitos
+
 El proceso de construir un hábito puede dividirse en cuatro simples pasos: señal, anhelo, respuesta y recompensa.
-Primero tenemos la señal. La señal desencadena el proceso en tu cerebro que inicia determinada conducta. Se trata de una pequeña porción de información que anticipa la recompensa. Nuestros ancestros prehistóricos se mantenían atentos a señales que indicaban la localización de recompensas primarias como alimento, agua y sexo. En nuestros días, pasamos la mayor parte del tiempo esperando señales que anticipen recompensas secundarias como dinero y fama, poder y estatus, reconocimiento y aprobación, amor y amistad o un estado de satisfacción personal. Por supuesto al perseguir estas recompensas secundarias también incrementamos, aunque sea de manera indirecta, nuestras probabilidades de supervivencia y reproducción que en última instancia son el motivo primordial de todo lo que hacemos.
-Los anhelos constituyen el segundo paso y son la fuerza motivacional que hay detrás de cada hábito. Sin cierto nivel de motivación o deseo, sin anhelar un cambio, no tendríamos razones para actuar. Lo que anhelas no es el hábito en sí, sino el cambio de estado que trae consigo. No te sientes motivado por el hecho de cepillarte los dientes en sí, sino por la sensación de tener la boca limpia. No quieres encender la televisión lo que quieres es ver algo que entretenga. Cada anhelo está Unido al deseo de cambiar tu estado interno.
-Los anhelos difieren de una persona a otra. En teoría cada pieza de información podría desencadenar un anhelo, pero en la práctica las personas no son motivadas por las mismas señales. Para un apostador el sonido de las máquinas tragaperras puede ser un poderoso desencadenante. Las señales carecen de significado hasta que son interpretadas. Los pensamientos, sentimientos y emociones del observador son los que transforman una señal en un anhelo.
-El tercer paso es la respuesta. La respuesta es justamente el hábito que realizas el cual puede ser un pensamiento o una acción. El que la respuesta ocurra depende de cuán motivado estes y cuánta tensión o resistencia está asociada con la conducta. Si una acción particular requiere un mayor esfuerzo físico o mental del que estás dispuesto a invertir entonces no lo realizarás. Tu respuesta también depende de tu habilidad. Resulta obvio, pero un hábito solo puede ocurrir cuando eres capaz de realizarlo. Si quieres hacer un mate con la pelota baloncesto, pero no puedes saltar lo suficientemente alto para alcanzar el aro no tendrás ninguna oportunidad de lograrlo.
-Finalmente, la respuesta se lleva a obtener la recompensa. Las recompensas son la meta final de cada hábito. La señal consiste en darse cuenta de cuál será la recompensa. El anhelo consiste en desear obtener la recompensa. La respuesta consiste en obtener la recompensa. Perseguimos las recompensas porque nos sirven para dos propósitos: nos satisfacen y nos enseñan.
-El primer propósito de la recompensa es satisfacer tu anhelo. Efectivamente las recompensas proporcionan beneficios por sí mismas. Los alimentos y el agua nos proporcionan la energía que necesitamos para sobrevivir. Una promoción en el trabajo nos brinda un mejor salario y el respeto de los colegas. Una mejora forma física la mejora de tu salud y tus posibilidades de conseguir una pareja. Pero el beneficio más inmediato de las recompensas es que satisfacen tu anhelo de comer o de ganar estatus o de obtener aprobación. Al menos por un momento las recompensas nos brindan contento y alivio para nuestros anhelos.
-El segundo propósito de las recompensas es enseñarnos qué acciones vale la pena recordar en el futuro. Tu cerebro es un detector de recompensas. Conforme avanzas en la vida tu sistema nervioso sensorial está registrando constantemente qué acciones satisfacen tus deseos y te producen placer. Los sentimientos de placer y decepción son parte del mecanismo de retroalimentación que ayuda a tu cerebro a distinguir las acciones útiles de las inútiles. Las recompensas cierran el circuito de retroalimentación y completan el ciclo de los hábitos.
-Si una conducta resulta insuficiente en cualquiera de las cuatro etapas no se convertirá en un hábito. Si eliminas la señal, tu hábito nunca va a comenzar. Si reduces el anhelo, no encontrarás suficiente motivación para actuar. Si la conducta es demasiado difícil no serás capaz de realizarla. Y si la recompensa es incapaz de satisfacer tu deseo entonces no habrá razón para que la repitas en el futuro. Sin los primeros 3 pasos la conducta no ocurrirá punto si en el cuarto paso la conducta no se repetirá. Ver figura 6 página 69.
-El cerebro está escaneando constantemente el ambiente prediciendo lo que va a acontecer a continuación, experimentando con diferentes respuestas y aprendiendo de los resultados. El proceso entero se completa en una fracción de segundo y hacemos uso de él una y otra vez sin darnos cuenta conscientemente de todo lo que sucedió en el momento precedente.
+
+Primero tenemos **la señal**. La señal desencadena el proceso en tu cerebro que inicia determinada conducta. Se trata de una pequeña porción de información que anticipa la recompensa. Nuestros ancestros prehistóricos se mantenían atentos a señales que indicaban la localización de recompensas primarias como alimento, agua y sexo. En nuestros días, pasamos la mayor parte del tiempo esperando señales que anticipen recompensas secundarias como dinero y fama, poder y estatus, reconocimiento y aprobación, amor y amistad o un estado de satisfacción personal. Por supuesto **al perseguir estas recompensas secundarias también incrementamos, aunque sea de manera indirecta, nuestras probabilidades de supervivencia** y reproducción que en última instancia son el motivo primordial de todo lo que hacemos.
+
+Los **anhelos** constituyen el segundo paso y** son la fuerza motivacional que hay detrás de cada hábito**. Sin cierto nivel de motivación o deseo, sin anhelar un cambio, no tendríamos razones para actuar. **Lo que anhelas no es el hábito en sí, sino el cambio de estado que trae consigo.** No te sientes motivado por el hecho de cepillarte los dientes en sí, sino por la sensación de tener la boca limpia. No quieres encender la televisión lo que quieres es ver algo que entretenga. Cada anhelo está Unido al deseo de cambiar tu estado interno.
+
+**Los anhelos difieren de una persona a otra.** En teoría cada pieza de información podría desencadenar un anhelo, pero en la práctica las personas no son motivadas por las mismas señales. Para un apostador el sonido de las máquinas tragaperras puede ser un poderoso desencadenante. **Las señales carecen de significado hasta que son interpretadas**. Los pensamientos, sentimientos y emociones del observador son los que transforman una señal en un anhelo.
+
+El tercer paso es **la respuesta**. La respuesta es justamente **el hábito que realizas el cual puede ser un pensamiento o una acción.** El que la respuesta ocurra depende de cuán motivado estes y cuánta tensión o resistencia está asociada con la conducta. Si una acción particular requiere un mayor esfuerzo físico o mental del que estás dispuesto a invertir entonces no lo realizarás. Tu respuesta también depende de tu habilidad. Resulta obvio, pero un hábito solo puede ocurrir cuando eres capaz de realizarlo. Si quieres hacer un mate con la pelota baloncesto, pero no puedes saltar lo suficientemente alto para alcanzar el aro no tendrás ninguna oportunidad de lograrlo.
+
+Finalmente, la respuesta se lleva a obtener **la recompensa**. Las recompensas son la meta final de cada hábito. La señal consiste en darse cuenta de cuál será la recompensa. El anhelo consiste en desear obtener la recompensa. La respuesta consiste en obtener la recompensa. Perseguimos las recompensas porque nos sirven para dos propósitos: nos satisfacen y nos enseñan.
+
+**El primer propósito de la recompensa es satisfacer tu anhelo**. Efectivamente las recompensas proporcionan beneficios por sí mismas. Los alimentos y el agua nos proporcionan la energía que necesitamos para sobrevivir. **Una promoción en el trabajo nos brinda un mejor salario y el respeto de los colegas.** Una mejora forma física la mejora de tu salud y tus posibilidades de conseguir una pareja. Pero el beneficio más inmediato de las recompensas es que satisfacen tu anhelo de comer o de ganar estatus o de obtener aprobación. Al menos por un momento las recompensas nos brindan contento y alivio para nuestros anhelos.
+
+**El segundo propósito de las recompensas es enseñarnos qué acciones vale la pena recordar en el futuro.** Tu cerebro es un detector de recompensas. Conforme avanzas en la vida tu sistema nervioso sensorial está registrando constantemente qué acciones satisfacen tus deseos y te producen placer. Los sentimientos de placer y decepción son parte del mecanismo de retroalimentación que ayuda a tu cerebro a distinguir las acciones útiles de las inútiles. Las recompensas cierran el circuito de retroalimentación y completan el ciclo de los hábitos.
+
+Si una conducta resulta insuficiente en cualquiera de las cuatro etapas no se convertirá en un hábito. Si eliminas la señal, tu hábito nunca va a comenzar. Si reduces el anhelo, no encontrarás suficiente motivación para actuar. Si la conducta es demasiado difícil no serás capaz de realizarla. Y si la recompensa es incapaz de satisfacer tu deseo entonces no habrá razón para que la repitas en el futuro. Sin los primeros 3 pasos la conducta no ocurrirá punto si en el cuarto paso la conducta no se repetirá. 
+
+Ver figura 6 página 69.
+
+El cerebro está escaneando constantemente el ambiente prediciendo lo que va a acontecer a continuación, experimentando con diferentes respuestas y aprendiendo de los resultados. **El proceso entero se completa en una fracción de segundo y hacemos uso de él una y otra vez sin darnos cuenta conscientemente de todo lo que sucedió en el momento precedente.
+**
 Podemos dividir estos cuatro pasos en dos fases: la fase del problema y la fase de la solución. La fase del problema incluye la señal y el anhelo y ocurre cuando nos damos cuenta de que es necesario cambiar algo. La fase de la solución incluye la respuesta y la recompensa tiene lugar cuando decides pasar a la acción y logras el cambio que deseas.
+
 Copiar tabla página 71.
-Las cuatro leyes del cambio de conducta página. 
+
+### Las cuatro leyes del cambio de conducta página
+
 La primera ley actúa sobre la señal: por ejemplo, para crear un buen hábito hay que hacerlo obvio. Para limitar o eliminar un mal hábito hay que hacerlo invisible.
+
 La segunda ley actúa sobre el anhelo: Para crear un buen hábito hay que hacerlo atractivo, para eliminar un mal hábito hay que hacerlo poco atractivo.
+
 La tercera ley actúa sobre la respuesta: para crear un buen hábito hay que hacerlo sencillo y para crear o eliminar perdón un mal hábito hay que hacerlo difícil.
+
 Y la cuarta ley actúa sobre la recompensa. Para crear un buen hábito hay que hacerlo satisfactorio y para eliminar un mal hábito hay que hacerlo insatisfactorio.
-Primera ley: Hacerlo Obvio
-Capítulo 4: el hombre que no tenía buen aspecto.
-El cerebro humano es una máquina de hacer predicciones. Continuamente está revisando el ambiente a su alrededor y analizando la información que se cruza en su camino. Siempre que experimentas algo de manera repetida tu cerebro comienza por analizar qué es lo más importante, clasifica los detalles, destaca las señales relevantes y cataloga la información para usarla en el futuro.
-Con suficiente práctica es posible seleccionar las señales que predicen ciertos resultados sin pensar conscientemente en ello. de manera automática, el cerebro codifica las lecciones aprendidas por medio de la experiencia. No siempre podemos explicar qué es exactamente lo que el cerebro está aprendiendo, pero el aprendizaje está sucediendo todo el tiempo y la habilidad para anotar las señales relevantes en una situación determinada es el fundamento del todos los hábitos que tenemos.
-Solemos subestimar todo lo que nuestro cerebro y nuestro cuerpo pueden hacer sin que intervenga el pensamiento. Tú no le dices a tu pelo que crezcan y a tu corazón que lata ni a tus pulmones que respiren ni a tu estómago que digiera la comida.
-Tu cuerpo tiene una variedad de circuitos de retroalimentación que gradualmente envían señales de alerta cuando es el momento de comer otra vez, al tiempo que siguen la pista de lo que sucede a tu alrededor y dentro de ti. El deseo puede iniciarse gracias a las hormonas y los químicos que circulan a través de tu cuerpo. De pronto sientes hambre, aunque no estés seguro de qué fue lo que provocó la sensación.
-Esta es una de las más sorprendentes características de nuestros hábitos: no tienes que ser consciente de la señal para que el hábito comience. Esto es lo que hace que los hábitos sean útiles. Esta característica también hace que los hábitos sean peligrosos. 
-Conforme los hábitos se forman, tus acciones quedan supeditadas a la dirección de tu mente inconsciente y automática. Caes en patrones antiguos antes de que te des cuenta de lo que está pasando.
+
+## Primera ley: Hacerlo Obvio
+
+## Capítulo 4: el hombre que no tenía buen aspecto
+
+**El cerebro humano es una máquina de hacer predicciones.** Continuamente está revisando el ambiente a su alrededor y analizando la información que se cruza en su camino. Siempre que experimentas algo de manera repetida tu cerebro comienza por analizar qué es lo más importante, clasifica los detalles, destaca las señales relevantes y cataloga la información para usarla en el futuro.
+
+**Con suficiente práctica es posible seleccionar las señales que predicen ciertos resultados sin pensar conscientemente en ello**. de manera automática, el cerebro codifica las lecciones aprendidas por medio de la experiencia. **No siempre podemos explicar qué es exactamente lo que el cerebro está aprendiendo, pero el aprendizaje está sucediendo todo el tiempo** y la habilidad para anotar las señales relevantes en una situación determinada es el fundamento del todos los hábitos que tenemos.
+
+**Solemos subestimar todo lo que nuestro cerebro y nuestro cuerpo pueden hacer sin que intervenga el pensamiento.** Tú no le dices a tu pelo que crezcan y a tu corazón que lata ni a tus pulmones que respiren ni a tu estómago que digiera la comida.
+
+Tu cuerpo tiene una variedad de circuitos de retroalimentación que gradualmente envían señales de alerta cuando es el momento de comer otra vez, al tiempo que siguen la pista de lo que sucede a tu alrededor y dentro de ti. El deseo puede iniciarse gracias a las hormonas y los químicos que circulan a través de tu cuerpo. **De pronto sientes hambre, aunque no estés seguro de qué fue lo que provocó la sensación.**
+
+Esta es una de las más sorprendentes características de nuestros hábitos: no tienes que ser consciente de la señal para que el hábito comience. Esto es lo que hace que los hábitos sean útiles. Esta característica también hace que los hábitos sean peligrosos.
+
+**Conforme los hábitos se forman, tus acciones quedan supeditadas a la dirección de tu mente inconsciente y automática.** Caes en patrones antiguos antes de que te des cuenta de lo que está pasando.
 A menos que alguien te lo señale puede que no te des cuenta de que te cubres la boca con la mano cada vez que te ríes, de que te disculpas antes de hacer una pregunta o de que tienes el hábito de completar la última parte de las frases de las personas con las que hablas. Y cuanto más repites estos patrones de conducta es menos probable que te llegues a preguntar qué estás haciendo y por qué lo estás haciendo.
-Si un hábito permanece inconsciente, no puedes esperar cambiarlo para mejorar. Como el psicólogo Carl Jung decía: “mientras no logres transformar lo inconsciente en consciente, lo inconsciente guiar a tu vida y tú lo llamaras destino.”
-El registro de los hábitos.
+
+Si un hábito permanece inconsciente, no puedes esperar cambiarlo para mejorar. Como el psicólogo Carl Jung decía: *“mientras no logres transformar lo inconsciente en consciente, lo inconsciente guiar a tu vida y tú lo llamaras destino.”*
+
+### El registro de los hábitos
+
 El sistema de trenes japoneses es reconocido como uno de los mejores del mundo. Si alguna vez viajas en un tren de Tokio te das cuenta de que los conductores tienen un hábito peculiar. Durante el trayecto del tren los conductores siguen un ritual que consiste en señalar diferentes objetos y decir en voz alta diversas instrucciones. Cuando tienes se acerca una señal de tránsito, el operador la señala y dice: “la señal está en verde.” Cuando es hora de abandonar una estación el operador señal del tablón con los horarios y dice en voz alta la hora. Antes de que cada tren salga de la estación los miembros del equipo de tierra señalan el borde del andén y declaran: “todo despejado.” Cada detalle del viaje es identificado señalado y nombrado en voz alta.
-Este proceso conocido como “Pointing and Calling” es un sistema de seguridad diseñado para reducir errores. Puede parecer un poco tonto, pero funciona increíblemente bien punto
-La autoridad metropolitana de transportes de Nueva York (MTA por sus siglas en inglés) adoptó una versión modificada del sistema para el sistema de transporte subterráneo. Aunque esta versión consistía únicamente en señalar los problemas dos años después de su implementación los incidentes de trenes que estacionaban incorrectamente disminuyeron en un 57%. 
+
+Este proceso conocido como **“Pointing and Calling**” es un sistema de seguridad diseñado para reducir errores. Puede parecer un poco tonto, pero funciona increíblemente bien.
+
+La autoridad metropolitana de transportes de Nueva York (MTA por sus siglas en inglés) adoptó una versión modificada del sistema para el sistema de transporte subterráneo. Aunque esta versión consistía únicamente en señalar los problemas dos años después de su implementación los incidentes de trenes que estacionaban incorrectamente disminuyeron en un 57%.
+
 Mi pareja hace algo similar. Siempre que nos estamos preparando para salir de viaje ella nombra en voz alta los artículos más esenciales de su viaje:” tengo las llaves”. ”Tengo mi cartera”.  “Tengo mis gafas”. “Tengo mi esposo”.
-Cuanto más automática se vuelve una conducta y menos probabilidades de que pienses en ella de manera consciente. Y cuando hemos hecho algo miles de veces antes empezamos a dejar de fijarnos en los detalles. Asumimos que la siguiente ocasión todo va a funcionar igual que lo hizo antes. Estamos tan acostumbrados a hacer lo que siempre hemos hecho que no nos detenemos a preguntarnos si lo que estamos haciendo es lo correcto. Muchos de los fracasos de nuestro desempeño se pueden atribuir a la falta de autoconciencia.
+
+**Cuanto más automática se vuelve una conducta y menos probabilidades de que pienses en ella de manera consciente.** Y cuando hemos hecho algo miles de veces antes empezamos a dejar de fijarnos en los detalles. Asumimos que la siguiente ocasión todo va a funcionar igual que lo hizo antes. Estamos tan acostumbrados a hacer lo que siempre hemos hecho que no nos detenemos a preguntarnos si lo que estamos haciendo es lo correcto. **Muchos de los fracasos de nuestro desempeño se pueden atribuir a la falta de autoconciencia.
+**
 Uno de nuestros grandes retos al cambiar nuestros hábitos es mantenernos conscientes de lo que estamos haciendo. Esto nos ayuda a explicar por qué las consecuencias de los malos hábitos pueden colarse tan fácilmente.
-Un buen ejercicio es hacer una lista de tus hábitos diarios una vez que tengas la lista completa analiza cada conducta pregúntate si se trata de un buen hábito de un mal hábito o de un hábito neutro. Si es un buen hábito escribe al lado un+ síes un mal árbitro escribe un signo negativo y si es un hábito neutral escribe un signo de igual.
+
+**Un buen ejercicio es hacer una lista de tus hábitos diarios** una vez que tengas la lista completa analiza cada conducta pregúntate si se trata de un buen hábito de un mal hábito o de un hábito neutro. Si es un buen hábito escribe al lado un+ síes un mal árbitro escribe un signo negativo y si es un hábito neutral escribe un signo de igual.
 La marca que le asignas a cada ámbito en particular dependerá de tu situación y de tus metas.
-•	Despertarme. =
-•	Apagar la alarma. =
-•	Revisar mi teléfono. -
-•	Ir al baño. =
-•	Ducharme. 
-•	Ducharme.
-•	Lavarme los dientes.
-•	Ponerme desodorante.
-•	Colgar la toalla para que se seque.
-•	Vestirme.
+
+- Despertarme. =
+
+- Apagar la alarma. =
+
+- Revisar mi teléfono. -
+
+- Ir al baño. =
+
+- Ducharme.
+
+- Lavarme los dientes.
+
+- Ponerme desodorante.
+
+- Colgar la toalla para que se seque.
+
+- Vestirme.
+
 La marca que le asignas a cada ámbito en particular dependerá de tu situación y de tus metas. Para alguien que está tratando de perder peso, comer pan con crema de cacahuete cada mañana puede ser un mal hábito.
-No hay buenos hábitos y malos hábitos. Solamente hay hábitos efectivos, es decir, efectivos para la resolución de problemas. Todos los hábitos te sirven de alguna manera, motivo por el cual los repetimos constantemente. Por ejemplo, fumar un cigarro puede reducir el estrés en un momento dado (esa es la forma en que el hábito le sirve a quien fuma), pero no se trata de una conducta saludable a largo plazo.
+
+No hay buenos hábitos y malos hábitos. **Solamente hay hábitos efectivos, es decir, efectivos para la resolución de problemas.** Todos los hábitos te sirven de alguna manera, motivo por el cual los repetimos constantemente. Por ejemplo, fumar un cigarro puede reducir el estrés en un momento dado (esa es la forma en que el hábito le sirve a quien fuma), pero no se trata de una conducta saludable a largo plazo.
+
 Si todavía tienes problemas para determinar cómo clasificar un hábito en particular Estas son las preguntas que debes hacerte:
-•	¿Esta conducta me ayuda a convertirme en la persona que quiero llegar a ser?
-•	¿Este hábito es un punto a favor o en contra de mi identidad deseada?
-En esta primera fase del registro de los hábitos no es necesario que hagas ningún cambio. La meta por lo pronto es darse cuenta de lo que está sucediendo. 
-Observa tus pensamientos y acciones sin juzgarlas o criticarlas. No te culpes por tus errores. No te alabes por tus éxitos. Si comes chocolate cada mañana toma nota del hecho casi como si estuvieras observando a otra persona. Siestas desperdiciando el tiempo conectado a internet toma nota de que estás destinando tiempo de tu vida de una manera que no te gusta.
+
+- ¿Esta conducta me ayuda a convertirme en la persona que quiero llegar a ser?
+
+- ¿Este hábito es un punto a favor o en contra de mi identidad deseada?
+
+En esta primera fase del registro de los hábitos no es necesario que hagas ningún cambio. **La meta por lo pronto es darse cuenta de lo que está sucediendo. **
+
+**Observa tus pensamientos y acciones sin juzgarlas o criticarlas.** No te culpes por tus errores. No te alabes por tus éxitos. Si comes chocolate cada mañana toma nota del hecho casi como si estuvieras observando a otra persona. Siestas desperdiciando el tiempo conectado a internet toma nota de que estás destinando tiempo de tu vida de una manera que no te gusta.
 El primer paso para cambiar los malos hábitos es mantenerse atento para identificarlos.
+
 Si crees que necesitas ayuda adicional usa el sistema de señalar y nombrar en tu propia vida. Bien voz alta la acción que piensas realizar y cuál será el resultado. Si quieres reducir la cantidad de comida basura que ingieres, pero te das cuenta de que estás a punto de tomar una galleta y en voz alta “estoy a punto de comerme esta galleta, pero no la necesito. Comérmela hará que gane peso y dañe mi salud.”
-Escuchar la descripción de un mal hábito en voz alta hace que sus consecuencias parezcan más reales. Le otorga un peso específico a la acción en lugar de que la dejes pasar como un acto rutinario sin importancia sin tomar conciencia de ello punto
-Las estrategias como “señalar y nombrar” y “el registro de hábitos” se centran en ayudarte a reconocer tus hábitos y las señales que los desencadenan, lo cual te permite responder de tal manera que resulte beneficiado.
-Capítulo 5: la mejor manera de comenzar un nuevo hábito
+
+**Escuchar la descripción de un mal hábito en voz alta hace que sus consecuencias parezcan más reales**. Le otorga un peso específico a la acción en lugar de que la dejes pasar como un acto rutinario sin importancia sin tomar conciencia de ello.
+
+**Las estrategias como “señalar y nombrar” y “el registro de hábitos”** se centran en ayudarte a reconocer tus hábitos y las señales que los desencadenan, lo cual te permite responder de tal manera que resulte beneficiado.
+
+## Capítulo 5: la mejor manera de comenzar un nuevo hábito
+
 El concepto central está claro: las personas que hacen un plan específico que determina cuándo y dónde van a realizar un nuevo hábito tienen más probabilidades de hacerlo con éxito. Es mucha la gente que trata de cambiar sus hábitos sin definir estos detalles básicos. Nos decimos a nosotros mismos: “voy a comer de manera más saludable” o “voy a escribir con mayor frecuencia”, pero nunca nos decimos cuándo y dónde van a suceder estos hábitos. Lo dejamos al azar y esperamos que nos acordaremos de hacerlo o nos sentiremos motivados cuando llegue el momento correcto. Una intención de implementación barre con nociones imprecisas como “quiero entrenar más” o “quiero ser más productivo” o “debería ir a votar” y le transforma en plan de acción concreto.
+
 Muchas personas piensan que les falta motivación cuando en realidad lo que les falta es claridad. No siempre resulta obvio cuando y donde hay que realizar una acción. Algunas personas pasan su vida entera esperando el momento correcto para realizar una mejora.
+
 La manera sencilla de aplicar esta estrategia a tus hábitos consiste en completar la siguiente oración: haré (conducta) a las (tiempo) en (lugar).
-•	Meditación. Meditaré durante un minuto a las 7 en mi cocina.
-•	Studio. Estudiaré español durante 20 minutos a las 1800 en mi habitación.
-•	Pareja. Le prepararé una taza de té a mi pareja a las 8 en la cocina.
-Si no estás seguro de cuándo iniciar un hábito intenta hacerlo el primer día de la semana del mes o del año. La mayoría de la gente prefiere iniciar el cambio durante estos días porque la esperanza alcanza los niveles más altos. Si tenemos esperanza tenemos una razón para realizar la acción. Un nuevo comienzo siempre resulta motivante.
-Da a tus hábitos un tiempo y un lugar para habitar en este mundo. La meta es lograr que el tiempo y el lugar sean tan obvios que después de repetir los hábitos un suficiente número de veces sientas la urgencia de hacer lo correcto en el momento correcto a pesar de que no puedas explicar por qué lo haces.
-Acumulación de hábitos: un sincero y sencillo plan para superar tus hábitos.
+
+- Meditación. Meditaré durante un minuto a las 7 en mi cocina.
+
+- Studio. Estudiaré español durante 20 minutos a las 1800 en mi habitación.
+
+- Pareja. Le prepararé una taza de té a mi pareja a las 8 en la cocina.
+
+Si no estás seguro de cuándo iniciar un hábito intenta hacerlo el primer día de la semana del mes o del año. La mayoría de la gente prefiere iniciar el cambio durante estos días porque la esperanza alcanza los niveles más altos. **Si tenemos esperanza tenemos una razón para realizar la acción.** Un nuevo comienzo siempre resulta motivante.
+
+**Da a tus hábitos un tiempo y un lugar para habitar en este mundo.** La meta es lograr que el tiempo y el lugar sean tan obvios que después de repetir los hábitos un suficiente número de veces sientas la urgencia de hacer lo correcto en el momento correcto a pesar de que no puedas explicar por qué lo haces.
+
+### Acumulación de hábitos: un sincero y sencillo plan para superar tus hábitos
+
 El comportamiento de Diderot no es poco común. De hecho, la tendencia a realizar una compra detrás de otra lleva su nombre: efecto Diderot. Este efecto sostiene que obtener una posesión con frecuencia crea una espiral de consumo que conduce a realizar compras adicionales.
-Te compras un vestido y enseguida tienes que comprarte los zapatos a juego y unos pendientes que le vayan bien. Compras un nuevo sofá y enseguida cuestiones el diseño de la sala entera.
-Muchos comportamientos humanos siguen este ciclo es común que decidas lo que tienes que hacer en base a la acción que justo acabas de terminar. ir al baño te lleva a lavarte y secarte las manos coma lo que te recuerda que debes poner las toallas sucias en la lavador, lo cual dice que añadas jabón de la lavadora a la lista de compras y así sucesivamente. Las conductas no suceden de manera aislada. Cada acción se convierte en la señal que desencadena la siguiente conducta. Por qué es importante esto.
-Cuando se trata de desarrollar nuevos hábitos puedes usar esta interconexión entre conductas a tu favor. Una de las mejores maneras de desarrollar un nuevo hábito consiste en identificar un hábito que ya realizas diariamente para luego colocar un nuevo hábito sobre la anterior. Eso se llama acumulación de hábitos
+
+Te compras un vestido y enseguida tienes que comprarte los zapatos a juego y unos pendientes que le vayan bien. **Compras un nuevo sofá y enseguida cuestiones el diseño de la sala entera.
+**
+Muchos comportamientos humanos siguen este ciclo es común que decidas lo que tienes que hacer en base a la acción que justo acabas de terminar. ir al baño te lleva a lavarte y secarte las manos coma lo que te recuerda que debes poner las toallas sucias en la lavador, lo cual dice que añadas jabón de la lavadora a la lista de compras y así sucesivamente. Las conductas no suceden de manera aislada. **Cada acción se convierte en la señal que desencadena la siguiente conducta. Por qué es importante esto.**
+
+Cuando se trata de desarrollar nuevos hábitos puedes usar esta interconexión entre conductas a tu favor. Una de las mejores maneras de desarrollar un nuevo hábito consiste en identificar un hábito que ya realizas diariamente para luego colocar un nuevo hábito sobre la anterior. Eso se llama acumulación de hábitos.
+
 Por ejemplo:
-•	Meditación. Después de servirme mi café cada mañana voy a meditar durante un minuto.
-•	Gratitud. Después de sentarme a cenar mencionaré algo que haya sucedido ese día y por lo que estoy muy agradecido.
-•	Seguridad. Después de ponerme mis zapatillas para correr enviaré un mensaje de texto a un amigo o familiar para avisar de dónde voy a correr y cuánto tiempo tardaré en regresar.
-La clave consiste en vincular la nueva conducta deseada con un hábito que ya realizas diariamente.
-•	Después de tomar mi taza de café meditaré durante 60 segundos.
-•	Después de meditar 60 segundos prepararé mi agenda para ese día.
-•	Y después de preparar mi agenda para ese día comenzará inmediatamente a realizar la primera tarea de la lista.
+
+- Meditación. Después de servirme mi café cada mañana voy a meditar durante un minuto.
+
+- Gratitud. Después de sentarme a cenar mencionaré algo que haya sucedido ese día y por lo que estoy muy agradecido.
+
+- Seguridad. Después de ponerme mis zapatillas para correr enviaré un mensaje de texto a un amigo o familiar para avisar de dónde voy a correr y cuánto tiempo tardaré en regresar.
+
+La clave consiste en **vincular la nueva conducta deseada con un hábito que ya realizas diariamente.**
+
+- Después de tomar mi taza de café meditaré durante 60 segundos.
+
+- Después de meditar 60 segundos prepararé mi agenda para ese día.
+
+- Y después de preparar mi agenda para ese día comenzará inmediatamente a realizar la primera tarea de la lista.
+
 Sobre todo, la acumulación de hábitos te permite crear una serie de reglas sencillas que guiarán tu comportamiento futuro. Es como si siempre tuvieras un plan de juegos para determinar qué acción debes seguir a continuación.
-•	Ejercicio: cuando veo una escalera la usaré en lugar del ascensor.
-•	Alimentación saludable: Cuando me sirva una comida, siempre voy a poner verduras en mi plato antes que otra cosa.
-•	Minimalismo: cuando compre un nuevo artículo me desharé de algo que ya tenga.
-Sin importar cómo uses la estrategia, el secreto de crear una cadena de hábitos exitosa consiste en seleccionar la señal apropiada para desencadenar el proceso. Al contrario de la intención de implementación, que específicamente establece el tiempo y lugar para una conducta determinada, la acumulación de hábitos tiene implícitos el tiempo y lugar. 
+
+- Ejercicio: cuando veo una escalera la usaré en lugar del ascensor.
+
+- Alimentación saludable: Cuando me sirva una comida, siempre voy a poner verduras en mi plato antes que otra cosa.
+
+- Minimalismo: cuando compre un nuevo artículo me desharé de algo que ya tenga.
+
+Sin importar cómo uses la estrategia, **el secreto de crear una cadena de hábitos exitosa consiste en seleccionar la señal apropiada para desencadenar el proceso. **Al contrario de la intención de implementación, que específicamente establece el tiempo y lugar para una conducta determinada, la acumulación de hábitos tiene implícitos el tiempo y lugar.
+
 Dónde y cuándo insertes un nuevo hábito en tu rutina diaria puede marcar una gran diferencia. Si estás tratando de añadir meditación a tu rutina de la mañana, pero las mañanas son caóticas y tus hijos no paran de correr en la habitación, entonces quizás no sea muy buena idea realizar esta acción durante ese momento. Considera cuando puede realizarla de manera exitosa. No te pidas a ti mismo realizar un hábito cuando sabes que estarás ocupado realizando otras cosas al mismo tiempo.
-Capítulo 6: la motivación está sobrevalorada; el ambiente a menudo es más importante
-Anne Thorndike, doctora de cuidados primarios en el Hospital General de Massachusetts, Boston, tuvo una idea genial. Ella creía que podía mejorar los hábitos alimenticios de miles de miembros del equipo del hospital, así como de los visitantes sin tratar de alterar su fuerza de voluntad o motivación en lo más mínimo.
-Ella y sus colegas diseñaron un estudio de 6 meses para cambiar la forma en que se ofrecían los productos en la cafetería del hospital. El equipo comenzó por cambiar la forma en que las bebidas estaban distribuidas en la cafetería. Originariamente los refrigeradores que se encontraban junto a la caja registradora solo estaban llenos con refrescos. Los investigadores añadieron botellas de agua como una opción adicional en cada 1 de los refrigeradores. Adicionalmente colocaron canastas con botellas de agua en varios lugares de la habitación.
-Durante los siguientes 3 meses las ventas de refrescos del hospital bajaron un 11,4% mientras que las ventas de agua embotellada se incrementaron un 25,8%. Hicieron ajustes similares y obtuvieron resultados semejantes con la comida de la cafetería.
-Con frecuencia las personas eligen productos no por lo que son sino por el lugar donde se encuentran. Si entro en la cocina y veo un plato de galletas en la encimera, seguramente tomaré una docena y empezaré a comérmelas, e incluso si no había pensado en ellas anteriormente y a pesar de que no tenga hambre. Si la mesa compartida en la oficina casi siempre está llena de panecillos y rosquillas será difícil no tomar 1 de vez en cuan. Tus hábitos cambian dependiendo de la habitación en la que te encuentres y las señales que están frente a ti.
+
+## Capítulo 6: la motivación está sobrevalorada; el ambiente a menudo es más importante
+
+Anne Thorndike, doctora de cuidados primarios en el Hospital General de Massachusetts, Boston, tuvo una idea genial. **Ella creía que podía mejorar los hábitos alimenticios de miles de miembros del equipo del hospital, así como de los visitantes sin tratar de alterar su fuerza de voluntad o motivación en lo más mínimo.
+**
+Ella y sus colegas diseñaron un estudio de 6 meses para cambiar la forma en que se ofrecían los productos en la cafetería del hospital. El equipo comenzó por cambiar la forma en que las bebidas estaban distribuidas en la cafetería. Originariamente los refrigeradores que se encontraban junto a la caja registradora solo estaban llenos con refrescos. Los investigadores añadieron botellas de agua como una opción adicional en cada UNO de los refrigeradores. Adicionalmente colocaron canastas con botellas de agua en varios lugares de la habitación.
+
+**Durante los siguientes 3 meses las ventas de refrescos del hospital bajaron un 11,4% mientras que las ventas de agua embotellada se incrementaron un 25,8%.** Hicieron ajustes similares y obtuvieron resultados semejantes con la comida de la cafetería.
+
+**Con frecuencia las personas eligen productos no por lo que son sino por el lugar donde se encuentran.** Si entro en la cocina y veo un plato de galletas en la encimera, seguramente tomaré una docena y empezaré a comérmelas, e incluso si no había pensado en ellas anteriormente y a pesar de que no tenga hambre. Si la mesa compartida en la oficina casi siempre está llena de panecillos y rosquillas será difícil no tomar 1 de vez en cuan. Tus hábitos cambian dependiendo de la habitación en la que te encuentres y las señales que están frente a ti.
+
 El ambiente es la mano invisible que moldea el comportamiento humano. A pesar de que tenemos personalidades únicas ciertas conductas tienden a generarse una y otra vez bajo ciertas condiciones del ambiente. Cada hábito depende del contexto.
-Cuanto más accesible sea un producto o servicio mayores son las probabilidades de que quieras probar. Las personas beben Red Bull porque la encuentran en todos los bares y visitan Starbucks porque hay una sucursal en cada esquina. nos gusta pensar que tenemos el control. Si elegimos agua en lugar de refresco asumimos que fue porque quisimos hacerlo. La verdad sin embargo es que muchas de nuestras acciones diarias son moldeadas no por decisiones conscientes y con un propósito definido sino porque son las opciones más obvias y accesibles.
-Cada ser viviente tiene sus propios métodos para percibir y entender el ambiente. Las Águilas tienen una extraordinaria visión de larga distancia. Las serpientes pueden oler mediante un sistema para probar el aire con sus sensibles lenguas. Los tiburones pueden detectar pequeñas cargas eléctricas y vibraciones en el agua producidas por peces cercanos. Incluso las bacterias tienen receptores químicos pequeñas zonas sensoriales que les permiten detectar químicos tóxicos en su ambiente.
-En los humanos la percepción es dirigida por el sistema nervioso sensorial. Percibimos el mundo mediante la vista, el sonido, el olfato, el tacto y el gusto. Pero tenemos otros medios de sentir los estímulos externos. Algunos son conscientes, pero muchos son inconscientes. Por ejemplo, podemos darnos cuenta de que la temperatura baja antes de una tormenta o sentir como el dolor comienza a surgir en nuestras entrañas cuando estamos enfermos del estómago, o cuando perdemos el equilibrio al caminar por un terreno rocoso. Los receptores de nuestro cuerpo recogen una gran variedad de estímulos internos por ejemplo la cantidad de sal en nuestra sangre o la necesidad de beber cuando tenemos sed.
-Sin embargo, para los humanos la más poderosa habilidad sensorial es la vista. El cuerpo humano tiene un promedio de 11 millones de receptores sensoriales. Aproximadamente 10 millones de ellos están dedicados a la vista. Algunos expertos estiman que la mitad de los recursos del cerebro son usados para ver. Dado el hecho de que dependemos más de la vista que de cualquier otro sentido no debería sorprendernos que las señales visuales sean el mayor catalizador de nuestro comportamiento. Por esa razón un pequeño cambio en lo que ves puede conducir a un enorme cambio en lo que haces. Como resultado puedes imaginar lo importante que es vivir y trabajar en ambientes que están colmados de señales productivas y son carentes de señales improductivas.
+
+**Cuanto más accesible sea un producto o servicio mayores son las probabilidades de que quieras probar.** Las personas beben Red Bull porque la encuentran en todos los bares y visitan Starbucks porque hay una sucursal en cada esquina. nos gusta pensar que tenemos el control. Si elegimos agua en lugar de refresco asumimos que fue porque quisimos hacerlo. La verdad sin embargo es que **muchas de nuestras acciones diarias son moldeadas no por decisiones conscientes y con un propósito definido sino porque son las opciones más obvias y accesibles.**
+
+**Cada ser viviente tiene sus propios métodos para percibir y entender el ambiente.** Las Águilas tienen una extraordinaria visión de larga distancia. Las serpientes pueden oler mediante un sistema para probar el aire con sus sensibles lenguas. Los tiburones pueden detectar pequeñas cargas eléctricas y vibraciones en el agua producidas por peces cercanos. Incluso las bacterias tienen receptores químicos pequeñas zonas sensoriales que les permiten detectar químicos tóxicos en su ambiente.
+
+En los humanos la percepción es dirigida por el sistema nervioso sensorial. Percibimos el mundo mediante la vista, el sonido, el olfato, el tacto y el gusto. **Pero tenemos otros medios de sentir los estímulos externos. Algunos son conscientes, pero muchos son inconscientes.** Por ejemplo, podemos darnos cuenta de que la temperatura baja antes de una tormenta o sentir como el dolor comienza a surgir en nuestras entrañas cuando estamos enfermos del estómago, o cuando perdemos el equilibrio al caminar por un terreno rocoso. Los receptores de nuestro cuerpo recogen una gran variedad de estímulos internos por ejemplo la cantidad de sal en nuestra sangre o la necesidad de beber cuando tenemos sed.
+
+Sin embargo, para los humanos la más poderosa habilidad sensorial es la vista. El cuerpo humano tiene un promedio de 11 millones de receptores sensoriales. Aproximadamente 10 millones de ellos están dedicados a la vista. Algunos expertos estiman que la mitad de los recursos del cerebro son usados para ver. Dado el hecho de que dependemos más de la vista que de cualquier otro sentido no debería sorprendernos que las señales visuales sean el mayor catalizador de nuestro comportamiento. **Por esa razón un pequeño cambio en lo que ves puede conducir a un enorme cambio en lo que haces.** Como resultado puedes imaginar lo importante que es vivir y trabajar en ambientes que están colmados de señales productivas y son carentes de señales improductivas.
+
 La buena noticia es que tú no estás condenado a ser una víctima de tu ambiente. Al contrario, puedes constituirse como arquitecto de tu propio ambiente.
-Cómo diseñar un ambiente que te conduzca al éxito.
-En un suburbio cercano a Ámsterdam se descubrió que algunos colonos usaban un 30% menos de energía que sus vecinos a pesar de que las casas eran de tamaño similar y pagaban lo mismo por la energía eléctrica.
-Resultó ser que las casas en este suburbio eran casi idénticas excepto por una característica: el lugar donde estaba colocada el contador de electricidad. Algunas casas lo tenían instalado en el sótano. Otras lo tenían instalado en el pasillo del piso principal. Las casas que tenían los medidores en el pasillo principal usaban menos electricidad. Cómo podían observar su medidor con frecuencia y el uso de la energía era evidente y fácil de seguir coma la gente cambiaba su conducta y usaba menos electricidad.
+
+### Cómo diseñar un ambiente que te conduzca al éxito
+
+En un suburbio cercano a Ámsterdam se descubrió que **algunos colonos usaban un 30% menos de energía que sus vecinos a pesar de que las casas eran de tamaño similar** y pagaban lo mismo por la energía eléctrica.
+
+Resultó ser que las casas en este suburbio eran casi idénticas excepto por una característica: **el lugar donde estaba colocada el contador de electricidad. **Algunas casas lo tenían instalado en el sótano. Otras lo tenían instalado en el pasillo del piso principal. Las casas que tenían los medidores en el pasillo principal usaban menos electricidad. Cómo podían observar su medidor con frecuencia y el uso de la energía era evidente y fácil de seguir coma la gente cambiaba su conducta y usaba menos electricidad.
+
 Todos los hábitos se inician con una señal y somos más proclives a notar las señales que destacan.
-Es fácil no tocar la guitarra cuando está escondida en el armario. Es fácil no leer un libro cuando la biblioteca está en el rincón más alejado del cuarto de invitados. Es fácil no tomar tus vitaminas cuando están dentro de un armario fuera de tu vista. Cuando las señales que desencadenan un hábito son sutiles o están escondidas son fáciles de ignorar.
+
+**Es fácil no tocar la guitarra cuando está escondida en el armario.** Es fácil no leer un libro cuando la biblioteca está en el rincón más alejado del cuarto de invitados. Es fácil no tomar tus vitaminas cuando están dentro de un armario fuera de tu vista. Cuando las señales que desencadenan un hábito son sutiles o están escondidas son fáciles de ignorar.
 Si quieres que un hábito sea una gran parte de tu vida, convierte la señal en una gran parte de tu ambiente. Las conductas más perdurables generalmente tienen múltiples señales.
 El diseño del ambiente es poderoso no solo porque influye en la forma en que nos relacionamos con el mundo sino también porque raramente lo hacemos. La mayoría de la gente vive en un mundo que otros han creado para ellos.
+
 El diseño del ambiente te permite tomar el control y volverte el arquitecto de tu vida. Sé el diseñador de tu mundo y no solamente un consumidor dentro de él.
-El contexto es la señal.
+
+### El contexto es la señal
+
 Las señales que desencadenan un hábito pueden empezar de manera muy específica, pero con el tiempo tus hábitos se asocian no con un solo disparador sino con todo el contexto que rodea a ese hábito.
-Por ejemplo, mucha gente bebe más en situaciones sociales que cuando se encuentra sola. El disparador en este caso no es una señal aislada, por el contrario, se trata de toda una situación: ver a tus amigos pedir copas, escuchar la música en el bar, ver las cervezas en el aparador...
-En un estudio sobre insomnio los científicos a cargo instruían a los participantes a irse a la cama solamente cuando estuvieran cansados. Si no lograban conciliar el sueño y dormir tenían que levantarse e ir a sentarse a otra habitación hasta que se sintieran somnolientos. Con el tiempo, los sujetos comenzaron a asociar el contexto de la cama con la acción de dormir y se volvió mucho más sencillo quedarse dormidos cuando se metían en la cama. Sus cerebros aprendieron que dormir (no usar el teléfono móvil, no ver la televisión, no quedarse mirando el reloj) era la única acción que podía suceder en esa habitación. El poder del contexto también revela una importante estrategia: los hábitos pueden cambiarse de manera más sencilla en un nuevo ambiente.
+
+Por ejemplo, **mucha gente bebe más en situaciones sociales que cuando se encuentra sola**. El disparador en este caso no es una señal aislada, por el contrario, se trata de toda una situación: ver a tus amigos pedir copas, escuchar la música en el bar, ver las cervezas en el aparador...
+
+En un estudio sobre insomnio **los científicos a cargo instruían a los participantes a irse a la cama solamente cuando estuvieran cansados.** Si no lograban conciliar el sueño y dormir tenían que levantarse e ir a sentarse a otra habitación hasta que se sintieran somnolientos. Con el tiempo, los sujetos comenzaron a asociar el contexto de la cama con la acción de dormir y se volvió mucho más sencillo quedarse dormidos cuando se metían en la cama. Sus cerebros aprendieron que dormir (no usar el teléfono móvil, no ver la televisión, no quedarse mirando el reloj) era la única acción que podía suceder en esa habitación. El poder del contexto también revela una importante estrategia: los hábitos pueden cambiarse de manera más sencilla en un nuevo ambiente.
 Ve a un lugar nuevo, una cafetería diferente, otro Banco distinto en el parque, un rincón de tu habitación que casi nunca uses y crea una nueva rutina ahí.
-Puede ser difícil dormirte temprano si ves la televisión en tu habitación cada noche. Puede ser difícil estudiar en la sala sin distraerte si es el lugar donde sueles jugar a videojuegos.
-Crea un espacio aparte para trabajar, estudiar, hacer ejercicio, divertirse y cocinar. El mantra que encuentre útil en estos casos es: un solo lugar un solo uso
-Cuando empecé mi carrera como emprendedor por lo regular trabajaba en el sillón o en la mesa de la cocina. Por las tardes me era muy complicado dejar de trabajar punto no ha habido una clara división entre el final del tiempo para trabajar el principio del tiempo personal. La mesa de la cocina era un espacio para trabajar o para comer. ¿El sillón era para relajarme o para enviar correos electrónicos? Todo sucedía en el mismo lugar.
-Evita mezclar el contexto de un hábito con otro. Esta es una de las razones por las que la versatilidad de la tecnología moderna es tanto una fuerza como una debilidad. Es posible usar el teléfono móvil para toda clase de tareas, lo que le convierte en un instrumento poderoso. Pero cuando 1 puede usar su móvil para hacer casi cualquier cosa, es difícil asociarlo con una tarea específica. Quieres ser productivo, pero estás condicionado constantemente a navegar por las redes sociales coma a revisar el correo electrónico y a jugar a videojuegos cada vez que abres tu móvil. Se convierte en un enredo de distintas señales.
-Capítulo 7: el secreto del autocontrol página 111
-Lee Robins fue uno de los investigadores a cargo. Mediante un descubrimiento que derribó completamente las creencias aceptadas acerca de la adicción, Robins se dio cuenta de que cuando los soldados adictos regresaban a su país, solo un 5% de ellos reincidían la adicción durante el mismo año y solamente un 12% recaía en el plazo de 3 años. En otras palabras, aproximadamente 9 de cada 10 soldados que habían sido adictos a la heroína en Vietnam eliminaron su adición prácticamente de la noche a la mañana.
-Este hallazgo contradecía la visión prevaleciente en aquella época que consideraba la adicción a la heroína como una condición permanente e irreversible. Por el contrario, Robins reveló que las adicciones podían disolverse espontáneamente si ocurría un cambio radical en el ambiente. En Vietnam los soldados pasaban todo el día rodeados de señales que desencadenaban el uso de la heroína: era muy fácil conseguirla, se mantenían atrapados dentro del constante estrés de la guerra, construyeron relaciones de amistad con otros soldados que también usaban heroína y se encontraban a miles de kilómetros de distancia de sus rurales. Una vez que un soldado regresaba a Estados Unidos se encontraba en un ambiente que carecía de esos disparadores. Cuando el contexto cambiaba también cambiaba el hábito.
-Los estudios de Vietnam van en contra de la mayoría de las creencias culturales acerca de los malos hábitos porque desafían la creencia convencional que asocia una conducta poco saludable con una debilidad moral. Si tienes sobrepeso, si eres fumador o adicto a las máquinas tragaperras seguramente te habrán dicho durante toda la vida que ello se debe a tu falta de autocontrol, quizás incluso te han dicho que eres una mala persona. La idea de que un poco de disciplina resolvería todos tus problemas está profundamente enraizada en nuestra cultura.
-Investigaciones recientes muestran algo distinto. Cuando los científicos analizan a las personas que aparentemente tienen un enorme autocontrol, resulta que esos individuos no son para nada distintos a las personas que tienen que luchar por autocontrolarse. Por el contrario, las personas disciplinadas son mejores para estructurar sus vidas de tal forma que no requieren un poder de voluntad y autocontrol heroicos. En otras palabras, pasan menos tiempo en situaciones que son tentadoras.
+
+**Puede ser difícil dormirte temprano si ves la televisión en tu habitación cada noche.** Puede ser difícil estudiar en la sala sin distraerte si es el lugar donde sueles jugar a videojuegos.
+Crea un espacio aparte para trabajar, estudiar, hacer ejercicio, divertirse y cocinar. El mantra que encuentre útil en estos casos es: un solo lugar un solo uso.
+
+Cuando empecé mi carrera como emprendedor por lo regular trabajaba en el sillón o en la mesa de la cocina. Por las tardes me era muy complicado dejar de trabajar punto no ha habido una clara división entre el final del tiempo para trabajar el principio del tiempo personal. La mesa de la cocina era un espacio para trabajar o para comer. **¿El sillón era para relajarme o para enviar correos electrónicos? Todo sucedía en el mismo lugar.**
+
+**Evita mezclar el contexto de un hábito con otro.** Esta es una de las razones por las que la versatilidad de la tecnología moderna es tanto una fuerza como una debilidad. Es posible usar el teléfono móvil para toda clase de tareas, lo que le convierte en un instrumento poderoso. Pero cuando 1 puede usar su móvil para hacer casi cualquier cosa, es difícil asociarlo con una tarea específica. Quieres ser productivo, pero estás condicionado constantemente a navegar por las redes sociales coma a revisar el correo electrónico y a jugar a videojuegos cada vez que abres tu móvil. Se convierte en un enredo de distintas señales.
+
+## Capítulo 7: el secreto del autocontrol
+
+Lee Robins fue uno de los investigadores a cargo. Mediante un descubrimiento que derribó completamente las creencias aceptadas acerca de la adicción, Robins se dio cuenta de que cuando los soldados adictos regresaban a su país, solo un 5% de ellos reincidían la adicción durante el mismo año y solamente un 12% recaía en el plazo de 3 años. **En otras palabras, aproximadamente 9 de cada 10 soldados que habían sido adictos a la heroína en Vietnam eliminaron su adición prácticamente de la noche a la mañana.**
+
+**Este hallazgo contradecía la visión prevaleciente en aquella época que consideraba la adicción a la heroína como una condición permanente e irreversible.** Por el contrario, Robins reveló que las adicciones podían disolverse espontáneamente si ocurría un cambio radical en el ambiente. En Vietnam los soldados pasaban todo el día rodeados de señales que desencadenaban el uso de la heroína: era muy fácil conseguirla, se mantenían atrapados dentro del constante estrés de la guerra, construyeron relaciones de amistad con otros soldados que también usaban heroína y se encontraban a miles de kilómetros de distancia de sus rurales. Una vez que un soldado regresaba a Estados Unidos se encontraba en un ambiente que carecía de esos disparadores. Cuando el contexto cambiaba también cambiaba el hábito.
+
+Los estudios de Vietnam **van en contra de la mayoría de las creencias culturales acerca de los malos hábitos porque desafían la creencia convencional que asocia una conducta poco saludable con una debilidad moral.** Si tienes sobrepeso, si eres fumador o adicto a las máquinas tragaperras **seguramente te habrán dicho durante toda la vida que ello se debe a tu falta de autocontrol,** quizás incluso te han dicho que eres una mala persona. La idea de que un poco de disciplina resolvería todos tus problemas está profundamente enraizada en nuestra cultura.
+
+Investigaciones recientes muestran algo distinto. Cuando los científicos analizan a las personas que aparentemente tienen un enorme autocontrol, resulta que esos individuos no son para nada distintos a las personas que tienen que luchar por autocontrolarse. **Por el contrario, las personas disciplinadas son mejores para estructurar sus vidas de tal forma que no requieren un poder de voluntad y autocontrol heroicos. En otras palabras, pasan menos tiempo en situaciones que son tentadoras.**
+
 Las personas con el mejor autocontrol son las que por lo general, menos tienen que usarlo. Es más fácil poner en práctica tu autodominio cuando no tienes que usarlo muy frecuentemente. Así que, efectivamente, la perseverancia, el valor y la fuerza de voluntad son esenciales para el éxito, pero la manera de mejorar estas cualidades no consiste en desear ser una persona más disciplinada, sino en crear un ambiente disciplinado.
+
 Una vez que un hábito se ha codificado, la urgencia de actuar aparece siempre que las señales del ambiente se presentan de nuevo. Esta es una de las razones por las que las técnicas para cambiar la conducta fracasan. Avergonzar a las personas obesas con presentaciones de pérdida de peso puede provocar la extensión. Como resultado muchas personas retornan a su estrategia favorita para afrontar los problemas: comer en exceso. Mostrar a fumadores imágenes de pulmones ennegrecidos conduce a mayores niveles de ansiedad lo cual tiene como consecuencia que muchas personas fumen más punto si no tienes cuidado con las señales puedes estar causando el comportamiento que quieres eliminar.
+
 Los malos hábitos son auto catalíticos: el proceso se alimenta a sí mismo. Acogen los sentimientos que quieren adormecer. 
+
 Te sientes mal, así que comes comida basura. Como comes comida basura te sientes mal. Ver la televisión te hace sentir perezoso coma así que ves aún más la televisión porque no tienes la energía de hacer nada más punto preocuparte por tu salud te hace sentir ansioso, lo cual provoca que fumes por ansiedad coma lo cual hace que tu salud se deteriore aún más y pronto te sientas más ansioso. Es una espiral de descenso, un tren de malos hábitos.
-Los investigadores se refieren a este fenómeno como “deseo inducido por señales”: un disparador externo causa un anhelo compulsivo de repetir un mal hábito. Una vez que te das cuenta de algo, empiezas a desearlo. Este proceso está sucediendo todo el tiempo, muchas veces sin que nos demos cuenta. Los científicos han descubierto que mostrar a los adictos una imagen de la cocaína durante solamente 33 microsegundos estimula el deseo de alcanzar la recompensa en el cerebro. Esta velocidad es demasiado rápida para que el cerebro pueda registrarla conscientemente, los adictos ni siquiera logran decir lo que acaban de ver, sin embargo, desean la droga de todas maneras.
-La frase clave es “puedes eliminar un hábito, pero probablemente no lograrás olvidarlo”. Una vez que los canales mentales de un hábito se han grabado en tu cerebro es casi imposible borrarlos del todo, aun cuando no se usen durante mucho tiempo. Y eso significa que solo resistir la tentación no es una estrategia muy efectiva. Es muy complicado mantener una actitud zen en una vida llena de distracciones . Requiere mucha energía. A corto plazo puede exceder al ante el poder de la tentación. A largo plazo, nos convertimos en un producto del ambiente dentro del que vivimos. Para ponerlo en términos claros, nunca he visto a nadie apegarse de manera consistente a unos hábitos positivos en un ambiente negativo.
+
+**Los investigadores se refieren a este fenómeno como “deseo inducido por señales”**: un disparador externo causa un anhelo compulsivo de repetir un mal hábito. Una vez que te das cuenta de algo, empiezas a desearlo. **Este proceso está sucediendo todo el tiempo, muchas veces sin que nos demos cuenta.** Los científicos han descubierto que mostrar a los adictos una imagen de la cocaína durante solamente 33 microsegundos estimula el deseo de alcanzar la recompensa en el cerebro. Esta velocidad es demasiado rápida para que el cerebro pueda registrarla conscientemente, los adictos ni siquiera logran decir lo que acaban de ver, sin embargo, desean la droga de todas maneras.
+
+La frase clave es **“puedes eliminar un hábito, pero probablemente no lograrás olvidarlo”.** Una vez que los canales mentales de un hábito se han grabado en tu cerebro es casi imposible borrarlos del todo, aun cuando no se usen durante mucho tiempo. Y eso significa que solo resistir la tentación no es una estrategia muy efectiva. Es muy complicado mantener una actitud zen en una vida llena de distracciones . Requiere mucha energía. A corto plazo puede exceder al ante el poder de la tentación. A largo plazo, nos convertimos en un producto del ambiente dentro del que vivimos. Para ponerlo en términos claros, nunca he visto a nadie apegarse de manera consistente a unos hábitos positivos en un ambiente negativo.
+
 Uno de los métodos más prácticos para eliminar un hábito negativo es reducir la exposición a la señal que lo causa:
-•	Si no consigues avanzar en tu trabajo, deja tu teléfono móvil en otra habitación durante horas.
-•	Si constantemente sientes que no vales lo suficiente, deja de seguir redes sociales que desencadenan los celos y la envidia.
-•	Si estás desperdiciando mucho tiempo viendo la televisión traslada la televisión fuera de la habitación.
-•	Si estás jugando mucho a videojuegos, desconecta la consola y ponla dentro de un armario después de usarla.
-El autocontrol es una estrategia a corto plazo, no sirve a largo plazo. Puedes controlarte y resistir la tentación una o dos veces, pero es poco probable que siempre puedas dominar tu fuerza de voluntad para dominar tus deseos. En lugar de convocar una nueva dosis de fuerza voluntad cada vez que quieras hacer lo correcto lo mejor es usar tu energía en optimizar tu ambiente. Este es el secreto del autocontrol. Convierte las señales de tus buenos hábitos en algo evidente y notorio y vuelve invisibles tus malos hábitos.
- 
-Capítulo 8: cómo lograr que un hábito sea irresistible. Página 121 
+
+- Si no consigues avanzar en tu trabajo, deja tu teléfono móvil en otra habitación durante horas.
+
+- Si constantemente sientes que no vales lo suficiente, deja de seguir redes sociales que desencadenan los celos y la envidia.
+
+- Si estás desperdiciando mucho tiempo viendo la televisión traslada la televisión fuera de la habitación.
+
+- Si estás jugando mucho a videojuegos, desconecta la consola y ponla dentro de un armario después de usarla.
+
+**El autocontrol es una estrategia a corto plazo, no sirve a largo plazo.** Puedes controlarte y resistir la tentación una o dos veces, pero es poco probable que siempre puedas dominar tu fuerza de voluntad para dominar tus deseos. **En lugar de convocar una nueva dosis de fuerza voluntad cada vez que quieras hacer lo correcto lo mejor es usar tu energía en optimizar tu ambiente. Este es el secreto del autocontrol. Convierte las señales de tus buenos hábitos en algo evidente y notorio y vuelve invisibles tus malos hábitos.
+ **
+## Capítulo 8: cómo lograr que un hábito sea irresistible
+
 El cerebro de cada animal está precargado con una serie de reglas de conducta, pero cuando se topa con una versión exagerada de una de dichas reglas, la señal se enciende como un árbol de Navidad. Un estímulo supernormal es una versión intensificada de la realidad que suscita una respuesta más fuerte que la respuesta normal.
+
 Los humanos también somos proclives a caer presas de las versiones exageradas de la realidad. La comida basura, por ejemplo, conduce a nuestros sistemas de recompensa a un frenesí. Después de pasar cientos de miles de años cazando y recolectando comida en la naturaleza, el cerebro humano ha evolucionado hasta dar un valor muy elevado a los alimentos que contienen sal, azúcar y grasa. Estos alimentos tienen gran cantidad de calorías y eran realmente raros cuando nuestros ancestros recorrían la sabana. Cuando no sabes de dónde vendrá tu siguiente alimento, comer lo máximo posible cuando había oportunidad de hacerlo era la mejor estrategia para sobrevivir.
 Hoy sin embargo vivimos en un ambiente donde es posible obtener gran cantidad de calorías fácilmente. La comida es abundante pero tu cerebro sigue anhelando la comida alta en calorías, como si todavía fueras escasa. Darles un alto valor a las comidas con mucha sal, azúcar y grasa ya no representa una ventaja para nuestra salud, pero el anhelo persiste porque los centros de recompensa de nuestro cerebro no han cambiado en aproximadamente 50.000 años.
 Una de las principales metas de la ciencia alimentaria es crear productos que sean más atractivos para los consumidores.
