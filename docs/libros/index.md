@@ -7,6 +7,7 @@
 |177| [Comunicación No Violenta](./autoayuda/comunicacion-no-violenta-un-lenguaje-de-vida.md) | Marshal Rosenberg |
 |178| [Las cinco invitaciones](./autoayuda/las-cinco-invitaciones.md) | Frnak Ostaseski |
 |215| [El síndrome del impostor](./autoayuda/el-sindrome-del-impostor.md) | Sandi Mann |
+|216| [Mindset. La actitud del éxito](./autoayuda/minset-la-actitud-del-exito.md) | Carol S. Dweck |
 |224| [Estrés: el lado bueno](./autoayuda/estres-el-lado-bueno.md) | Kelly McGonigal |
 |229| [Di lo que quieres decir](./autoayuda/Di-lo-que-quieres-decir.md) | Oren Jay Sofer |
 |232| [No me estas escuchando](./autoayuda/no-me-estas-escuchando.md) | Kate Murphy |
