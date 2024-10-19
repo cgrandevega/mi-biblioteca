@@ -508,122 +508,229 @@ Uno de los métodos más prácticos para eliminar un hábito negativo es reducir
  **
 ## Capítulo 8: cómo lograr que un hábito sea irresistible
 
-El cerebro de cada animal está precargado con una serie de reglas de conducta, pero cuando se topa con una versión exagerada de una de dichas reglas, la señal se enciende como un árbol de Navidad. Un estímulo supernormal es una versión intensificada de la realidad que suscita una respuesta más fuerte que la respuesta normal.
+El cerebro de cada animal está precargado con una serie de reglas de conducta, pero cuando se topa con una versión exagerada de una de dichas reglas, la señal se enciende como un árbol de Navidad. **Un estímulo supernormal es una versión intensificada de la realidad que suscita una respuesta más fuerte que la respuesta normal**.
 
-Los humanos también somos proclives a caer presas de las versiones exageradas de la realidad. La comida basura, por ejemplo, conduce a nuestros sistemas de recompensa a un frenesí. Después de pasar cientos de miles de años cazando y recolectando comida en la naturaleza, el cerebro humano ha evolucionado hasta dar un valor muy elevado a los alimentos que contienen sal, azúcar y grasa. Estos alimentos tienen gran cantidad de calorías y eran realmente raros cuando nuestros ancestros recorrían la sabana. Cuando no sabes de dónde vendrá tu siguiente alimento, comer lo máximo posible cuando había oportunidad de hacerlo era la mejor estrategia para sobrevivir.
+**Los humanos también somos proclives a caer presas de las versiones exageradas de la realidad.** La comida basura, por ejemplo, conduce a nuestros sistemas de recompensa a un frenesí. Después de pasar cientos de miles de años cazando y recolectando comida en la naturaleza, **el cerebro humano ha evolucionado hasta dar un valor muy elevado a los alimentos que contienen sal, azúcar y grasa.** Estos alimentos tienen gran cantidad de calorías y eran realmente raros cuando nuestros ancestros recorrían la sabana. **Cuando no sabes de dónde vendrá tu siguiente alimento, comer lo máximo posible cuando había oportunidad de hacerlo era la mejor estrategia para sobrevivir.**
+
 Hoy sin embargo vivimos en un ambiente donde es posible obtener gran cantidad de calorías fácilmente. La comida es abundante pero tu cerebro sigue anhelando la comida alta en calorías, como si todavía fueras escasa. Darles un alto valor a las comidas con mucha sal, azúcar y grasa ya no representa una ventaja para nuestra salud, pero el anhelo persiste porque los centros de recompensa de nuestro cerebro no han cambiado en aproximadamente 50.000 años.
 Una de las principales metas de la ciencia alimentaria es crear productos que sean más atractivos para los consumidores.
+
 Esta industria es el ejemplo de la segunda ley del cambio de conducta: “hacerlo atractivo”. Cuanto más atractiva es una oportunidad más son las posibilidades de que se convierta en un factor de formación de hábitos.
-Las redes sociales nos envían likes y reconocimiento en unos cuántos minutos que los que podemos obtener durante toda una vida en nuestro trabajo y en nuestro hogar. El porno online empalma escenas estimulantes a una velocidad que jamás podríamos reproducir en la vida real. Los anuncios publicitarios se crean con una combinación ideal de luz, maquillaje profesional y ediciones con fotoshop (incluso los propios modelos no se reconocen en la persona que aparece en la imagen final). Estos son los estímulos supernormales de nuestro mundo moderno. Exageran los rasgos que son naturalmente atractivos para nosotros y como resultado nuestros instintos enloquecen, conduciéndonos a hábitos de compra excesivos, a hábitos de uso excesivo de las redes sociales, a hábitos pornográficos, a hábitos alimenticios y muchos otros más.
+
+Las redes sociales nos envían likes y reconocimiento en unos cuántos minutos que los que podemos obtener durante toda una vida en nuestro trabajo y en nuestro hogar. El porno online empalma escenas estimulantes a una velocidad que jamás podríamos reproducir en la vida real. 
+
+Los anuncios publicitarios se crean con una combinación ideal de luz, maquillaje profesional y ediciones con fotoshop (incluso los propios modelos no se reconocen en la persona que aparece en la imagen final). **Estos son los estímulos supernormales de nuestro mundo moderno.** Exageran los rasgos que son naturalmente atractivos para nosotros y como resultado nuestros instintos enloquecen, conduciéndonos a hábitos de compra excesivos, a hábitos de uso excesivo de las redes sociales, a hábitos pornográficos, a hábitos alimenticios y muchos otros más.
+
 La comida basura es una forma más concentrada de calorías que la comida natural. Los licores con alta graduación son una forma más concentrada de alcohol que la cerveza. Los videojuegos son una forma más concentrada de jugar que los juegos de mesa. Comparadas con la naturaleza, estas experiencias empaquetadas son difíciles de resistir. Seguimos teniendo el mismo cerebro que nuestros ancestros, pero ahora tenemos que afrontar tentaciones que ellos nunca conocieron.
-El circuito de retroalimentación impulsado por la dopamina.
-Los científicos pueden rastrear el preciso momento en que surge un deseo o anhelo mediante la medición de un neurotransmisor llamado dopamina. 
+
+### El circuito de retroalimentación impulsado por la dopamina
+
+Los científicos pueden rastrear el preciso momento en que surge un deseo o anhelo mediante la medición de un neurotransmisor llamado dopamina.
+
 La importancia de la dopamina se hizo evidente en 1954 cuando los científicos James Olds y Peter Milner, dirigieron experimentos que revelaban los procesos neurológicos que seguían detrás del deseo. Mediante la implantación de electrodos en los cerebros de algunas ratas los investigadores bloquearon la producción de dopamina. Para sorpresa de los científicos las ratas perdieron la voluntad de vivir. No comían, no tenían actividad sexual, no anhelaban ni sentían ganas de vivir. A los pocos días las ratas intervenidas morían de sed.
-En estudios de seguimiento otros científicos también inhibieron las zonas del cerebro que producen dopamina, pero en esta ocasión inyectaron pequeñas gotas de agua azucarada dentro de la boca de las ratas carentes de dopamina. Sus pequeñas Caritas se iluminaron al sentir el placer que les producía la sabrosa sustancia. A pesar de que la dopamina estaba bloqueada sintieron tanto placer al probar el azúcar como antes pero ya no querían seguir comiendo. La capacidad para sentir placer permanecía, pero sin la dopamina el deseo estaba muerto. Y sin deseo de obtener más la acción se detiene se detenía. 
+
+En estudios de seguimiento otros científicos también inhibieron las zonas del cerebro que producen dopamina, pero en esta ocasión inyectaron pequeñas gotas de agua azucarada dentro de la boca de las ratas carentes de dopamina. Sus pequeñas Caritas se iluminaron al sentir el placer que les producía la sabrosa sustancia. A pesar de que la dopamina estaba bloqueada sintieron tanto placer al probar el azúcar como antes pero ya no querían seguir comiendo. La capacidad para sentir placer permanecía, pero sin la dopamina el deseo estaba muerto. Y sin deseo de obtener más la acción se detiene se detenía.
+
 Los hábitos son un circuito de retroalimentación impulsado por la dopamina. Todas las conductas que son muy proclives a convertirse en hábitos (consumir drogas, comer comida basura, jugar a videojuegos, navegar en las redes sociales) están asociadas con niveles altos de dopamina. Lo mismo puede decirse de nuestras conductas habituales más básicas como beber, comer, tener relaciones sexuales e interactuar socialmente.
+
 Durante años los científicos asumieron que la dopamina solo estaba relacionada con el placer, pero ahora sabemos que desempeña un papel central en muchos procesos neurológicos incluyendo la motivación el aprendizaje y la memoria el castigo y la aversión, así como los movimientos voluntarios.
+
 Cuando se trata de hábitos, el aporte clave es: la dopamina es liberada no solamente cuando experimentamos placer, también cuando lo anticipas. Los adictos a las apuestas tienen una descarga de dopamina justo antes de hacer una apuesta, no después de ganar. Los adictos a la cocaína obtienen una dosis de dopamina cuando ven la sustancia, no después de ingerirla. Siempre que puedes predecir que una oportunidad se convertirá en recompensa, tus niveles de dopamina alcanzan su máximo debido a la anticipación.
+
 Y cuando la dopamina se eleva lo mismo ocurre con tu motivación para actuar. Es la anticipación de la recompensa no su obtención lo que hace que nos pongamos en acción.
+
 Es muy interesante saber que el sistema de recompensas que se activa en el cerebro cuando recibes una recompensa es el mismo sistema que se activa cuando anticipas dicha recompensa. Esta es una de las razones por las que la anticipación de una experiencia suele sentirse mejor que su obtención. Cuando eres niño pensar en la mañana de Navidad puede ser mejor que abrir los regalos. Cuando eres adulto soñar despierto acerca de tus siguientes vacaciones puede ser más agradable que estar realmente de vacaciones.
+
 Tu cerebro tiene muchos más circuitos neurológicos destinados a desear recompensas que a disfrutar de ellas. 
 
 Los centros destinados a desear ocupan grandes áreas del cerebro: el tallo cerebral, el núcleo accumbens, el área ventral tegmental, el núcleo estriado dorsal, la amígdala y porciones de la corteza prefrontal. En comparación los centros del cerebro destinados a disfrutar son mucho más pequeños. 
+
 Generalmente se les llama centros hedónicos y están distribuidos como pequeñas islas en todo el cerebro. Por ejemplo, los investigadores han descubierto que el cien por cien del núcleo accumbens es activado cuando se desea algo. Por otra parte, solamente el 10% de la estructura se activa cuando nos gusta algo.
+
 El hecho de que el cerebro destine tanto espacio las regiones responsables de anhelar y desear nos proporciona evidencias adicionales de lo cruciales que son estos procesos. El deseo es el motor que conduce la conducta. Cada acción se realiza debido a la disipación que le precede. El anhelo es lo que nos conduce a la respuesta.
-Cómo usar la comunicación de tentaciones para hacer tus hábitos más atractivos 
+
+### Cómo usar la comunicación de tentaciones para hacer tus hábitos más atractivos
+
 La acumulación de tentaciones es una manera de aplicar una teoría psicológica conocida como el principio de Premack. llamada así debido al trabajo de David Premarck. El principio afirma que “las conductas más probables reforzarán las conductas menos probables.” En otras palabras, aún si realmente no quieres ocuparte de tus correos electrónicos atrasados, empezarás a estar condicionado a hacerlo si ello significa que al mismo tiempo vas a hacer algo que realmente te gusta mucho.
+
 Usando la estrategia de acumulación de tentaciones quieres hacerte una pedicura, pero también tienes que revisar tu bandeja de correos electrónicos atrasados. Solución ve a que te hagan la pedicura y mientras la hacen aprovecha para actualizar tu bandeja de correos electrónicos.
+
 Diseñar un hábito realmente irresistible es una tarea difícil, pero esta estrategia sencilla se puede emplear para hacer que cualquier hábito se vuelva más atractivo de lo que sería de otra manera.
-Capítulo 9: el papel de la familia y los amigos en la formación de hábitos.
-La fuerza seductora de las normas sociales.
+
+## Capítulo 9: el papel de la familia y los amigos en la formación de hábitos
+
+### La fuerza seductora de las normas sociales
+
 Los humanos somos animales gregarios. Queremos encajar en el grupo al que pertenecemos, relacionarnos con otros y ganar el respeto y la aprobación de nuestros pares. Dichas inclinaciones son esenciales para nuestra supervivencia. Durante la mayor parte de nuestra historia evolutiva nuestros ancestros vivieron en tribus. Ser separado de la tribu equivalía a una sentencia de muerte. “El lobo solitario muere, pero La Manada sobrevive.”
+
 Mientras aquellos que colaboran y forman vínculos con los demás, disfrutaron de una seguridad mayor, encontraron oportunidades de encontrar una pareja y tuvieron acceso a más recursos. Como apuntó Charles Darwin “en la larga historia de la humanidad aquellos que aprendieron a colaborar y a improvisar de manera más efectiva han prevalecido”. Como resultado, 1 de los más profundos deseos de la humanidad es pertenecer. Y esa preferencia ancestral ejerce una poderosa influencia en nuestro comportamiento moderno.
-Nosotros no elegimos nuestros primeros hábitos, imitamos los que vemos a nuestro alrededor. Seguimos un guion heredado por nuestras familias y por nuestros amigos, la Iglesia a la que asistimos, el colegio donde estudiamos coma la comunidad y la sociedad. Cada una de estas culturas y grupos vienen con una serie de expectativas y estándares (cuándo y cómo es conveniente casarse, cuántos hijos se deben tener, qué fechas importantes se celebran, cuánto dinero se debe gastar en la fiesta de cumpleaños de tus hijos...) de muchas maneras estas normas sociales son leyes invisibles que guían nuestro comportamiento de manera cotidiana. Siempre las tienes presentes, aun cuando no ocupen el lugar principal en tu mente. Con frecuencia coma tú sigues los hábitos de tu cultura sin pensar coma sin cuestionar nada y muchas veces sin que lo recuerdes. Como escribió el filósofo Michel de Montaigne: las costumbres y prácticas de la vida en sociedad nos arrastran con ellas.
+
+Nosotros no elegimos nuestros primeros hábitos, imitamos los que vemos a nuestro alrededor. Seguimos un guion heredado por nuestras familias y por nuestros amigos, la Iglesia a la que asistimos, el colegio donde estudiamos coma la comunidad y la sociedad. Cada una de estas culturas y grupos vienen con una serie de expectativas y estándares (cuándo y cómo es conveniente casarse, cuántos hijos se deben tener, qué fechas importantes se celebran, cuánto dinero se debe gastar en la fiesta de cumpleaños de tus hijos...) de muchas maneras estas normas sociales son leyes invisibles que guían nuestro comportamiento de manera cotidiana. 
+
+Siempre las tienes presentes, aun cuando no ocupen el lugar principal en tu mente. Con frecuencia coma tú sigues los hábitos de tu cultura sin pensar coma sin cuestionar nada y muchas veces sin que lo recuerdes. Como escribió el filósofo Michel de Montaigne: las costumbres y prácticas de la vida en sociedad nos arrastran con ellas.
+
 Las conductas son atractivas cuando nos ayudan a encajar en el grupo social.
+
 Imitamos los hábitos de 3 grupos en particular:
-•	Los grupos de personas cercanas.
-•	Los grupos numerosos. 
-•	Y los grupos poderosos.
+
+- Los grupos de personas cercanas.
+
+- Los grupos numerosos. 
+
+- Y los grupos poderosos.
+
 Cada grupo ofrece una oportunidad de reforzar la segunda ley del cambio de conducta y hacer nuestros hábitos más atractivos.
-Imitar a los grupos de personas cercanas.
+
+### Imitar a los grupos de personas cercanas
+
 La proximidad tiene un poderoso efecto en nuestros hábitos. Esto es verdadero cuando se trata del ambiente físico, pero también es verdad cuando se trata del ambiente social. Seleccionamos nuestros hábitos de la gente que nos rodea. Copiamos la manera en que nuestros padres conducen sus discusiones, la manera en que nuestros pares filtrean unos con otros, la manera en que nuestros colegas en el trabajo obtienen buenos resultados. Cuando tus amigos fuman mariguana tú también la pruebas. Cuando tu esposa tiene el hábito de verificar dos veces que las puertas están cerradas antes de dormir seguramente tú también desarrollarás el mismo hábito.
+
 Cuando he viajado a otros países inconscientemente comienzo a imitar el acento local a pesar de que me diga a mí mismo que no debo hacerlo.
+
 Por regla general cuanto más cerca estamos de alguien mayor es la tendencia a imitar a algunos de sus hábitos. Un estudio revolucionario siguió a 12.000 personas durante 32 años y descubrió que una persona tiene un 57% más de posibilidades de convertirse en obesa cuando un amigo cercanos se vuelve obeso. También funciona de manera opuesta. Otro estudio descubrió que, si una persona en una relación pierde peso, su pareja también reducirá su peso en 1/3 de las ocasiones. Nuestros amigos y familiares proveen una especie de presión social invisible que nos impulsa a seguir la misma dirección.
+
 Una de las estrategias más efectivas para construir buenos hábitos consiste en unirte un ambiente donde las conductas que deseas adquirir sean las conductas normales de las personas que lo conforman. La adquisición de nuevos hábitos es más fácil de alcanzar cuando ves al otro realizarlos de manera cotidiana.
+
 Si estás rodeado de amantes del jazz, existen más posibilidades de que te parezca razonable escuchar jazz todos los días. El ambiente en el que te desarrollas determina lo que tú esperas que sea normal. Rodéate de personas que tengan los hábitos que tú quieres adquirir. Es muy probable que alcance los hábitos junto con esas personas.
 Nada mantiene la motivación mejor que pertenecer a una tribu o grupo. Transforma una misión personal en una misión compartida. Antes de formar parte de la tribu estaba solo. Tu identidad era individual. Tú eres un lector. Tú eres un músico. Tú eres un atleta. Cuando te unes a un club de lectura o alguna orquesta o a un grupo de ciclismo, tu identidad se vincula a la de aquellos que están a tu alrededor. El cambio y el desarrollo ya no es una conquista individual. Somos lectores. Somos músicos. Somos ciclistas. La identidad compartida comienza a reforzar tu identidad individual. Este es el motivo por el cual seguir siendo parte de un grupo después de lograr una meta es crucial para mantener tus hábitos. La amistad y la comunión quedan grabados profundamente en nuevo en una nueva identidad y te ayudan a mantener las conductas saludables durante mucho tiempo.
-Imitar a la mayoría.
+
+### Imitar a la mayoría
+
 Ya se ha visto en muchos experimentos que siempre que no estamos seguros de cómo actuar observamos al grupo al que pertenecemos para guiar nuestra conducta. Constantemente escuchamos nuestro ambiente y nos preguntamos: ¿qué es lo que está haciendo todo el mundo? Revisamos las reseñas que se publican en Amazon o TripAdvisor porque queremos imitar la mejor adquisición o el mejor sitio para comer y los mejores hábitos de viaje. Y por lo regular se trata de una buena estrategia. La evidencia puede cuantificarse punto sin embargo también puede tener inconvenientes.
+
 El comportamiento normal de la tribu por lo regular predomina sobre la conducta individual deseada del individuo. Por ejemplo, en estudios se muestran que cuando un chimpancé que pertenece a un primer grupo, aprende un método efectivo de abrir nueces y luego lo has cambiado un segundo grupo que utiliza un método menos eficiente, trata de evitar usar el mejor método con el solo propósito de integrarse en el grupo.
+
 Los humanos somos similares. Hay una tremenda presión social para cumplir con las reglas del grupo. La recompensa de ser aceptado con frecuencia es mayor que la recompensa de ganar una discusión o de parecer inteligente o de encontrar la verdad. En muchas ocasiones preferimos estar equivocados y pertenecer al grupo que están en lo correcto pero solos.
+
 La mente humana está diseñada para llevarse bien con los otros. La mente quiere llevarse bien con los otros. Está en nuestra naturaleza. Sin embargo, es posible anular esta tendencia. Puede ser dirigir, ignorar al grupo o dejar de tomar tener en cuenta lo que la gente piensa de ti, pero requiere trabajo y esfuerzo. Nadar contra la corriente del ambiente en el que te desenvuelves se requiere un esfuerzo adicional.
+
 Cuando tu cambio de hábitos constituye un desafío para la tribu, el cambio es poco atractivo. Cuando tu cambio de hábitos implica armonizar con el resto del grupo, y entonces el cambio se vuelve muy atractivo.
-Imitar a los poderosos
+
+### Imitar a los poderosos
+
 Todos los seres humanos persiguen el poder el prestigio y el estatus. Queremos reconocimiento y elogios. Esta tendencia puede parecer banal, pero sobre todo es una medida inteligente. Históricamente las personas con mayor poder y estatus tienen acceso a más recursos, se tienen que preocupar menos por su supervivencia y suelen ser parejas más atractivas.
+
 Naturalmente nos sentimos más atraídos hacia los comportamientos que nos permiten ganar respeto, aprobación, admiración y estatus.
+
 Queremos ser los atletas del gimnasio que pueden elevar en su cuerpo sobre la barra o los músicos que pueden tocar las melodías más intrincadas o los padres de los niños más aventajados porque esas características nos permiten distinguirnos del resto de las personas.
+
 Esta es una de las razones por las que tanto nos importan los hábitos de las personas altamente efectivas. Tratamos de imitar el comportamiento a las personas exitosas porque nosotros también deseamos tener éxito. Muchos de nuestros hábitos cotidianos reproducen los hábitos de gente que admiramos. Reproduces las estrategias de las empresas más exitosas de la industria en las que trabajas. Prepara las recetas de tu chef pastelero favorito. Tomás prestadas las estrategias literarias de tu escritor predilecto. Imitas el estilo de comunicación de tu jefe. Invitamos a la gente que envidiamos.
+
 La gente que tiene un estatus alto disfruta de la aprobación, el respeto y el reconocimiento de los demás punto y eso significa que, si un comportamiento determinado nos puede proporcionar aprobación, respeto y reconocimiento, lo encontramos atractivo.
+
 También estamos motivados a evitar conductas que reducirían nuestro estatus. Podamos la hierba de nuestro jardín porque no queremos aparecer como unos holgazanes del vecindario donde vivimos. Cuando nuestra madre nos visita limpiamos la casa porque no queremos ser juzgados. Constantemente nos estamos preguntando: qué pensarán los demás de mí y siempre estamos alterando nuestro comportamiento con base en las respuestas a esa pregunta.
-Capítulo 10: cómo localizar y arreglar las causas de tus malos hábitos.
-De dónde provienen los anhelos.
+
+## Capítulo 10: cómo localizar y arreglar las causas de tus malos hábitos
+
+### De dónde provienen los anhelos
+
 Un anhelo o deseo es solamente una manifestación específica de un motivo subyacente más profundo. Tu cerebro no evoluciona con un deseo de fumar cigarros o de navegar por Instagram o de jugar a videojuegos. En un nivel profundo, siempre quieres reducir la incertidumbre o aliviar la ansiedad o ganar aceptación y aprobación social o alcanzar un mayor estatus.
+
 Observa con atención cualquier producto que sea susceptible de convertirse en un hábito y te darás cuenta de que no genera una nueva motivación, solamente se entrelaza con motivos subyacentes de la naturaleza humana.
-•	Encontrar el amor y reproducirse igual a usar Tinder.
-•	Conectar establecer vínculos emocionales con otras personas igual a navegar por Facebook.
-•	Ganar aceptación social y aprobación igual a publicar en Instagram.
-•	Reducir la incertidumbre igual a buscar información en Google.
-•	Alcanzar un estatus alto y de prestigio igual a jugar a videojuegos.
+
+- Encontrar el amor y reproducirse igual a usar Tinder.
+
+- Conectar establecer vínculos emocionales con otras personas igual a navegar por Facebook.
+
+- Ganar aceptación social y aprobación igual a publicar en Instagram.
+
+- Reducir la incertidumbre igual a buscar información en Google.
+
+- Alcanzar un estatus alto y de prestigio igual a jugar a videojuegos.
+
 Tus hábitos son soluciones modernas a deseos ancestrales. Nuevas versiones de vicios antiguos. Los motivos subyacentes detrás de la conducta humana permanecen inmutables. Los hábitos específicos que realizamos difieren de acuerdo con el período de la historia en que nos encontramos.
-Aquí hay un concepto muy poderoso: hay muchas maneras distintas de satisfacer el mismo motivo subyacente. Una persona puede aprender a reducir el estrés fumando un cigarro. Otra persona puede aprender a reducir la ansiedad saliendo a correr. 
+
+Aquí hay un concepto muy poderoso: hay muchas maneras distintas de satisfacer el mismo motivo subyacente. Una persona puede aprender a reducir el estrés fumando un cigarro. Otra persona puede aprender a reducir la ansiedad saliendo a correr.
+
 Tus hábitos presentes no necesariamente son la mejor manera de resolver los problemas que tienes que afrontar, solamente son métodos que has aprendido a usar punto una vez que asocias una solución con el problema que necesitas resolver empiezas a utilizarla rápidamente.
+
 Los hábitos tienen que ver mucho con asociaciones. Estas asociaciones nos permiten predecir si un hábito vale la pena ser repetido o no. Como establecimos cuando hablamos de la primera ley, nuestro cerebro está absorbiendo información constantemente y advirtiéndola en señales del ambiente. Cada vez que percibes una señal coma tu cerebro inicia un simulacro que te permite hacer una predicción acerca de lo que debes hacer enseguida.
-•	Señal: notas que la estufa está más caliente punto
-•	Predicción: si toco la estufa me quemaré. Por ello es mejor evitar tocarla.
-•	Señal: observas que la luz del semáforo cambia a verde.
-•	Predicción: si aprieto el acelerador pasaré sin problemas por la intersección y estaré más cerca de mi destino punto por ese motivo voy a acelerar.
+
+- Señal: notas que la estufa está más caliente.
+
+- Predicción: si toco la estufa me quemaré. Por ello es mejor evitar tocarla.
+
+- Señal: observas que la luz del semáforo cambia a verde.
+
+- Predicción: si aprieto el acelerador pasaré sin problemas por la intersección y estaré más cerca de mi destino.Por ese motivo voy a acelerar.
+
 Cuando percibes una señal la clasificas de acuerdo con tu experiencia previa y determinas una respuesta apropiada.
-Todo esto ocurre en un instante, pero tiene un rol crucial en tus hábitos porque cada acción es precedida de una predicción. La vida parece ser reactiva, pero en realidad es predictiva. Durante todo el día estás eligiendo la mejor manera de actuar a partir de lo que acabas de ver y de lo que te ha funcionado mejor en el pasado. Constantemente sin cesar estás haciendo predicciones de lo que va a suceder en el siguiente instante.
+Todo esto ocurre en un instante, pero tiene un rol crucial en tus hábitos porque cada acción es precedida de una predicción. La vida parece ser reactiva, pero en realidad es predictiva. Durante todo el día estás eligiendo la mejor manera de actuar a partir de lo que acabas de ver y de lo que te ha funcionado mejor en el pasado.
+
+Constantemente sin cesar estás haciendo predicciones de lo que va a suceder en el siguiente instante.
+
 Nuestro comportamiento depende enormemente de estas predicciones. Dichos con otras palabras, nuestro comportamiento depende enormemente de cómo interpretamos los sucesos que ocurren a nuestro alrededor, y no necesariamente de la realidad objetiva de esos sucesos por sí mismos. Cuando dos personas observan el mismo cigarro, una puede sentir el impulso de fumar mientras que la otra puede sentir repulsión por su desagradable olor. La misma señal puede provocar un buen hábito o un mal hábito dependiendo de la predicción de cada quien. La causa de los hábitos es en realidad la predicción que los precede.
+
 Cada una de estas predicciones tiene como consecuencia un sentimiento, que es justamente como definíamos el deseo o el anhelo, un sentimiento, un deseo, un impulso. Los sentimientos y las emociones transforman las señales que percibimos y las predicciones que hacemos y las convierten en una señal que podemos aplicar. Nos ayuden a explicar qué estamos sintiendo en un momento dado.
+
 Por ejemplo, sin importar si te das cuenta de manera consciente o no tu cuerpo está percibiendo si sientes frío o calor en ese momento punto si la temperatura desciende 1º, probablemente no hagas nada. Pero si la temperatura desciende 10º sentirás frío y te pondrás otra capa de ropa. Sentir frío es la señal que te impulsa a actuar. Habías estado percibiendo la señal de la temperatura todo el tiempo, pero solamente cuando predijiste que estarías mejor si cambiabas de Estado entonces realizaste la acción.
+
 El anhelo surge cuando tienes la sensación de que algo te falta. Se trata de un deseo de cambiar tu estado interno.
-El deseo es la diferencia entre el punto donde te encuentras ahora y el punto donde quieres estar en el futuro. Incluso la acción más insignificante está teñida por la motivación de sentir algo distinto a lo que sientes en un momento determinado. 
+El deseo es la diferencia entre el punto donde te encuentras ahora y el punto donde quieres estar en el futuro.
+
+Incluso la acción más insignificante está teñida por la motivación de sentir algo distinto a lo que sientes en un momento determinado.
+
 Cuando comes comida basura o enciendes un cigarro o pierdes tiempo navegando en las redes sociales, lo que realmente quieres no es una patata frita o un cigarro o un montón de likes. Lo que realmente quieres es sentirte de manera distinta.
-nuestros sentimientos y emociones nos indican si mantenemos el estado en el que estamos o si realizamos un cambio punto nos ayudan a decidir el mejor curso de acción. Los neurólogos han descubierto que cuando las emociones y los sentimientos están afectados, perdemos la capacidad de tomar decisiones. Cuando esto sucede no tenemos señales que nos indiquen que debemos conseguir y que debemos evitar. El neurocientífico Antonio Damásio lo explica de la siguiente manera: “la emoción es lo que hace que etiquetemos las cosas como buenas, malas o indiferentes.”
+
+Nuestros sentimientos y emociones nos indican si mantenemos el estado en el que estamos o si realizamos un cambio punto nos ayudan a decidir el mejor curso de acción. Los neurólogos han descubierto que cuando las emociones y los sentimientos están afectados, perdemos la capacidad de tomar decisiones. Cuando esto sucede no tenemos señales que nos indiquen que debemos conseguir y que debemos evitar. El neurocientífico Antonio Damásio lo explica de la siguiente manera: “la emoción es lo que hace que etiquetemos las cosas como buenas, malas o indiferentes.”
+
 Con el tiempo aprendes a predecir que navegar por las redes sociales te hará sentir querido o que ver youtube te ayudará a olvidarte de tus temores.
-Cómo reprogramar tu cerebro para que disfrute de los hábitos difíciles.
+
+### Cómo reprogramar tu cerebro para que disfrute de los hábitos difíciles
+
 Por ejemplo, generalmente nos referimos a todo lo que “debemos hacer” en un día dado. debes despertarte temprano. Debes hacer la comida de tu familia.
+
 Ahora imagina reemplazar una palabra de esta frase: en lugar de debes hacer algo, piensa que tienes la oportunidad de hacer algo.
+
 Tienes la oportunidad de levantarte temprano para ir a trabajar. Tienes la oportunidad de hacer una llamada de ventas para tu negocio. Tienes la oportunidad de preparar la comida de tu familia. Con el simple hecho de reemplazar una palabra cambias la manera de percibir cada una de estas tareas. Pasas de ver estas conductas como cargas y las conviertes en oportunidades.
+
 La clave es que ambas versiones de la realidad son ciertas. Ciertamente debes hacer esas cosas, pero también es verdad que tienes la oportunidad de hacer las. Es posible encontrar evidencias para cualquier mentalidad o perspectiva que elijamos.
+
 Escuché una historia de un hombre que usaba una silla de ruedas. Cuando le preguntaron si era difícil para él estar confinado a usar la silla, respondió: no estoy confinado en mi silla de ruedas gracias a ella soy libre punto si no fuera por la silla de ruedas estaría condenado a vivir acostado y jamás podría salir de mi casa.
 Este cambio de perspectiva transformó completamente mi forma de vivir cada día.
-Estos cambios en la manera de pensar no son mágicos, pero nos ayudan a cambiar los sentimientos que asociamos con un hábito o una situación particular punto
-Capítulo 11: avanza despacio pero no des marcha atrás. 
+
+Estos cambios en la manera de pensar no son mágicos, pero nos ayudan a cambiar los sentimientos que asociamos con un hábito o una situación particular.
+
+## Capítulo 11: avanza despacio pero no des marcha atrás
+
 Suelo referirme a esto como la diferencia entre ponerse en marcha y actuar. Los dos conceptos suenan parecidos, pero no son iguales. Cuando te pones en marcha estás planeando, estableciendo estrategias y aprendiendo. Todo es bueno, pero no produce un resultado. Sí bosquejo 20 ideas para artículos que pretendo escribir, eso equivale a ponerme en marcha. Si realmente me siento y escribo un artículo, eso es actuar. Sí busco el mejor plan para perder peso y Leo algunos libros sobre el tema, eso es ponerme en marcha. Cuando realmente empiezo a comer de manera saludable, eso es actuar.
+
 En ocasiones ponerse en marcha es útil, pero ello nunca va a producir un resultado por sí mismo. Lo importa cuántas veces vayas a hablar con el entrenador personal, eso no basta para que te pongas en forma. Tienes que entrenar para obtener el resultado que quieres alcanzar.
+
 Si ponerse en marcha no basta para alcanzar resultados, ¿por qué lo hacemos? Algunas veces lo hacemos porque verdaderamente necesitamos un plan o aprender más sobre un tema. Pero con frecuencia, lo hacemos porque al ponernos en marcha sentimos que estamos progresando sin necesidad de correr el riesgo de fracasar. Muchos de nosotros somos expertos en evadir la crítica. No es agradable fallar y ser juzgado públicamente, así que tendemos a evitar situaciones en las que eso puede suceder. Y esa es la mayor razón por la cual nos ponemos en marcha, pero no actuamos, porque queremos retardar el fracaso.
+
 Ponerse en marcha te hace sentir que ya estás haciendo las cosas, pero en realidad, solo te estás preparando para hacer algo. Cuando la preparación se vuelve una manera de postergar lo que tienes que hacer, es necesario hacer un cambio. No quieres estar planeando todo el tiempo punto también quieres actuar.
+
 Si quieres dominar un hábito, la clave es empezar con la repetición del mismo, y no con la perfección. No debes tener contempladas todas las características de tu hábito de antemano. Solo tienes que ponerla en práctica. Esta es la primera aportación de la tercera ley: solamente tienes que ponerte manos a la obra y hacer tus repeticiones. 
 Cuánto tiempo toma desarrollar un nuevo hábito.
+
 Con cada repetición el envío de señales de una célula a otra mejora y las conexiones neuronales se fortalecen. Descrito por primera vez por Donald Trump en 1949, este fenómeno se conoce comúnmente como la ley de jep.
 Tanto el sentido común como la evidencia científica están de acuerdo: la repetición es una forma de cambio. Cada vez que repites una acción, estás activando un circuito en el lugar específico que está asociado con ese hábito. Eso significa que hacer tus repeticiones es 1 de los pasos más importantes para lograr codificar un hábito en tu cerebro.
 Todos los hábitos siguen una trayectoria semejante que va de la práctica esforzada a las conductas automáticas, un proceso que se conoce como automaticidad. La automaticidad es la habilidad de realizar una conducta sin tener que pensar en cada paso, lo que ocurre cuando la mente inconsciente está a cargo. Gráficamente se representa de la siguiente manera:
+
 ver gráfica página 167
+
 La forma de estas gráficas, que los científicos llaman curvas de aprendizaje revelan importante verdad acerca del cambio de comportamiento: los hábitos se construyen a partir de la frecuencia con que se practican coma no según el tiempo de duración durante el que se practica.
+
 Puedes hacer algo dos veces en un mes o 200 veces en un mes. La frecuencia es lo que establece la diferencia. tus hábitos actuales se han internalizado en el curso de cientos coma sino miles de repeticiones. Los nuevos hábitos también requieren el mismo nivel de frecuencia.
-Capítulo 12: la ley del menor esfuerzo.
+
+### Capítulo 12: la ley del menor esfuerzo
+
 Cuando la agricultura comenzó a extenderse por el planeta coma fue más sencillo para los agricultores expandirse por rutas que van de este a oeste que por las rutas que van al norte y sur. Esto se debe a que las zonas que están dentro de la misma latitud generalmente comparten climas similares, cambios de estación, así como la misma cantidad de luz solar y de lluvia. Estos factores similares permitieron a los agricultores de Europa y Asia domesticar algunos cultivos y extenderlos por una franja de tierra que va desde Francia hasta China.
+
 En contraste, el clima cambia mucho cuando se viaja de norte a sur. Imagina cuán diferente es el clima en Florida en comparación con Canadá.
+
 La expansión de la agricultura provee un ejemplo de la tercera ley del cambio de conducta a escala mundial. La sabiduría convencional mantiene que la motivación es la clave del cambio de hábitos. Si realmente quieres algo, puedes conseguirlo. Pero la verdad es que nuestra verdadera motivación consiste en ser perezosos y hacer lo que es más conveniente.
+
 La energía es valiosa y el cerebro está programado para conservarla cuando ello es posible. Es parte de la naturaleza humana seguir la ley del menor esfuerzo, la cual establece que cuando se tiene que decidir entre 2 opciones similares, las personas naturalmente tendrán la legislación que requiere la menor cantidad de trabajo. Por ejemplo, expandir tu granja hacia el este, dónde puedes sembrar los mismos productos en lugar de hacerlo hacia el norte donde el clima es diferente punto de todas las acciones posibles que podemos tomar la que elegimos es aquella que nos produce mayor valor con el menor esfuerzo. Nos motiva a hacer lo que es más fácil.
+
 Cada acción requiere una cantidad de energía determinada. Cuanta más energía se requiera, es menos probable que ocurra la acción. Si tú metas a hacer 100 flexiones diariamente necesitarás mucha energía. Al principio cuando estés motivado y entusiasmado quizás reúnas la voluntad para comenzar. Pero después de algunos días, esa enorme cantidad de energía te hará sentir exhausto. Por el contrario, si te atienes al hábito de hacer una flexión a diario, eso no requiere prácticamente ningún esfuerzo para empezar. Y cuanto menos energía requiera un hábito es más probable que lo adoptes.
+
 En cierto sentido, un hábito solamente un obstáculo para que obtengas lo que realmente quieres punto hacer dieta es un obstáculo para ponerte en forma. La meditación es un obstáculo para sentirte tranquilo. Llevar un diario es un obstáculo para pensar con claridad. Tú no quieres el hábito por sí mismo. Lo que verdaderamente quieres es el resultado que se obtiene tras poner en práctica el hábito. Cuanto mayor es el obstáculo, es decir, cuanto más difícil es el hábito, mayor es la resistencia que tienes que afrontar para alcanzar el estado que deseas. Ese es el motivo por el cual es crucial lograr que tus hábitos sean tan sencillos de realizar que los sigas, aunque no tengas ganas. Si consigues hacer que tus hábitos sean más convenientes, será más fácil que lo realices.
+
 Ciertamente eres capaz de lograr cosas muy difíciles. El problema es que algunos días sientes deseos de realizar el trabajo duro y otros días sientes que quieres rendirte. Es durante los días duros cuando es crucial contar con tantas cosas a tu favor como sea posible, de tal manera que puedas vencer los retos que la vida te lanza de forma natural. Cuanto menos resistencia tengas que afrontar coma más sencillo será que la parte más fuerte de tu ser emerja. La idea que hay detrás de hacerlo sencillo no consiste en hacer solamente cosas sencillas. La idea es simplificar tanto como sea posible en el momento presente los hábitos que producirán más recompensa a largo plazo. 
-Cómo conseguir más con menos esfuerzo. Página 175
+Cómo conseguir más con menos esfuerzo. 
 
 
-Página 165
 
 
