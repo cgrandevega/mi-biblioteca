@@ -121,13 +121,53 @@ El cerebro, el sistema nervioso, los órganos y células inmunitarias y las glá
 
 En resumen, además de unificar la red de fibras nerviosas que conectan los diversos componentes del súper sistema PNIE, existe también en constante intercambio bioquímico entre ellos. **La infinidad de productos que cada uno de estos componentes puede enviar o recibir de otros les permite a todos hablar y entender el mismo idioma molecular y responder cada uno a su manera a las mismas señales.** Este sistema es como una centralita gigante en funcionamiento constante que coordina la entrada y salida de mensajes en todas las direcciones. De esto se deduce también que cualquier estímulo que actúe sobre una de las partes de este sistema ya sea a corto plazo o crónico puede afectar potencialmente también a las otras partes.
 
-Qué es lo que hace posible las funciones interactivas versátiles de este sistema. Una mirada microscópicas debería muchos receptores en la superficie de cada una de las células que sirven para unir los mensajes moleculares comunes. Como afirmó candas Earth una típica célula nerviosa neurona puede tener millones de receptores sobre su superficie. Si asignará un color distinto a cada 1 de los receptores que los científicos han identificado, ya la superficie celular media tendría la apariencia de un mosaico multicolor de al menos 70 matices distintos; 50000 de un tipo de receptor, 10000 de otro coma 100000 de otro...
+¿Qué es lo que hace posible las funciones interactivas versátiles de este sistema? Una mirada microscópicas debería muchos receptores en la superficie de cada una de las células que sirven para unir los mensajes moleculares comunes. **Como afirmó Cadance Pert, una típica célula nerviosa neuronal puede tener millones de receptores sobre su superficie.** Si asignará un color distinto a cada uno de los receptores que los científicos han identificado, ya la superficie celular media tendría la apariencia de un mosaico multicolor de al menos 70 matices distintos; 50.000 de un tipo de receptor, 10.000 de otro, 100.000 de otro...
 
-El estrés puede alterar los mecanismos de reparación del ADN; En un estudio los linfocitos de pacientes siquiátricos con importantes síntomas depresivos mostraron una merma en su habilidad para reparar el ADN celular dañado por la exposición a la radiación de rayos X.
+**El estrés puede alterar los mecanismos de reparación del ADN**; En un estudio los linfocitos de pacientes siquiátricos con importantes síntomas depresivos mostraron una merma en su habilidad para reparar el ADN celular dañado por la exposición a la radiación de rayos X.
+
+## 8. De esto sale algo bueno
+
+Dada la íntima relación entre los niveles de hormonas y las emociones, **es sorprendente comprobar cómo las investigaciones y práctica médicas han ignorado completamente las influencias psicológicas en el origen del cáncer de próstata** y han desestimado acercamientos más holísticos a su tratamiento. Prácticamente ninguna investigación ha estudiado los factores de personalidad o estrés en los tumores de próstata, y los manuales ignoran el asunto.
+
+Existe una diferencia importante entre una característica inherente, enraizada en un individuo independientemente de su entorno, y una respuesta de entorno, que es un patrón de comportamientos desarrollados para garantizar la supervivencia.
+
+**Lo que consideramos rasgos indelebles pueden no ser más que técnicas de defensa cotidianas adoptadas inconscientemente.** La gente suele identificarse con esos patrones cotidianos creyéndolos una parte indispensable de su ser puntos puede incluso que sientan desprecios en sí mismos por ciertos rasgos, como cuando por ejemplo una persona se describe con un como un obseso del control. Lo que existe en una personalidad controladora es en realidad una profunda ansiedad. El bebé y el niño que perciben que sus necesidades no son atendidas pueden desarrollar un estilo de afrontamiento obsesivo, atento a cada detalle. Cuando una persona se siente que es incapaz de controlar una situación sufre un gran estrés. Cree inconscientemente que solo mediante el control de cada 1 de los aspectos de su vida y entorno podrá asegurar la satisfacción de sus necesidades. Con los años a otros les molestará ese comportamiento y la persona controladora llegará a despreciarse a sí misma por lo que originalmente era una persona desesperada a privaciones emocionales. **El impulso de controlar no es un rasgo innato, sino un estilo de afrontamiento.**
+
+**La represión emocional también es un estilo de afrontamiento** más que un rasgo de personalidad tallado en piedra. Ni uno solo de los muchos adultos a los que entrevisté para este libro pudo responder afirmativamente cuando les pregunté lo siguiente: cuando de niño te sentías triste molesto o enfadado ¿había alguien con quien pudieras hablar, aunque fuera esa persona la que había provocado tus emociones negativas?
+
+Muchos niños acaban condicionados de esta manera, no a causa de ningún daño o abuso intencionado, sino porque los propios padres están demasiado amenazados por la ansiedad, la ira o la tristeza que intuyen en su hijo; o simplemente están demasiado ocupados u hostigados ellos mismos para prestarle atención. **Fórmulas sencillas como "mi madre o mi padre necesitaban que fuera feliz" han inculcado en muchos niños que después se convertirán en adultos estresados deprimidos o físicamente enfermos patrones de represión que los acompañan toda la vida**
+
+## 10. La solución del 55%
+
+En la enfermedad de Crohn, la inflamación se extiende a través de la totalidad de la pared intestinal. Se ven afectados la mayor parte del íleon, que es la tercera y última parte del intestino Delgado y el colon, pero la enfermedad puede aparecer en cualquier parte del tracto digestivo, desde el esófago hasta el intestino grueso. Las enfermedades intestinales inflamatorias pueden asociarse con la inflamación de las articulaciones los ojos y la piel.
+
+La ciencia médica considera que las enfermedades intestinales inflamatorias son "idiopáticas", de origen desconocido. **La herencia desempeña un papel, pero no principal.** Aproximadamente entre el 10 y el 15% de los pacientes tienen antecedentes familiares y el riesgo de alguien con un pariente de primer grado al que le hayan diagnosticado la enfermedad se estima entre el dos y el 10%. Los pacientes a menudo sienten intuitivamente que existe una conexión entre su enfermedad intestinal inflamatoria y su estrés vital.
+
+**La inflamación de las enfermedades intestinales es el resultado de una actividad inmunitaria alterada del intestino.** Además de sus funciones de digestión y absorción, **los intestinos también son una de las principales barreras del cuerpo contra la invasión.** Lo que se encuentra en los intestinos está simplemente de paso y sigue perteneciendo al mundo exterior y solo después de atravesar el revestimiento del intestino entran propiamente en el cuerpo las distintas sustancias y organismos. Dado que esta función protectora del tejido del intestino es fundamental para nuestro bienestar, está provisto de un generoso sistema inmunitario propio que actúa de manera coordinada con las defensas inmunitarias generales del cuerpo.
+
+**Las poderosas fuerzas destructivas del aparato inmunitario deben estar minuciosamente reguladas y equilibradas, de tal manera que sean capaces de llevar a cabo sus tareas de vigilancia sin dañar los delicados tejidos corporales a los que deben proteger.** Algunas sustancias promueven la inflamación; otras la inhiben. Si este equilibrio se ve alterado, puede producirse como resultado una enfermedad. Una incapacidad parcial por parte del intestino de organizar una respuesta inflamatoria invitaría a infecciones potencialmente letales. Por otro lado la incapacidad de disminuir la inflamación expone al tejido intestinal a la autolesión. La principal alteración en las enfermedades intestinales inflamatorias parece ser el desequilibrio de lo que un artículo llamó las moléculas pro inflamatorias y anti inflamatorias presentes en el revestimiento del intestino.
+
+**El intestino o tracto intestinal es mucho más que un órgano de la digestión. Es un aparato sensorial con un sistema nervioso propio íntimamente conectado con los centros emocionales del cerebro.** Muchos de nosotros somos capaces de recordar el dolor de tripa que nos producía la ansiedad cuando éramos niños.
+Su funcionamiento es inseparable del procesamiento psicológico que evalúe reacción a los estímulos que nos presenta el entorno que a cada instante. La habilidad del tejido intestinal de conservar su integridad está fuertemente influida por factores psicológicos coma y su resistencia a la inflamación e incluso a cambios malignos también es sensible al estrés emocional.
+
+## 11. Está todo en su cabeza
+
+Es evidente que los traumas físicos directos, una contusión cerebral severa o la rotura o daño de un nervio, pueden alterar fisiológicamente el sistema nervioso. Pero ¿cómo ejerce su efecto el trauma sobre la percepción del dolor?
+El sistema nervioso del intestino contiene unos 100 millones de células nerviosas; **solo en el intestino Delgado hay la misma cantidad que en toda la columna vertebral.** Estos nervios no se limitan a coordinar la digestión y absorción de comida y eliminar los desperdicios; también forman parte de nuestro aparato sensorial. El intestino responde a estímulos emocionales a través de contracciones musculares, cambios en el flujo sanguíneo y la secreción de multitud de sustancias biológicamente activas. Esta integración entre el cerebro y el intestino es esencial para la supervivencia. Puede ser necesario por ejemplo trasladar sin previo aviso grandes volúmenes de sangre de los intestinos al corazón y a los músculos de las extremidades.
+
+El intestino a su vez está abundantemente equipado con nervios sensoriales que trasladan información al cerebro. A diferencia de lo que se creía hasta hace poco coma y las fibras nerviosas que van de los intestinos al cerebro superan ampliamente el número a las que realizan el trayecto inverso.
+
+El cerebro traslada al intestino información de órganos sensoriales como los ojos, la piel o los oídos; más concretamente, **lo que te traslada al intestino es la interpretación que los centros emocionales del cerebro hacen de esa información.** Los acontecimientos fisiológicos resultantes en el intestino refuerzan esa interpretación emocional. Las señales enviadas de vuelta al cerebro dan lugar a emociones viscerales que podemos interpretar de manera consciente. **Si perdemos el contacto con las emociones viscerales, el mundo se vuelve menos inseguro.**
+
+Evidentemente la vida no sería soportable si sintiéramos cada acontecimiento minúsculo que tiene lugar en nuestros cuerpos. La digestión la respiración el flujo sanguíneo a los órganos o extremidades y un sinfín de funciones más deben desarrollarse de manera inconsciente. Es necesario la existencia de un umbral por debajo del cual el cerebro no registre sensaciones y acepte los estímulos como normales, pero por encima del cual se ponga en alerta ante un potencial peligro interno o externo. En otras palabras, es necesario que exista un termostato bien calibrado para el dolor y otras sensaciones.
+
+## 12. Empezaré a morir por arriba
+
+El Alzheimer se está convirtiendo en la pesadilla de la generación del baby boom.
 
 ## 13. La confusión del sistema inmunitario
 
-En la primera edición de su clásico principios y práctica de la medicina, publicado en 1892, William Osler sugirió que la artritis reumatoide tiene con toda probabilidad un origen nervioso. En el lenguaje actual, Osler se refería a estrés psicoemocional. Sugirió la conexión de la enfermedad con la preocupación, con el shock y con el dolor. 
+En la primera edición de su clásico "Principios y práctica de la medicina", publicado en 1892, William Osler sugirió que la artritis reumatoide tiene con toda probabilidad un origen nervioso. En el lenguaje actual, Osler se refería a estrés psicoemocional. Sugirió la conexión de la enfermedad con la preocupación, con el shock y con el dolor. 
 
 William Osler no era ningún teórico marginal sino el médico más conocido del mundo anglófono. Tenía fama de ser el mejor profesor clínico del mundo de todos los tiempos. Impartió clases en la Universidad mcgill de Montreal, en la Escuela de Medicina de la Universidad Johns Hopkins de Baltimore y en Oxford. En Inglaterra fue nombrado Sir por sus aportaciones a las artes curativas y su manual ampliamente difundido disfrutar de 16 ediciones coma la última en 1947 28 años después de su muerte.
 
@@ -230,32 +270,40 @@ La autonomía sin embargo debe ejercitarse de una manera que no altere las relac
 
 ## 15. La biología de la pérdida.
 
-## 16. El baile de las generaciones.
+La biología de enfermedades potenciales aparece pronto en la vida. **Los mecanismos de respuesta al estrés del cerebro están programados por experiencias que comienzan en la primera infancia**, de modo que son los recuerdos implícitos e inconscientes los que gobiernan nuestras actitudes y comportamientos hacia nosotros mismos, hacia los demás y hacia El Mundo. **El cáncer, la esclerosis múltiple, la artritis reumatoide y las demás enfermedades que hemos examinado no aparecen abruptamente en la madurez, sino que representan la culminación de procesos desarrollados a lo largo de toda la vida**. Las interacciones humanas y las improntas biológicas que moldearon estos procesos tuvieron lugar durante periodos de nuestra vida que es posible que no recordemos conscientemente.
+
+## 16. El baile de las generaciones
+
+Si el padre no consigue transmitir una aceptación incondicional hacia el niño, se debe al hecho de que este recibe el amor del padre no como el padre desearía, **sino refractado a través de la personalidad de éste.** Si el padre está estresado, alberga ansiedad no resuelta o está agitado por necesidades emocionales insatisfechas, es probable que el niño se encuentre en situaciones de abandono próximo coma e independientemente de las intenciones del progenitor.
+Para bien o para mal muchas de nuestras actitudes y respuestas como padres tienen que ver con nuestras propias experiencias infantiles.
+
 
 ## 17. La biología de la creencia.
 
-Al decantarnos por la idea de que las enfermedades, ya sean mentales o físicas, son primordialmente genéticas, evitamos hacer unas preguntas molestas acerca de la naturaleza de la sociedad en la que vivimos. Si la ciencia nos permite ignorar la pobreza, las toxinas artificiales o una cultura frenética y estresante como factores de las enfermedades, obtendremos respuestas sencillas: farmacológicas y biológicas.
+**Al decantarnos por la idea de que las enfermedades, ya sean mentales o físicas, son primordialmente genéticas, evitamos hacer unas preguntas molestas acerca de la naturaleza de la sociedad en la que vivimos.** Si la ciencia nos permite ignorar la pobreza, las toxinas artificiales o una cultura frenética y estresante como factores de las enfermedades, obtendremos respuestas sencillas: farmacológicas y biológicas.
 
-Aunque las proteínas de “percepción” se fabrican a través de mecanismos genéticos moleculares, la activación del proceso perceptor está controlado o provocado por señales ambientales. La influencia controladora del entorno ha quedado subrayada en estudios recientes de células madre. Las células madre no controlan su propio destino. La diferenciación entre células madre se basa en el entorno en el que se encuentra la célula. Por ejemplo, puede crearse 3 entornos distintos de cultivo de tejido. Si una célula madre se coloca en el cultivo número 1 puede convertirse en una célula ósea. Si la misma célula madre se coloca en el cultivo número dos se convertirá en una célula nerviosa, y si se pone en el cultivo número 3 madura como zona hepática. El destino de la célula está controlado por su interacción con el entorno y no por un programa genético autónomo.
+Aunque las proteínas de “percepción” se fabrican a través de mecanismos genéticos moleculares, la activación del proceso perceptor está controlado o provocado por señales ambientales. La influencia controladora del entorno ha quedado subrayada en estudios recientes de células madre. Las células madre no controlan su propio destino. **La diferenciación entre células madre se basa en el entorno en el que se encuentra la célula.** Por ejemplo, puede crearse 3 entornos distintos de cultivo de tejido. Si una célula madre se coloca en el cultivo número 1 puede convertirse en una célula ósea. Si la misma célula madre se coloca en el cultivo número dos se convertirá en una célula nerviosa, y si se pone en el cultivo número 3 madura como zona hepática. **El destino de la célula está controlado por su interacción con el entorno y no por un programa genético autónomo.**
 
-Un punto clave era esta explicación de la actividad biológica que hace el Dr lipton es que en un determinado momento las células al igual que el organismo entero pueden adoptar un modo defensivo o de crecimiento, pero nunca los dos a la vez.
+Un punto clave era esta explicación de la actividad biológica que hace el Dr Lipton. Es que en un determinado momento **las células, al igual que el organismo entero, pueden adoptar un modo defensivo o de crecimiento, pero nunca los dos a la vez.**
 
-Nuestras percepciones del entorno están almacenadas en la memoria celular y cuando las influencias ambientales tempranas son crónicamente estresantes el sistema nervioso en desarrollo y otros órganos del súper sistema PNIE reciben repetidamente el mensaje eléctrico, hormonal y químico de que el mundo es un lugar inseguro e incluso hostil estas percepciones están programadas en nuestras células a nivel molecular. Las experiencias tempranas condicionan la actitud del cuerpo frente al mundo y determinan las creencias inconscientes de las personas sobre sí mismas en relación con el. El Dr lipton llama a este proceso biología de la creencia.
+**Nuestras percepciones del entorno están almacenadas en la memoria celular** y cuando las influencias ambientales tempranas son crónicamente estresantes el sistema nervioso en desarrollo y otros órganos del súper sistema PNIE reciben repetidamente el mensaje eléctrico, hormonal y químico de que e**l mundo es un lugar inseguro e incluso hostil estas percepciones están programadas en nuestras células a nivel molecular.** Las experiencias tempranas condicionan la actitud del cuerpo frente al mundo y determinan las creencias inconscientes de las personas sobre sí mismas en relación con el. El Dr lipton llama a este proceso biología de la creencia.
 
 Hemos visto que el estrés es resultado de una interacción entre un estresor y un sistema procesual. Este aparato procesual es el sistema nervioso humano que opera bajo la influencia de los centros emocionales del cerebro. La biología de la creencia inculcada en este aparato procesual a una edad temprana influye de manera crucial sobre nuestras respuestas al estrés a lo largo de nuestra vida. 
 
 ¿Reconocemos nuestros estresores? ¿Magnificamos o minimizamos las potenciales amenazas para nuestro bienestar? ¿nos percibimos como personas solitarias? ¿Indefensas? ¿No necesitamos nunca ayuda? ¿no merecemos ayuda? ¿somos queridos? ¿tenemos que trabajar para ganarnos el cariño? ¿Nos creemos no merecedores de cariño sin remedio? 
- Todas estas creencias inconscientes incrustadas a nivel celular controlan nuestros comportamientos independientemente de lo que pensemos a nivel consciente. Mantienen apegados a nuestros modos defensivos a no permitir abrirnos al crecimiento y a la salud veamos ahora algunas de estas percepciones viscerales más detenidamente.
 
-Tipos de creencias
+**Todas estas creencias inconscientes incrustadas a nivel celular controlan nuestros comportamientos independientemente de lo que pensemos a nivel consciente.** Mantienen apegados a nuestros modos defensivos a no permitir abrirnos al crecimiento y a la salud veamos ahora algunas de estas percepciones viscerales más detenidamente.
+
+### Tipos de creencias
 
 1. Debo ser fuerte.
 
-La teoría de que cuando el cuerpo dice no la mente es incapaz, aunque esté de acuerdo no me gusta pensar en ella aplicada a mí misma. Porque significa que no es lo suficientemente fuerte, que no es capaz de hacer todo lo posible para ser lo suficientemente fuerte.
+— La teoría de que cuando el cuerpo dice no la mente es incapaz, aunque esté de acuerdo no me gusta pensar en ella aplicada a mí misma. Porque significa que no es lo suficientemente fuerte, que no es capaz de hacer todo lo posible para ser lo suficientemente fuerte.
 
-Ya, pero a veces el problema no es que tales campos de fuerza, sino que las exigencias que nos imponemos son imposibles. Por tanto, ¿qué tiene de malo no ser lo suficientemente fuerte?
+— Ya, pero a veces el problema no es que tales campos de fuerza, sino que las exigencias que nos imponemos son imposibles. Por tanto, ¿qué tiene de malo no ser lo suficientemente fuerte?
 
-Al niño que percibe que sus padres no pueden apoyarlo emocionalmente más le vale desarrollar una actitud de puedo ocuparme de todo yo solo punto de otro modo podría sentirme rechazado una manera de no sentirse rechazados no pedir nunca ayuda coma nunca admitir debilidad coma crees creer que eres lo suficientemente fuerte para soportar cualquier vicisitud en solitario.
+**Al niño que percibe que sus padres no pueden apoyarlo emocionalmente más le vale desarrollar una actitud de “puedo ocuparme de todo yo solo”. De otro modo podría sentirse rechazado.** Una manera de no sentirse rechazados es no pedir nunca ayuda, nunca admitir debilidad. Creer que eres lo suficientemente fuerte para soportar cualquier vicisitud en solitario.
+
 
 2. No está bien que me enfade.
 
@@ -271,64 +319,66 @@ Al niño que percibe que sus padres no pueden apoyarlo emocionalmente más le va
 
 8. Necesito estar enferma para que me cuiden.
 
-18. El poder del pensamiento negativo.
+## 18. El poder del pensamiento negativo.
 
-19. Las 7 pautas de la curación.
+## 19. Las 7 pautas de la curación.
 
-1. La aceptación.
+### 1. La aceptación.
 
 La aceptación es sencillamente la voluntad de reconocer y aceptar las cosas tal y como son. Es la valentía de permitir que el pensamiento negativo informe a nuestro entendimiento, sin dejar que defina cómo afrontamos el futuro.
 
 La aceptación no requiere resignarse a que continúen las circunstancias que nos aquejan, pero sí nos obliga a afrontar nuestra situación actual de cara.
 
-La aceptación implica también una relación compasiva con 1 mismo. Significa descartar la doble vara de medir que como hemos visto caracteriza a nuestro trato con el mundo en demasiadas ocasiones.
+La aceptación implica también una relación compasiva con uno mismo. Significa descartar la doble vara de medir que como hemos visto caracteriza a nuestro trato con el mundo en demasiadas ocasiones.
 
-2. Conciencia.
+### 2. Consciencia.
 
-A los animales y a los humanos jóvenes se les da muy bien reconocer señales emocionales. Si perdemos esa capacidad al adquirir el lenguaje solo porque percibimos mensajes confusos de nuestro mundo inmediato. Las palabras que escuchamos nos dicen una cosa pero los datos emocionales dicen algo distinto. Si ambos entran en conflicto 1 queda reprimido. Del mismo modo cuando los ojos de un niño divergen el cerebro suprimirá las imágenes de un ojo para evitar la visión doble punto a menos que se corrija el ojo suprimido se volverá ciego.
+A los animales y a los humanos jóvenes se les da muy bien reconocer señales emocionales. Si perdemos esa capacidad al adquirir el lenguaje solo porque percibimos mensajes confusos de nuestro mundo inmediato. Las palabras que escuchamos nos dicen una cosa pero los datos emocionales dicen algo distinto. Si ambos entran en conflicto uno queda reprimido. Del mismo modo cuando los ojos de un niño divergen el cerebro suprimirá las imágenes de un ojo para evitar la visión doble. A menos que se corrija el ojo suprimido se volverá ciego.
 
-Reprimimos nuestra inteligencia emocional para evitar una guerra continuada con las personas cruciales en nuestras vidas, una guerra imposible de ganar. así perdemos competencia emocional incluso mientras ganamos inteligencia verbal.
+**Reprimimos nuestra inteligencia emocional para evitar una guerra continuada con las personas cruciales en nuestras vidas, una guerra imposible de ganar.** Así perdemos competencia emocional incluso mientras ganamos inteligencia verbal.
 
-Poseer una conciencia plena significaría que recuperaríamos nuestra capacidad perdida de percibir la realidad emocional y que estaremos preparados para desechar la creencia paralizante de que no somos lo suficientemente fuertes para enfrentarnos a la verdad de nuestras vidas.
+**Poseer una consciencia plena significaría que recuperaríamos nuestra capacidad perdida de percibir la realidad emocional y que estaremos preparados para desechar la creencia paralizante de que no somos lo suficientemente fuertes para enfrentarnos a la verdad de nuestras vidas.**
 
-La persona ciega aprende a prestar más atención al sonido que las personas con visión la persona afásica (pérdida de la capacidad de hablar o entender el lenguaje hablado) aprende a reconocer sus relaciones internas a las palabras ya que las partes cognitivas de su cerebro ya no son capaces de ofrecerle el mensaje estas reacciones internas emocionales viscerales son las que perdimos al crecer.
+La persona ciega aprende a prestar más atención al sonido que las personas con visión. La persona afásica (pérdida de la capacidad de hablar o entender el lenguaje hablado) aprende a reconocer sus reacciones internas a las palabras, ya que las partes cognitivas de su cerebro ya no son capaces de ofrecerle el mensaje. **Estas reacciones internas emocionales viscerales son las que perdimos al crecer.**
 
-Es evidente que no se necesita perder habilidades lingüísticas para recuperar la percepción emocional para desarrollar la conciencia sin embargo si debemos practicar com a prestar atención constante a nuestros Estados internos y aprender a confiar en esas percepciones internas más que en lo que las palabras las nuestras y las de otros transmiten.
-Tener conciencia ta
-mbién significa aprender cuáles son las señales del estrés en nuestros propios cuerpos, como nuestros cuerpos nos avisan cuando nuestras mentes no han reconocido las pistas. Tanto en los estudios con animales como con humanos se ha observado que la respuesta fisiológica al estrés es un medidor más preciso de la experiencia real del organismo que la conciencia consciente o el comportamiento observado.
+Es evidente que no se necesita perder habilidades lingüísticas para recuperar la percepción emocional para desarrollar la consciencia, sin embargo, s**i debemos practicar, prestar atención constante a nuestros Estados internos y aprender a confiar en esas percepciones internas más que en lo que las palabras las nuestras y las de otros transmiten.**
 
-3. Ira.
+**Tener consciencia también significa aprender cuáles son las señales del estrés en nuestros propios cuerpos, como nuestros cuerpos nos avisan cuando nuestras mentes no han reconocido las pistas.** Tanto en los estudios con animales como con humanos se ha observado que la respuesta fisiológica al estrés es un medidor más preciso de la experiencia real del organismo que la conciencia consciente o el comportamiento observado.
+
+### 3. Ira.
 
 “Yo nunca me enfado, dice un personaje de Woody Allen, en vez de eso desarrolló un tumor.”
 
-En este punto el asunto de la ira se vuelve confuso y plantea muchas preguntas. ¿Cómo podemos animar a las personas a enfadarse cuando vemos que los niños sufren con los estallidos de ira de sus padres? En las historias de muchas pacientes hemos visto un patrón similar: padre agresivo, niño reprimido. “No dejaba de pensar en todas las veces que mi padre levantaba la voz”, dijo Donna, cuyo hermano Jimmy murió de melanoma maligno. “Me acordé de su voz y los gritos y los chillidos y pensé esa no es manera de vivir. No tendríamos que habernos sentido así.”
+En este punto el asunto de la ira se vuelve confuso y plantea muchas preguntas. **¿Cómo podemos animar a las personas a enfadarse cuando vemos que los niños sufren con los estallidos de ira de sus padres?** En las historias de muchas pacientes hemos visto un patrón similar: padre agresivo, niño reprimido. “No dejaba de pensar en todas las veces que mi padre levantaba la voz”, dijo Donna, cuyo hermano Jimmy murió de melanoma maligno. “Me acordé de su voz y los gritos y los chillidos y pensé esa no es manera de vivir. No tendríamos que habernos sentido así.”
 
-A primera vista parece una paradoja. Si la expresión de la ira es “buena”, el padre de Magda y el de Jimmy no hacían más que actuar de manera saludable, sin embargo, el efecto de su ira fue corrosivo para la salud de sus hijos y el concepto que se formaron de sí mismos. Reprimir la ira puede acarrear consecuencias negativas, ¿pero deberíamos animarla sí hiere a otros?
+A primera vista parece una paradoja. Si la expresión de la ira es “buena”, el padre de Magda y el de Jimmy no hacían más que actuar de manera saludable, sin embargo, el efecto de su ira fue corrosivo para la salud de sus hijos y el concepto que se formaron de sí mismos. **Reprimir la ira puede acarrear consecuencias negativas, ¿pero deberíamos animarla sí hiere a otros?**
 
 El misterio no hace más que profundizarse. La expresión desenfrenada de ira no solo es dañina para los receptores u observadores, sino que también puede ser letal para el iracundo. Los estallidos de ira pueden ir seguidos de ataques al corazón. Por lo general la hipertensión y las enfermedades coronarias son más probables entre personas que albergan hostilidad.
-Como ya habremos podido deducir, la relación entre la ira y las enfermedades cardiovasculares es otra de las funciones del aparato psiconeuroinmunitario. Los nervios simpáticos se activan en Estados de ira. El estrechamiento de los vasos sanguíneos hace que se incremente la presión sanguínea y disminuye el suministro de oxígeno al corazón.
+
+Como ya habremos podido deducir, **la relación entre la ira y las enfermedades cardiovasculares es otra de las funciones del aparato psiconeuroinmunitario.** Los nervios simpáticos se activan en Estados de ira. El estrechamiento de los vasos sanguíneos hace que se incremente la presión sanguínea y disminuye el suministro de oxígeno al corazón.
 Cómo resolvemos entonces el dilema de la ira. Si la expresión de ira es dañina, así como su represión, cómo podemos alcanzar la salud y la curación.
 
-Tanto la expresión de ira como su escenificación descontrolada son ejemplos de la expresión anómala de las emociones que está en la raíz de la enfermedad. Allen Kalpin, médicos y terapeuta en Toronto, señala que tanto la represión como los ataques de ira representan un miedo a la experiencia genuina de la ira.
+Tanto la expresión de ira como su escenificación descontrolada son ejemplos de la expresión anómala de las emociones que está en la raíz de la enfermedad. **Allen Kalpin, médico y terapeuta en Toronto, señala que tanto la represión como los ataques de ira representan un miedo a la experiencia genuina de la ira.**
 
-La ira saludable, dice Kalpin, me resultó sorprendente pero muy acertada. Su explicación me hizo darme cuenta de la confusión existente en nuestras ideas recibidas sobre esta emoción. La ira es saludable, es un ejercicio de empoderamiento y relajación. La verdadera experiencia de la ira es “una experiencia fisiológica sin sobreactuación. La experiencia es la de una fuerza que recorren nuestro sistema, junto con una movilización para atacar. Se da, simultáneamente, una total desaparecidos de cualquier ansiedad.
+La ira saludable, dice Kalpin, me resultó sorprendente pero muy acertada. Su explicación me hizo darme cuenta de la confusión existente en nuestras ideas recibidas sobre esta emoción. **La ira saludable, es un ejercicio de empoderamiento y relajación**. La verdadera experiencia de la ira es “una experiencia fisiológica sin sobreactuación. La experiencia es la de una fuerza que recorren nuestro sistema, junto con una movilización para atacar. **Se da, simultáneamente, una total desaparecidos de cualquier ansiedad.**
 
 Cuando se comienza a experimentar la ira saludable, no aprecias nada dramático. Lo que ves es una disminución de toda la tensión muscular.
 
-Si la ira es relajación, entonces ¿qué son los ataques de ira? Cuando yo estoy enrabietado mi cara se constriñe, mis músculos se tensan y estoy seguro de que doy una imagen de todo menos estar relajado. Aquí el Dr Kalpin establece una distinción crucial. El asunto es el siguiente: ¿qué siente realmente la gente cuando siente ira? Resulta fascinante preguntarlo. 
+Si la ira es relajación, entonces ¿qué son los ataques de ira? Cuando yo estoy enrabietado mi cara se constriñe, mis músculos se tensan y estoy seguro de que doy una imagen de todo menos estar relajado. Aquí el Dr Kalpin establece una distinción crucial. **El asunto es el siguiente: ¿qué siente realmente la gente cuando siente ira?** Resulta fascinante preguntarlo. 
 
-Lo que la mayor parte de la gente describe es ansiedad. Si les preguntas en términos físicos y fisiológicos lo que experimentan corporalmente cuando sienten ira, la mayoría describirá algún tipo de ansiedad. La constricción de la voz, a la respiración corta y la tensión muscular son todas señales de ansiedad, no de ira. Exactamente. Su ira no es una experiencia fisiológica la están escenificando.
+**Lo que la mayor parte de la gente describe es ansiedad.** Si les preguntas en términos físicos y fisiológicos lo que experimentan corporalmente cuando sienten ira, la mayoría describirá algún tipo de ansiedad. La constricción de la voz, a la respiración corta y la tensión muscular son todas señales de ansiedad, no de ira. Exactamente. Su ira no es una experiencia fisiológica la están escenificando.
 
-La actuación con estallidos de rabia es una defensa contra la ansiedad que acompaña invariablemente la ira de los niños. La ira provoca ansiedad, porque coexisten con sentimientos positivos, con el amor y un deseo de contacto, pero dado que la ira conduce a una energía hostil, supone una amenaza para los vínculos.
+La actuación con estallidos de rabia es una defensa contra la ansiedad que acompaña invariablemente la ira de los niños. La ira provoca ansiedad, porque coexisten con sentimientos positivos, con el amor y un deseo de contacto, pero **dado que la ira conduce a una energía hostil, supone una amenaza para los vínculos.**
 
-Así, existe un factor básicamente provocador de la ansiedad en la expresión de la ira, incluso sin la necesidad de que exista una prohibición expresa de la expresión de la ira por parte de los padres. Los impulsos agresivos son reprimidos por la culpa y la culpa existe únicamente debido a la existencia simultánea de amor y sentimientos positivos dice Kalpin. De modo que la ira no existe en el vacío por sí sola. El hecho de sentir emociones agresivas hacia un ser querido es una fuente increíble de ansiedad y culpa.
+Así, **existe un factor básicamente provocador de la ansiedad en la expresión de la ira,** incluso sin la necesidad de que exista una prohibición expresa de la expresión de la ira por parte de los padres. Los impulsos agresivos son reprimidos por la culpa y la culpa existe únicamente debido a la existencia simultánea de amor y sentimientos positivos, dice Kalpin. **De modo que la ira no existe en el vacío por sí sola. El hecho de sentir emociones agresivas hacia un ser querido es una fuente increíble de ansiedad y culpa.**
 
-Naturalmente cuanto más desaconsejen y prohíben los padres la experiencia de la ira, mayor ansiedad producirán esas experiencias en el niño. En todos los casos en los que la ira está completamente reprimida o en que la represión crónica se alterna con estallidos explosivos, la historia resultante es una infancia temprana en la que los padres fueron incapaces de aceptar la ira natural del niño.
+**Naturalmente cuanto más desaconsejen y prohíben los padres la experiencia de la ira, mayor ansiedad producirán esas experiencias en el niño.** En todos los casos en los que la ira está completamente reprimida o en que la represión crónica se alterna con estallidos explosivos, la historia resultante es una infancia temprana en la que los padres fueron incapaces de aceptar la ira natural del niño.
 
-Si una persona teme inconscientemente el poder de sus impulsos agresivos, existen varias formas de defensa a su disposición. Una de ellas es la descarga, mediante la cual regresamos a un estado de infancia temprana, durante la cual expresamos el intolerable aumento de ira mediante una sobreactuación. Verás la sobreactuación al levantar la voz, los gritos e incluso los golpes, todo aquello qué hace una persona, sirve de defensa contra la experiencia de la ira. Es una defensa para evitar que la ira permanezca en nuestro interior donde puede ser sentida profundamente. La descarga nos defiende contra la verdadera experiencia de la ira.
+Si una persona teme inconscientemente el poder de sus impulsos agresivos, existen varias formas de defensa a su disposición. Una de ellas es la descarga, mediante la cual regresamos a un estado de infancia temprana, durante la cual expresamos el intolerable aumento de ira mediante una sobreactuación. Verás la sobreactuación al levantar la voz, los gritos e incluso los golpes, todo aquello qué hace una persona, sirve de defensa contra la experiencia de la ira. **Es una defensa para evitar que la ira permanezca en nuestro interior donde puede ser sentida profundamente. La descarga nos defiende contra la verdadera experiencia de la ira.**
 
 Otra forma de evitar la experiencia de la ira es a través de la represión, de modo que tanto la represión como la descarga son dos caras de una misma moneda. Ambas representan miedo y ansiedad y por esa razón ambas provocan respuestas fisiológicas al estrés independientemente de lo que sintamos por ejemplo el sentir de manera consciente.
-La ansiedad en torno a la ira y otras emociones negativas como la tristeza y el rechazo pueden incrustarse profundamente en el cuerpo y finalmente se traducen en cambios biológicos a través de las interconexiones múltiples e infinitamente sutiles del aparato psiconeuroinmunología endocrino. El punto de unión entre el cuerpo y la mente. Cuando la ira queda desarmada lo mismo le sucede al sistema inmunitario. Cuando la energía agresiva de la ira se desvía hacia adentro, el sistema inmunitario se vuelve confuso. Nuestras defensas fisiológicas dejan de protegernos o pueden incluso amotinarse y atacar el cuerpo.
+
+La ansiedad en torno a la ira y otras emociones negativas como la tristeza y el rechazo pueden incrustarse profundamente en el cuerpo y finalmente se traducen en cambios biológicos a través de las interconexiones múltiples e infinitamente sutiles del aparato psiconeuroinmunología endocrino. El punto de unión entre el cuerpo y la mente. Cuando la ira queda desarmada lo mismo le sucede al sistema inmunitario. **Cuando la energía agresiva de la ira se desvía hacia adentro, el sistema inmunitario se vuelve confuso.** Nuestras defensas fisiológicas dejan de protegernos o pueden incluso amotinarse y atacar el cuerpo.
 
 Puede ser útil ver el cáncer menos como una enfermedad que como un trastorno de las señales bioquímicas del cuerpo escribió el psicoterapeuta Luis Ormont, que trabajó para activar la ira de la gente en terapias de grupo con pacientes de cáncer.
 
@@ -336,46 +386,48 @@ Dado que las emociones influyen de manera decisiva sobre el sistema bioquímico,
 
 A las personas con cáncer o enfermedades autoinmunes, fatiga crónica o fibromialgia, o con enfermedades neuronales potencialmente debilitantes a menudo se les anima a relajarse, a pensar positivamente y a reducir sus niveles de estrés. Todos ellos son buenos consejos, pero imposibles de llevar a cabo si una de las mayores fuentes de estrés no está claramente identificada y tratada la interiorización de la ira.
 
-Dado que la ira no existe en el vacío, si siento ira debe ser en respuesta a cierta percepción por mi parte puede ser una respuesta a una pérdida o a su amenaza en una relación personal, o puede ser una señal de una invasión real o potencial de mis límites. 
+**Dado que la ira no existe en el vacío, si siento ira debe ser en respuesta a cierta percepción por mi parte **puede ser una respuesta a una pérdida o a su amenaza en una relación personal, o puede ser una señal de una invasión real o potencial de mis límites. 
 
-Estaré enormemente empoderado sin necesidad de herir a nadie si me permito experimentar la ira y estudiar lo que ha podido provocarla. Dependiendo de las circunstancias, puedo optar por manifestar la ira de algún modo o dejarla marchar. Lo importante es que no reprima su experiencia. Puedo optar por mostrar la ira con palabras o actos, pero no necesito exagerarla en forma de una descarga incontrolada. La vida saludable pone al individuo y no a la emoción incontrolada al mando.
+**Estaré enormemente empoderado sin necesidad de herir a nadie si me permito experimentar la ira y estudiar lo que ha podido provocarla.** Dependiendo de las circunstancias, puedo optar por manifestar la ira de algún modo o dejarla marchar. Lo importante es que no reprima su experiencia. **Puedo optar por mostrar la ira con palabras o actos, pero no necesito exagerarla en forma de una descarga incontrolada.** La vida saludable pone al individuo y no a la emoción incontrolada al mando.
 
-La ira es la energía que nos da la madre naturaleza cuando somos niños para dar un paso al frente por nosotros mismos y decir: importo. Dijo el terapeuta Joann Peterson, que dirigía talleres en Isla Gabriola, en la Columbia británica. La diferencia entre la energía saludable de la ira y la energía dañina de la violencia emocional y física es que la ira respeta los límites. 
+**La ira es la energía que nos da la madre naturaleza cuando somos niños para dar un paso al frente por nosotros mismos y decir: importo.** Dijo el terapeuta Joann Peterson, que dirigía talleres en Isla Gabriola, en la Columbia británica. La diferencia entre la energía saludable de la ira y la energía dañina de la violencia emocional y física es que la ira respeta los límites. 
 
-Dar un paso al frente por uno mismo no invade los límites de nadie más. 
+**Dar un paso al frente por uno mismo no invade los límites de nadie más. 
+**
+### 4. Autonomía.
 
-4. Autonomía.
-
-La enfermedad no solo tiene una historia, sino que además cuenta una historia, es la culminación de una vida de lucha por encontrar nuestro ser. Desde una simple óptica biológica puede parecer que la supervivencia del organismo físico debería ser el objetivo último de la naturaleza. Sin embargo, el verdadero objetivo supremo de la naturaleza es la creación de un a psique autónoma y autorregulada. La mente y el espíritu pueden sobrevivir a graves lesiones físicas, pero una y otra vez comprobamos que el cuerpo físico empieza a sucumbir cuando la integridad y libertad síquicas se ven amenazadas.
+**La enfermedad no solo tiene una historia, sino que además cuenta una historia, es la culminación de una vida de lucha por encontrar nuestro ser.** Desde una simple óptica biológica puede parecer que la supervivencia del organismo físico debería ser el objetivo último de la naturaleza. Sin embargo, el verdadero objetivo supremo de la naturaleza es la creación de un a psique autónoma y autorregulada. La mente y el espíritu pueden sobrevivir a graves lesiones físicas, pero una y otra vez comprobamos que el cuerpo físico empieza a sucumbir cuando la integridad y libertad síquicas se ven amenazadas.
 
 Las personas sufren cuando se emborronen sus límites.
 
-En última instancia, la enfermedad es en sí mismo un asunto de límites.
+**En última instancia, la enfermedad es en sí mismo un asunto de límites.**
 
-Lo más común en la vida de los niños no es que violen sus límites, sino que éstos directamente no lleguen a existir. Muchos padres son incapaces de ayudar a su hijo a desarrollar límites, porque ellos mismos nunca fueron capaces de hacerlo en sus años formativos.
+**Lo más común en la vida de los niños no es que violen sus límites, sino que éstos directamente no lleguen a existir.** Muchos padres son incapaces de ayudar a su hijo a desarrollar límites, porque ellos mismos nunca fueron capaces de hacerlo en sus años formativos.
 
-Sin un límite claro entre sí mismo y su progenitor, el niño permanece enredado en la relación. Ese enredamiento constituirá más bien el modelo de su propio modo de relacionarse con el resto del mundo. El enredamiento (creo que el doctor Michael kerr llamó una falta de diferenciación) llega a dominar las relaciones íntimas de uno mismo. Puede adoptar dos formas: retraimiento y una resistencia autolesiva a la autoridad o el cuidado crónico convulsivo de los demás. En algunos ambas formas pueden coexistir dependiendo de la persona con la que estén interactuando en cada momento punto dado que la confusión inmunitaria que conduce a la enfermedad es reflejo de un fracaso para distinguir el yo del no yo, la curación debe incluir el restablecimiento de reclamación de límites de un ser autónomo.
+**Sin un límite claro entre sí mismo y su progenitor, el niño permanece enredado en la relación.** Ese enredamiento constituirá más bien el modelo de su propio modo de relacionarse con el resto del mundo. El enredamiento (creo que el doctor Michael kerr llamó una falta de diferenciación) llega a dominar las relaciones íntimas de uno mismo. 
 
-Experimentamos la vida a través de nuestros cuerpos. Si no somos capaces de verbalizar nuestra experiencia vital, nuestros cuerpos expresan aquello que nuestras mentes y bocas dejan de expresar.
+Puede adoptar dos formas: retraimiento y una resistencia autolesiva a la autoridad o el cuidado crónico convulsivo de los demás. En algunos ambas formas pueden coexistir dependiendo de la persona con la que estén interactuando en cada momento punto dado que la confusión inmunitaria que conduce a la enfermedad es reflejo de un fracaso para distinguir el yo del no yo, la curación debe incluir el restablecimiento de reclamación de límites de un ser autónomo.
+
+Experimentamos la vida a través de nuestros cuerpos. **Si no somos capaces de verbalizar nuestra experiencia vital, nuestros cuerpos expresan aquello que nuestras mentes y bocas dejan de expresar.**
 Un límite personal dice la doctora Peterson, es una experiencia energética de mí misma o de otra persona. No solo comunicamos nuestros límites verbalmente, sino que creo que poseemos una expresión de energía que no es verbal. Los límites son invisibles, resultado de un sentido consciente e interno que define quién soy.
 
-5. Apego
+### 5. Apego
 
-El apego es nuestra conexión con el mundo. En nuestras relaciones de apego más tempranas adquirimos o perdemos la capacidad de permanecer abiertos, autónomos y sanos. En estos primeros lazos de apego, aprendimos a sentir ira OA temer y reprimirla. Fue entonces cuando desarrollamos nuestro sentido de autonomía o sufrimos su atrofia. La conexión también es vital para la curación. Un estudio tras otro concluye que las personas sin contacto social, los solitarios, poseen un mayor riesgo de enfermar mientras que aquellas que disfrutan de apoyo social genuino se enfrenta a los mejores pronósticos sea cual sea la enfermedad.
+**El apego es nuestra conexión con el mundo.** En nuestras relaciones de apego más tempranas adquirimos o perdemos la capacidad de permanecer abiertos, autónomos y sanos. En estos primeros lazos de apego, aprendimos a sentir ira o a temer y reprimirla. Fue entonces cuando desarrollamos nuestro sentido de autonomía o sufrimos su atrofia. La conexión también es vital para la curación. Un estudio tras otro concluye que las personas sin contacto social, los solitarios, poseen un mayor riesgo de enfermar mientras que aquellas que disfrutan de apoyo social genuino se enfrenta a los mejores pronósticos sea cual sea la enfermedad.
 
 La curación requiere y a la vez implica recuperar la vulnerabilidad que nos llevó a desconectarnos emocionalmente. Ya no somos niños impotentes y dependientes, no debemos temer ya la vulnerabilidad emocional.
 
-6. Aseveración
+### 6. Aseveración
 
-Más allá de la aceptación y la conciencia, más allá de la experiencia de la ira y el desarrollo de la autonomía, junto con la celebración de nuestra capacidad de apego y la búsqueda consciente de contacto bien en la aseveración: es la declaración ante el mundo y ante nosotros mismos de que somos y de que somos quienes somos. 
+Más allá de la aceptación y la consciencia, más allá de la experiencia de la ira y el desarrollo de la autonomía, junto con la celebración de nuestra capacidad de apego y la búsqueda consciente de contacto, **viene la aseveración: es la declaración ante el mundo y ante nosotros mismos de que somos y de que somos quienes somos.** 
 
 En muchas ocasiones a lo largo de este libro hemos leído sobre personas que experimentan un terrible vacío cuando no están ocupados haciendo cosas. Debido a este miedo, equiparamos falsamente la realidad con el caos, la existencia con la actividad, el sentido con los logros. 
 
-Pensamos que autonomía y libertad significan libertad para hacer, actuar o reaccionar de la manera que queramos. La aseveración en el sentido de auto declaración es algo más profundo que la autonomía para actuar. Es la proclama de nuestro ser, una valoración positiva de nosotros mismos al margen de nuestra historia, personalidad como habilidades por las percepciones que el mundo tiene de nosotros. La aseveración desafía la creencia profunda de que debemos justificar de algún modo nuestra existencia. No requiere actuar ni reaccionar. Se trata de ser, independientemente de la acción.
+Pensamos que autonomía y libertad significan libertad para hacer, actuar o reaccionar de la manera que queramos.** La aseveración en el sentido de auto declaración es algo más profundo que la autonomía para actuar.** Es la proclama de nuestro ser, una valoración positiva de nosotros mismos al margen de nuestra historia, personalidad como habilidades por las percepciones que el mundo tiene de nosotros. **La aseveración desafía la creencia profunda de que debemos justificar de algún modo nuestra existencia. No requiere actuar ni reaccionar. Se trata de ser, independientemente de la acción.**
 
 De este modo la aseveración puede ser lo opuesto de la acción, no solo en el sentido estricto de negarse a hacer algo que no queremos llevar a cabo, sino deshaciéndonos de la propia necesidad de actuar.
 
-7. Afirmación.
+### 7. Afirmación.
 
 
 
