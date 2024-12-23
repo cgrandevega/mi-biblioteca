@@ -16,6 +16,7 @@
 |240| [Luna Roja](./psicologia/luna-roja.md) | Miranda Gray |
 |243| [Las diosas de cada mujer](./psicologia/las-diosas-de-cada-mujer.md) | Jean Shinoda Bolen |
 |255| [Hábitos Atómicos](./autoayuda/habitos-atomicos.md) | James Clear |
+|257| [El poder de los introvertidos](./autoayuda/el-oider-de-los-introvertidos.md | Susan Cain |
 |259| [Aceptación radical](./Mindfulness/aceptacion-radical.md) | Tara Brach |
 |262| [Conversaciones cruciales](./autoayuda/conversaciones-cruciales.md) | Kerry Patterson |
 |264| [¿Cómo se lo digo? El arte de las conversaciones difíciles](./autoayuda/como-se-lo-digo.md) | Enrique Sacanell |

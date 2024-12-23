@@ -71,9 +71,9 @@ Ahora bien y si tú eres como yo, tu primera reacción a estos resultados sería
 
 Las investigaciones de Crum apuntan a algo más probable: las mentalidades sobre el estrés son eficaces porque afectan no solo tu manera de pensar sino también de actuar. Si juzgas que la ansiedad es dañina entonces esta resulta algo por evitar. Sentirte estresado se convierte en una señal para escapar del estrés o reducirlo. Y en efecto quiénes suscriben la mentalidad de que el estrés dañino tienden a decir que su reacción a él consiste en tratar de evitarlo, por ejemplo, tienden a:
 
--	distraerse de la causa del estrés en vez de hacerle frente.
+-	Distraerse de la causa del estrés en vez de hacerle frente.
 
--	querer librarse de esas sensaciones de estrés en lugar de dar pasos para atacar su origen.
+-	Querer librarse de esas sensaciones de estrés en lugar de dar pasos para atacar su origen.
 
 -	Recurrir a una Copa OA otras sustancias adictivas para escapar de él.
 
@@ -123,7 +123,7 @@ Una vez que empieces a buscar mentalidades sobre el estrés las verás en todas 
 
 A finales de la década de 1990 se verificó un experimento inusual en la unidad de traumatología de un hospital de Akron, Ohio. A individuos que acaban de sobrevivir a un grave accidente de automóvil a todos se les pedía orinar en un vaso punto estas muestras de orina formaban parte de un estudio sobre el trastorno de estrés postraumático TEP. Los investigadores querían saber si era posible predecir quién quiénes desarrollarían TEP en base a nivel de hormonas del estrés inmediatamente posterior al traumatismo. Un mes después del accidente 9 de los 55 individuos se les diagnosticó trastorno de estrés postraumático. Tenían recuerdos súbitos y pesadillas. Intentaban olvidar el accidente y no conducían evitaban las autopistas o se negaban a hablar de lo ocurrido. El 46 pacientes restantes no presentaban esos síntomas punto el perfil  post traumático de orina de estos individuos más resiliente era distinto al que desarrollaron el trastorno de estrés postraumático. Tenían un nivel más alto de cortisol y adrenalina dos de las hormonas del estrés.
 
-**El cortisol y la adrenalina forman parte de lo que los científicos llaman la respuesta al estrés es decir una serie de cambios biológicos que te ayudan a hacer frente a situaciones tensas.** Aunque el propósito de estos cambios es ayudarnos coma la respuesta de estrés es más temida que apreciara. **En muchos sentidos la respuesta al estrés es nuestro mejor aliado en momentos difíciles un recurso en el que confiar más que un enemigo a vencer.**
+**El cortisol y la adrenalina forman parte de lo que los científicos llaman la respuesta al estrés es decir, una serie de cambios biológicos que te ayudan a hacer frente a situaciones tensas.** Aunque el propósito de estos cambios es ayudarnos coma la respuesta de estrés es más temida que apreciara. **En muchos sentidos la respuesta al estrés es nuestro mejor aliado en momentos difíciles un recurso en el que confiar más que un enemigo a vencer.**
 
 El estudio de supervivientes accidentes en la unidad de traumatología de akron fue solo el primero de varios que demuestran que una intensa respuesta física al estrés predice una mejora recuperación a largo plazo de un suceso traumático.
 
